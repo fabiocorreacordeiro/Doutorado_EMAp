@@ -1,0 +1,1001 @@
+,id,date,pilot,local,country,duration,straight_line_distance(km),olc_distance(km),olc_pontuation,track_class,equipment,brand,flightLink
+0,row_492594,24/02/2021,Gilvan Alves,Pedra Bonita - BR,Brasil,0:11,1.6,2.9,4.32,Distância livre,Parapente - Sport,Icaro Paragliders WildcatTE M,http://www.xcbrasil.com.br//flight/492594
+1,row_492378,23/02/2021,Dennis Feld,Pedra Bonita - BR,Brasil,1:02,8.2,18.9,33.00,Triângulo livre,Parapente - Open,Flow XCracer M,http://www.xcbrasil.com.br//flight/492378
+2,row_492399,23/02/2021,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:01,8.1,16.2,32.45,Triângulo FAI,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/492399
+3,row_492403,23/02/2021,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:02,8.2,17.4,30.37,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/492403
+4,row_492573,23/02/2021,Glauco  Cavalcanti,Pedra Bonita - BR,Brasil,1:15,6.7,14.7,25.65,Triângulo livre,Asa delta FAI1 - Kingpost,Moyes Lite Speed Rx4,http://www.xcbrasil.com.br//flight/492573
+5,row_492392,23/02/2021,Phil Haegler,Pedra Bonita - BR,Brasil,0:37,6.4,9.2,13.73,Distância livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/492392
+6,row_492401,23/02/2021,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:49,6.1,7.5,11.29,Distância livre,Parapente - Sport,SOL Ciclus1,http://www.xcbrasil.com.br//flight/492401
+7,row_492571,23/02/2021,Thiago Cotta,Pedra Bonita - BR,Brasil,0:35,1.7,4.8,9.65,Triângulo FAI,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/492571
+8,row_492411,23/02/2021,Mauricio Simoes,Pedra Bonita - BR,Brasil,0:24,1.9,5.0,7.50,Distância livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/492411
+9,row_492408,23/02/2021,Gustavo Lenine Velasco de Oliveira,Pedra Bonita - BR,Brasil,1:33,1.7,4.3,6.49,Distância livre,Parapente - Sport,Apco VISTA3 L,http://www.xcbrasil.com.br//flight/492408
+10,row_492544,23/02/2021,Andre Malicia,Pedra Bonita - BR,Brasil,0:31,1.8,3.9,5.92,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/492544
+11,row_492370,23/02/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:37,1.6,2.4,3.56,Distância livre,,SOL Ellus 2,http://www.xcbrasil.com.br//flight/492370
+12,row_491886,21/02/2021,Dennis Feld,Pedra Bonita - BR,Brasil,1:13,2.7,7.4,14.71,Triângulo FAI,Parapente - Open,Flow XCracer M,http://www.xcbrasil.com.br//flight/491886
+13,row_491928,21/02/2021,Phil Haegler,Pedra Bonita - BR,Brasil,0:51,1.7,4.1,6.14,Distância livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/491928
+14,row_492438,21/02/2021,Yago Almeida,Pedra Bonita - BR,Brasil,0:05,1.7,2.4,3.61,Distância livre,Parapente - Open,Sup Air EONA 2,http://www.xcbrasil.com.br//flight/492438
+15,row_492440,21/02/2021,Yago Almeida,Pedra Bonita - BR,Brasil,0:05,1.7,2.3,3.41,Distância livre,Parapente - Open,Sup Air EONA 2,http://www.xcbrasil.com.br//flight/492440
+16,row_492543,20/02/2021,Andre Malicia,Pedra Bonita - BR,Brasil,0:21,1.8,3.6,5.43,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/492543
+17,row_491628,20/02/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:36,1.6,3.2,4.78,Distância livre,,SOL Ellus 2,http://www.xcbrasil.com.br//flight/491628
+18,row_491688,20/02/2021,Fabricio Negri,Pedra Bonita - BR,Brasil,0:14,1.7,2.9,4.29,Distância livre,Parapente,SOL Atmus 2,http://www.xcbrasil.com.br//flight/491688
+19,row_491456,19/02/2021,gildas epaud,Pedra Bonita - BR,Brasil,0:50,2.1,6.3,12.57,Triângulo FAI,Parapente - Sport,Gin Explorer S,http://www.xcbrasil.com.br//flight/491456
+20,row_491468,19/02/2021,marcos  menezes,Pedra Bonita - BR,Brasil,0:43,1.7,5.6,8.41,Distância livre,Parapente,SOL Paragliders Prymus,http://www.xcbrasil.com.br//flight/491468
+21,row_491424,19/02/2021,Fernando Magalhaes,Pedra Bonita - BR,Brasil,1:07,1.8,4.0,5.96,Distância livre,Parapente,Gin Explorer,http://www.xcbrasil.com.br//flight/491424
+22,row_491555,19/02/2021,Muriel Aparecida de Souza,Pedra Bonita - BR,Brasil,0:51,1.6,3.3,4.88,Distância livre,Parapente - Sport,SOL Ellus5 XS,http://www.xcbrasil.com.br//flight/491555
+23,row_491533,19/02/2021,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:09,1.7,2.6,3.89,Distância livre,Parapente - Open,Sky Paragliders KUDOS2 L,http://www.xcbrasil.com.br//flight/491533
+24,row_491161,18/02/2021,Eduardo  Locatelli,Pedra Bonita - BR,Brasil,0:19,1.8,3.9,5.85,Distância livre,Asa delta FAI1 - Kingpost,skyway 195,http://www.xcbrasil.com.br//flight/491161
+25,row_491187,18/02/2021,Eduardo  Locatelli,Pedra Bonita - BR,Brasil,0:19,1.8,3.5,5.31,Distância livre,Asa delta FAI1 - Kingpost,skyway 195,http://www.xcbrasil.com.br//flight/491187
+26,row_491162,18/02/2021,Marcelo Nicolau Maciel,Pedra Bonita - BR,Brasil,0:21,1.7,3.4,5.14,Distância livre,Parapente,Niviuk Koyot 2,http://www.xcbrasil.com.br//flight/491162
+27,row_491168,18/02/2021,Roberto Peters de Miranda Galhego,Pedra Bonita - BR,Brasil,0:07,1.7,3.2,4.77,Distância livre,Parapente - Sport,Niviuk Takoo 3 42,http://www.xcbrasil.com.br//flight/491168
+28,row_491184,18/02/2021,Eduardo  Locatelli,Pedra Bonita - BR,Brasil,0:08,1.7,3.1,4.59,Distância livre,Asa delta FAI1 - Kingpost,skyway 195,http://www.xcbrasil.com.br//flight/491184
+29,row_491158,18/02/2021,Marcelo Nicolau Maciel,Pedra Bonita - BR,Brasil,0:11,1.6,3.0,4.46,Distância livre,Parapente,Niviuk Koyot 2,http://www.xcbrasil.com.br//flight/491158
+30,row_491576,18/02/2021,Renata Martin,Pedra Bonita - BR,Brasil,0:19,1.7,2.8,4.21,Distância livre,Parapente - Sport,Nova Prion3 XS,http://www.xcbrasil.com.br//flight/491576
+31,row_491578,18/02/2021,Renata Martin,Pedra Bonita - BR,Brasil,0:07,1.7,2.5,3.69,Distância livre,Parapente - Sport,Nova Prion3 XS,http://www.xcbrasil.com.br//flight/491578
+32,row_491528,17/02/2021,Luca Haegler,Pedra Bonita - BR,Brasil,0:10,2.2,4.1,6.18,Distância livre,Parapente - Fun Cup,Skywalk Mescal5 M,http://www.xcbrasil.com.br//flight/491528
+33,row_491044,17/02/2021,marcos  menezes,Pedra Bonita - BR,Brasil,1:11,1.7,3.4,5.17,Distância livre,Parapente,SOL Paragliders Prymus,http://www.xcbrasil.com.br//flight/491044
+34,row_491529,17/02/2021,Luca Haegler,Pedra Bonita - BR,Brasil,0:11,1.8,3.2,4.77,Distância livre,Parapente - Fun Cup,Skywalk Mescal5 M,http://www.xcbrasil.com.br//flight/491529
+35,row_491066,17/02/2021,Eduardo  Locatelli,Pedra Bonita - BR,Brasil,0:08,1.8,3.2,4.76,Distância livre,Asa delta FAI1 - Kingpost,skyway 195,http://www.xcbrasil.com.br//flight/491066
+36,row_491034,17/02/2021,Eduardo  Locatelli,Pedra Bonita - BR,Brasil,0:09,1.7,3.0,4.49,Distância livre,Asa delta FAI1 - Kingpost,skyway 195,http://www.xcbrasil.com.br//flight/491034
+37,row_491291,17/02/2021,Fabricio Negri,Pedra Bonita - BR,Brasil,0:26,1.7,2.8,4.20,Distância livre,Parapente,SOL Atmus 2,http://www.xcbrasil.com.br//flight/491291
+38,row_491043,17/02/2021,marcos  menezes,Pedra Bonita - BR,Brasil,0:14,1.7,2.8,4.14,Distância livre,Parapente,SOL Paragliders Prymus,http://www.xcbrasil.com.br//flight/491043
+39,row_491151,17/02/2021,fernando nogueira,Pedra Bonita - BR,Brasil,0:21,1.7,2.7,4.00,Distância livre,Parapente - Sport,Icaro Paragliders WildcatTE M,http://www.xcbrasil.com.br//flight/491151
+40,row_490792,16/02/2021,ALBERTO  junior,Pedra Bonita - BR,Brasil,0:13,1.8,3.3,4.93,Distância livre,Parapente - Sport,BGD Cure,http://www.xcbrasil.com.br//flight/490792
+41,row_490770,16/02/2021,marcos  menezes,Pedra Bonita - BR,Brasil,0:08,1.9,3.2,4.85,Distância livre,Parapente,SOL Paragliders Prymus,http://www.xcbrasil.com.br//flight/490770
+42,row_491527,16/02/2021,Luca Haegler,Pedra Bonita - BR,Brasil,0:06,1.9,3.2,4.81,Distância livre,Parapente - Fun Cup,Skywalk Mescal5 M,http://www.xcbrasil.com.br//flight/491527
+43,row_491525,16/02/2021,Luca Haegler,Pedra Bonita - BR,Brasil,0:08,1.8,3.0,4.56,Distância livre,Parapente - Fun Cup,Skywalk Mescal5 M,http://www.xcbrasil.com.br//flight/491525
+44,row_490823,16/02/2021,Eduardo  Locatelli,Pedra Bonita - BR,Brasil,0:07,1.8,3.0,4.54,Distância livre,Asa delta FAI1 - Kingpost,skyway 195,http://www.xcbrasil.com.br//flight/490823
+45,row_490785,16/02/2021,Eduardo  Locatelli,Pedra Bonita - BR,Brasil,0:07,1.7,2.8,4.19,Distância livre,Asa delta FAI1 - Kingpost,skyway 195,http://www.xcbrasil.com.br//flight/490785
+46,row_490771,16/02/2021,marcos  menezes,Pedra Bonita - BR,Brasil,0:06,1.7,2.7,4.04,Distância livre,Parapente,SOL Paragliders Prymus,http://www.xcbrasil.com.br//flight/490771
+47,row_490762,16/02/2021,Marcelo Nicolau Maciel,Pedra Bonita - BR,Brasil,0:07,1.5,2.5,3.82,Distância livre,Parapente,Niviuk Koyot 2,http://www.xcbrasil.com.br//flight/490762
+48,row_490907,16/02/2021,Fabricio Negri,Pedra Bonita - BR,Brasil,0:10,1.7,2.5,3.78,Distância livre,Parapente,SOL Atmus 2,http://www.xcbrasil.com.br//flight/490907
+49,row_490720,16/02/2021,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:08,1.7,2.5,3.73,Distância livre,Parapente,Niviuk Hulk5,http://www.xcbrasil.com.br//flight/490720
+50,row_490735,16/02/2021,Rodrigo Silva,Pedra Bonita - BR,Brasil,0:09,1.6,2.3,3.47,Distância livre,Parapente - Sport,SOL CyclusOne L,http://www.xcbrasil.com.br//flight/490735
+51,row_490530,15/02/2021,ALBERTO  junior,Pedra Bonita - BR,Brasil,0:13,1.9,4.2,6.36,Distância livre,Parapente - Sport,BGD Cure,http://www.xcbrasil.com.br//flight/490530
+52,row_491524,14/02/2021,Luca Haegler,Pedra Bonita - BR,Brasil,0:10,1.6,2.7,3.99,Distância livre,Parapente - Fun Cup,Skywalk Mescal5 M,http://www.xcbrasil.com.br//flight/491524
+53,row_490428,14/02/2021,Fabricio Negri,Pedra Bonita - BR,Brasil,0:06,1.6,2.2,3.34,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/490428
+54,row_490012,12/02/2021,Eduardo  Locatelli,Pedra Bonita - BR,Brasil,0:10,1.7,3.3,4.98,Distância livre,Asa delta FAI1 - Kingpost,skyway 195,http://www.xcbrasil.com.br//flight/490012
+55,row_490000,12/02/2021,Eduardo  Locatelli,Pedra Bonita - BR,Brasil,0:08,1.7,3.1,4.71,Distância livre,Asa delta FAI1 - Kingpost,skyway 195,http://www.xcbrasil.com.br//flight/490000
+56,row_490013,12/02/2021,Eduardo  Locatelli,Pedra Bonita - BR,Brasil,0:07,1.7,3.1,4.63,Distância livre,Asa delta FAI1 - Kingpost,skyway 195,http://www.xcbrasil.com.br//flight/490013
+57,row_490006,12/02/2021,Gilvan Alves,Pedra Bonita - BR,Brasil,0:10,1.7,2.6,3.89,Distância livre,Parapente - Sport,Icaro Paragliders WildcatTE M,http://www.xcbrasil.com.br//flight/490006
+58,row_490008,12/02/2021,Diego Nunes,Pedra Bonita - BR,Brasil,0:05,1.6,2.6,3.84,Distância livre,Parapente - Sport,SOL Ellus5 XL,http://www.xcbrasil.com.br//flight/490008
+59,row_489893,11/02/2021,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:15,8.2,18.7,32.66,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/489893
+60,row_489892,11/02/2021,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:09,8.2,18.3,31.94,Triângulo livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/489892
+61,row_490479,11/02/2021,Vinicius Soares,Pedra Bonita - BR,Brasil,0:08,1.9,4.9,7.38,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/490479
+62,row_489915,11/02/2021,Eduardo  Locatelli,Pedra Bonita - BR,Brasil,0:11,1.8,3.5,5.20,Distância livre,Asa delta FAI1 - Kingpost,skyway 195,http://www.xcbrasil.com.br//flight/489915
+63,row_489894,11/02/2021,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:15,1.7,2.7,4.10,Distância livre,Parapente,Niviuk Hulk5,http://www.xcbrasil.com.br//flight/489894
+64,row_489901,11/02/2021,Gustavo Lenine Velasco de Oliveira,Pedra Bonita - BR,Brasil,0:12,1.6,2.7,4.09,Distância livre,Parapente - Sport,Apco VISTA3 L,http://www.xcbrasil.com.br//flight/489901
+65,row_489877,11/02/2021,Marcelo Nicolau Maciel,Pedra Bonita - BR,Brasil,0:10,1.6,2.6,3.95,Distância livre,Parapente,Niviuk Koyot 2,http://www.xcbrasil.com.br//flight/489877
+66,row_489983,11/02/2021,Thiago  Souza,Pedra Bonita - BR,Brasil,0:06,1.6,2.6,3.89,Distância livre,Parapente - Sport,Skywalk Davincifunky L,http://www.xcbrasil.com.br//flight/489983
+67,row_489709,10/02/2021,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:11,8.3,18.8,37.65,Triângulo FAI,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/489709
+68,row_489702,10/02/2021,Rafael Gomes Xavier,Pedra Bonita - BR,Brasil,1:18,8.4,17.8,31.06,Triângulo livre,Parapente - Sport,Gin Bonanza2 S,http://www.xcbrasil.com.br//flight/489702
+69,row_489794,10/02/2021,Andre Malicia,Pedra Bonita - BR,Brasil,1:46,7.8,12.9,19.41,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/489794
+70,row_489707,10/02/2021,Vinicius Machado Gouvea,Pedra Bonita - BR,Brasil,0:53,2.4,7.7,11.55,Distância livre,Parapente,Advance Iota 2,http://www.xcbrasil.com.br//flight/489707
+71,row_490151,10/02/2021,Renato Rocha,Pedra Bonita - BR,Brasil,0:16,2.0,4.6,6.87,Distância livre,Asa delta FAI1 - Kingpost,02/02/2020 Ellus Five,http://www.xcbrasil.com.br//flight/490151
+72,row_489867,10/02/2021,ighor martins,Pedra Bonita - BR,Brasil,0:14,1.7,4.0,5.93,Distância livre,Parapente - Open,Advance Sigma10 27,http://www.xcbrasil.com.br//flight/489867
+73,row_489818,10/02/2021,Arthur Freires,Pedra Bonita - BR,Brasil,0:09,1.7,3.8,5.73,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/489818
+74,row_492283,10/02/2021,SANDRO LIMA,Pedra Bonita - BR,Brasil,0:29,1.7,3.4,5.06,Distância livre,Parapente - Open,Skywalk Cayenne5 L,http://www.xcbrasil.com.br//flight/492283
+75,row_489699,10/02/2021,Marcelo Nicolau Maciel,Pedra Bonita - BR,Brasil,0:32,1.6,3.3,5.01,Distância livre,Parapente,Niviuk Koyot 2,http://www.xcbrasil.com.br//flight/489699
+76,row_489803,10/02/2021,Eduardo  Locatelli,Pedra Bonita - BR,Brasil,0:08,1.7,3.3,4.98,Distância livre,Asa delta FAI1 - Kingpost,skyway 195,http://www.xcbrasil.com.br//flight/489803
+77,row_491107,10/02/2021,WEVERTON VIEIRA NUNES,Pedra Bonita - BR,Brasil,0:10,1.6,3.1,4.72,Distância livre,Parapente,SOL ATIMUS2 L,http://www.xcbrasil.com.br//flight/491107
+78,row_489791,10/02/2021,Arthur Freires,Pedra Bonita - BR,Brasil,0:13,1.7,3.1,4.62,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/489791
+79,row_492284,10/02/2021,SANDRO LIMA,Pedra Bonita - BR,Brasil,0:20,1.6,3.0,4.43,Distância livre,Parapente - Open,Skywalk Cayenne5 L,http://www.xcbrasil.com.br//flight/492284
+80,row_489776,10/02/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:45,1.6,2.8,4.15,Distância livre,,SOL Ellus 2,http://www.xcbrasil.com.br//flight/489776
+81,row_490481,10/02/2021,Vinicius Soares,Pedra Bonita - BR,Brasil,0:08,1.6,2.7,4.06,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/490481
+82,row_489509,09/02/2021,Dennis Feld,Pedra Bonita - BR,Brasil,1:14,8.2,19.0,33.19,Triângulo livre,Parapente - Open,Flow XCracer M,http://www.xcbrasil.com.br//flight/489509
+83,row_489500,09/02/2021,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:02,8.2,18.8,32.82,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/489500
+84,row_491466,09/02/2021,Leonard Wollmann,Pedra Bonita - BR,Brasil,1:25,3.2,10.5,15.77,Distância livre,Parapente - Open,Flow Fusion ML,http://www.xcbrasil.com.br//flight/491466
+85,row_489501,09/02/2021,Vinicius Machado Gouvea,Pedra Bonita - BR,Brasil,0:33,2.5,6.7,13.36,Triângulo FAI,Parapente,Advance Iota 2,http://www.xcbrasil.com.br//flight/489501
+86,row_489812,09/02/2021,Gustavo Lenine Velasco de Oliveira,Pedra Bonita - BR,Brasil,0:35,2.7,8.0,11.99,Distância livre,Parapente - Sport,Apco VISTA3 L,http://www.xcbrasil.com.br//flight/489812
+87,row_492099,09/02/2021,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,1:10,2.3,5.5,11.02,Triângulo FAI,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/492099
+88,row_489808,09/02/2021,Mauricio Simoes,Pedra Bonita - BR,Brasil,0:41,2.1,6.8,10.20,Distância livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/489808
+89,row_489613,09/02/2021,Eduardo  Locatelli,Pedra Bonita - BR,Brasil,0:11,1.9,4.1,6.21,Distância livre,Asa delta FAI1 - Kingpost,skyway 195,http://www.xcbrasil.com.br//flight/489613
+90,row_489590,09/02/2021,Arthur Freires,Pedra Bonita - BR,Brasil,0:18,1.7,4.0,6.03,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/489590
+91,row_489589,09/02/2021,Arthur Freires,Pedra Bonita - BR,Brasil,0:08,1.7,3.4,5.09,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/489589
+92,row_492094,09/02/2021,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:09,1.9,3.3,4.91,Distância livre,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/492094
+93,row_490480,09/02/2021,Vinicius Soares,Pedra Bonita - BR,Brasil,0:08,1.7,3.2,4.80,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/490480
+94,row_489618,09/02/2021,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:15,1.7,2.9,4.35,Distância livre,Parapente,Niviuk Hulk5,http://www.xcbrasil.com.br//flight/489618
+95,row_491105,09/02/2021,WEVERTON VIEIRA NUNES,Pedra Bonita - BR,Brasil,0:07,1.4,2.8,4.18,Distância livre,Parapente - Sport,SOL ATIMUS2 L,http://www.xcbrasil.com.br//flight/491105
+96,row_489585,09/02/2021,Marcelo Nicolau Maciel,Pedra Bonita - BR,Brasil,0:07,1.6,2.5,3.74,Distância livre,Parapente,Niviuk Koyot 2,http://www.xcbrasil.com.br//flight/489585
+97,row_489503,09/02/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:10,1.6,2.4,3.60,Distância livre,Parapente - Sport,SOL Ellus 2,http://www.xcbrasil.com.br//flight/489503
+98,row_488915,07/02/2021,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:23,10.0,25.0,43.80,Triângulo livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/488915
+99,row_488920,07/02/2021,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:28,8.5,21.7,37.93,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/488920
+100,row_488947,07/02/2021,Dennis Feld,Pedra Bonita - BR,Brasil,1:00,10.0,20.7,36.25,Triângulo livre,Parapente - Open,Flow XCracer M,http://www.xcbrasil.com.br//flight/488947
+101,row_488922,07/02/2021,Rafael Gomes Xavier,Pedra Bonita - BR,Brasil,1:16,8.8,18.8,32.84,Triângulo livre,Parapente - Sport,Gin Bonanza2 S,http://www.xcbrasil.com.br//flight/488922
+102,row_489428,07/02/2021,Mario  Campanella,Pedra Bonita - BR,Brasil,0:59,8.0,15.2,22.86,Distância livre,Asa delta FAI1 - Topless,Icaro 2000 Laminar 13 ST Mylar,http://www.xcbrasil.com.br//flight/489428
+103,row_491462,07/02/2021,Leonard Wollmann,Pedra Bonita - BR,Brasil,0:57,2.3,9.8,14.70,Distância livre,Parapente - Open,Flow Fusion ML,http://www.xcbrasil.com.br//flight/491462
+104,row_488990,07/02/2021,Glaucio Rocha,Pedra Bonita - BR,Brasil,0:51,2.4,6.8,10.23,Distância livre,Parapente - Open,Niviuk Artik 3 27,http://www.xcbrasil.com.br//flight/488990
+105,row_492093,07/02/2021,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:58,2.2,5.9,8.91,Distância livre,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/492093
+106,row_488976,07/02/2021,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:32,1.8,5.7,8.51,Distância livre,Parapente - Sport,SOL Ciclus1,http://www.xcbrasil.com.br//flight/488976
+107,row_488951,07/02/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:57,1.7,3.5,5.30,Distância livre,Parapente - Sport,SOL Ellus 2,http://www.xcbrasil.com.br//flight/488951
+108,row_489335,07/02/2021,WEVERTON VIEIRA NUNES,Pedra Bonita - BR,Brasil,0:07,1.9,3.3,4.99,Distância livre,Parapente - Sport,SOL ATIMUS2 L,http://www.xcbrasil.com.br//flight/489335
+109,row_489041,07/02/2021,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:06,1.7,3.2,4.77,Distância livre,Parapente - Open,Sky Paragliders KUDOS2 L,http://www.xcbrasil.com.br//flight/489041
+110,row_489793,07/02/2021,Andre Malicia,Pedra Bonita - BR,Brasil,0:20,1.6,2.8,4.23,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/489793
+111,row_489268,07/02/2021,Eric  Zeemann,Pedra Bonita - BR,Brasil,0:06,1.6,2.8,4.22,Distância livre,Parapente - Sport,Dudek Plus 28,http://www.xcbrasil.com.br//flight/489268
+112,row_492441,07/02/2021,Yago Almeida,Pedra Bonita - BR,Brasil,0:06,1.7,2.7,4.01,Distância livre,Parapente - Open,Sup Air EONA 2,http://www.xcbrasil.com.br//flight/492441
+113,row_489288,07/02/2021,ricardo perroni,Pedra Bonita - BR,Brasil,0:06,1.6,2.6,3.89,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/489288
+114,row_489287,07/02/2021,ricardo perroni,Pedra Bonita - BR,Brasil,0:15,1.6,2.5,3.77,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/489287
+115,row_488921,07/02/2021,Rodrigo Silva,Pedra Bonita - BR,Brasil,0:06,1.6,2.5,3.75,Distância livre,Parapente - Sport,SOL CyclusOne L,http://www.xcbrasil.com.br//flight/488921
+116,row_492092,03/02/2021,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,1:16,2.0,5.3,10.55,Triângulo FAI,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/492092
+117,row_488621,03/02/2021,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:14,1.7,3.2,4.82,Distância livre,Parapente - Open,Sky Paragliders KUDOS2 L,http://www.xcbrasil.com.br//flight/488621
+118,row_488640,03/02/2021,Vinicius Soares,Pedra Bonita - BR,Brasil,0:05,1.6,2.9,4.35,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/488640
+119,row_490550,03/02/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:30,1.5,2.6,3.84,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/490550
+120,row_488040,03/02/2021,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:05,1.4,2.4,3.67,Distância livre,Parapente,Niviuk Hulk5,http://www.xcbrasil.com.br//flight/488040
+121,row_491135,03/02/2021,Marcio Barroso,Pedra Bonita - BR,Brasil,0:18,1.6,2.4,3.65,Distância livre,Parapente - Sport,SOL Ellus2 XL,http://www.xcbrasil.com.br//flight/491135
+122,row_489792,03/02/2021,Andre Malicia,Pedra Bonita - BR,Brasil,0:08,1.6,2.2,3.30,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/489792
+123,row_487904,02/02/2021,Gilvan Alves,Pedra Bonita - BR,Brasil,0:13,1.7,3.0,4.54,Distância livre,Parapente - Sport,Icaro Paragliders WildcatTE M,http://www.xcbrasil.com.br//flight/487904
+124,row_491512,02/02/2021,Luca Haegler,Pedra Bonita - BR,Brasil,0:07,1.7,2.8,4.19,Distância livre,Parapente - Fun Cup,Skywalk Mescal5 M,http://www.xcbrasil.com.br//flight/491512
+125,row_488041,02/02/2021,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:07,1.7,2.7,4.10,Distância livre,Parapente,Niviuk Hulk5,http://www.xcbrasil.com.br//flight/488041
+126,row_487906,02/02/2021,marcelo araujo dos santos,Pedra Bonita - BR,Brasil,0:09,1.7,2.7,4.03,Distância livre,Parapente - Sport,Airwave Airwave Harmony 30,http://www.xcbrasil.com.br//flight/487906
+127,row_488620,02/02/2021,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:10,1.7,2.6,3.90,Distância livre,Parapente - Open,Sky Paragliders KUDOS2 L,http://www.xcbrasil.com.br//flight/488620
+128,row_487890,02/02/2021,marcelo araujo dos santos,Pedra Bonita - BR,Brasil,0:08,1.6,2.5,3.77,Distância livre,Parapente - Sport,Airwave Airwave Harmony 30,http://www.xcbrasil.com.br//flight/487890
+129,row_487889,02/02/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:07,1.6,2.3,3.51,Distância livre,,Ozone Element 2,http://www.xcbrasil.com.br//flight/487889
+130,row_487895,02/02/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:11,1.5,2.2,3.34,Distância livre,,Ozone Element 2,http://www.xcbrasil.com.br//flight/487895
+131,row_488829,31/01/2021,Shirley Cristina  do Nascimento Soares,Pedra Bonita - BR,Brasil,0:19,1.8,3.3,4.91,Distância livre,Parapente - Sport,Niviuk Hook 3 23,http://www.xcbrasil.com.br//flight/488829
+132,row_487339,31/01/2021,Marcelo Nicolau Maciel,Pedra Bonita - BR,Brasil,0:10,1.7,2.9,4.38,Distância livre,Parapente,Niviuk Koyot 2,http://www.xcbrasil.com.br//flight/487339
+133,row_491511,31/01/2021,Luca Haegler,Pedra Bonita - BR,Brasil,0:09,1.7,2.8,4.24,Distância livre,Parapente - Fun Cup,Skywalk Mescal5 M,http://www.xcbrasil.com.br//flight/491511
+134,row_487296,31/01/2021,jose sergio werner,Pedra Bonita - BR,Brasil,0:09,1.6,2.7,4.03,Distância livre,Parapente - Sport,SOL Prymus5 L,http://www.xcbrasil.com.br//flight/487296
+135,row_487954,31/01/2021,Fabricio Negri,Pedra Bonita - BR,Brasil,0:09,1.8,2.6,3.84,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/487954
+136,row_487270,31/01/2021,jose sergio werner,Pedra Bonita - BR,Brasil,0:08,1.6,2.5,3.78,Distância livre,Parapente - Sport,SOL Prymus5 L,http://www.xcbrasil.com.br//flight/487270
+137,row_487336,31/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:10,1.6,2.5,3.70,Distância livre,,Ozone Element 2,http://www.xcbrasil.com.br//flight/487336
+138,row_487060,30/01/2021,Silvio Pinheiro,Pedra Bonita - BR,Brasil,1:34,1.9,7.0,10.52,Distância livre,Parapente - Open,Nova Mentor4 S,http://www.xcbrasil.com.br//flight/487060
+139,row_487105,30/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:19,1.6,2.6,3.95,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487105
+140,row_487133,30/01/2021,Fabricio Negri,Pedra Bonita - BR,Brasil,0:08,1.6,2.6,3.87,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/487133
+141,row_487135,30/01/2021,Fabricio Negri,Pedra Bonita - BR,Brasil,0:08,1.6,2.5,3.82,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/487135
+142,row_487136,30/01/2021,Fabricio Negri,Pedra Bonita - BR,Brasil,0:00,0.4,0.6,0.86,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/487136
+143,row_488639,26/01/2021,Vinicius Soares,Pedra Bonita - BR,Brasil,0:06,1.6,3.0,4.56,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/488639
+144,row_486078,26/01/2021,Gilvan Alves,Pedra Bonita - BR,Brasil,0:11,1.7,2.6,3.89,Distância livre,Parapente - Sport,Gin Carrera M,http://www.xcbrasil.com.br//flight/486078
+145,row_486053,26/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:06,1.5,2.5,3.77,Distância livre,,Ozone Element 2,http://www.xcbrasil.com.br//flight/486053
+146,row_486079,26/01/2021,Diego Nunes,Pedra Bonita - BR,Brasil,0:05,1.5,2.5,3.71,Distância livre,Parapente - Sport,SOL Ellus5 XL,http://www.xcbrasil.com.br//flight/486079
+147,row_486055,26/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:06,1.6,2.2,3.26,Distância livre,,Ozone Element 2,http://www.xcbrasil.com.br//flight/486055
+148,row_491510,25/01/2021,Luca Haegler,Pedra Bonita - BR,Brasil,0:16,1.7,2.8,4.20,Distância livre,Parapente - Fun Cup,Skywalk Mescal5 M,http://www.xcbrasil.com.br//flight/491510
+149,row_485936,25/01/2021,ricardo perroni,Pedra Bonita - BR,Brasil,0:08,1.6,2.6,3.90,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/485936
+150,row_491509,25/01/2021,Luca Haegler,Pedra Bonita - BR,Brasil,0:07,1.7,2.4,3.57,Distância livre,Parapente - Fun Cup,Skywalk Mescal5 M,http://www.xcbrasil.com.br//flight/491509
+151,row_485799,25/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:06,1.6,2.3,3.49,Distância livre,,Ozone Element 2,http://www.xcbrasil.com.br//flight/485799
+152,row_485920,25/01/2021,Fabricio Negri,Pedra Bonita - BR,Brasil,0:05,1.6,2.2,3.34,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/485920
+153,row_485567,24/01/2021,Glaucio Rocha,Pedra Bonita - BR,Brasil,0:36,1.8,5.4,8.17,Distância livre,Parapente - Open,Niviuk Artik 3 27,http://www.xcbrasil.com.br//flight/485567
+154,row_485758,24/01/2021,Silvio Pinheiro,Pedra Bonita - BR,Brasil,0:51,1.9,4.4,6.60,Distância livre,Parapente - Open,Nova Mentor4 S,http://www.xcbrasil.com.br//flight/485758
+155,row_487102,24/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:09,1.7,3.1,4.62,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487102
+156,row_485504,24/01/2021,Leonardo  Mattos,Pedra Bonita - BR,Brasil,0:09,1.8,3.0,4.53,Distância livre,Parapente - Fun Cup,MacPara muse 4,http://www.xcbrasil.com.br//flight/485504
+157,row_485527,24/01/2021,Leonardo  Mattos,Pedra Bonita - BR,Brasil,0:11,1.6,2.9,4.29,Distância livre,Parapente - Fun Cup,MacPara muse 4,http://www.xcbrasil.com.br//flight/485527
+158,row_485484,24/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:08,1.6,2.7,4.12,Distância livre,,Ozone Element 2,http://www.xcbrasil.com.br//flight/485484
+159,row_485935,24/01/2021,ricardo perroni,Pedra Bonita - BR,Brasil,0:07,1.6,2.6,3.97,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/485935
+160,row_485934,24/01/2021,ricardo perroni,Pedra Bonita - BR,Brasil,0:05,1.4,2.5,3.79,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/485934
+161,row_485776,24/01/2021,Fabricio Negri,Pedra Bonita - BR,Brasil,0:06,1.7,2.4,3.64,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/485776
+162,row_485533,24/01/2021,Marcelo Nicolau Maciel,Pedra Bonita - BR,Brasil,0:07,1.6,2.4,3.64,Distância livre,Parapente,Niviuk Koyot 2,http://www.xcbrasil.com.br//flight/485533
+163,row_486909,24/01/2021,Joao Amaral,Pedra Bonita - BR,Brasil,0:07,1.6,2.4,3.57,Distância livre,Parapente - Sport,Skywalk Mescal S,http://www.xcbrasil.com.br//flight/486909
+164,row_485777,24/01/2021,Fabricio Negri,Pedra Bonita - BR,Brasil,0:04,1.6,2.3,3.47,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/485777
+165,row_485744,24/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:05,1.5,2.2,3.26,Distância livre,,Ozone Element 2,http://www.xcbrasil.com.br//flight/485744
+166,row_489789,23/01/2021,Andre Malicia,Pedra Bonita - BR,Brasil,0:40,1.7,6.4,9.54,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/489789
+167,row_485433,23/01/2021,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:48,1.8,4.7,7.04,Distância livre,Parapente - Sport,SOL Ciclus1,http://www.xcbrasil.com.br//flight/485433
+168,row_487100,23/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:25,1.7,4.2,6.24,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487100
+169,row_485241,23/01/2021,Thiago  Souza,Pedra Bonita - BR,Brasil,0:37,1.8,4.1,6.10,Distância livre,Parapente - Sport,Skywalk Davincifunky L,http://www.xcbrasil.com.br//flight/485241
+170,row_486042,23/01/2021,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:17,1.8,3.7,5.52,Distância livre,Parapente,Niviuk Hulk5,http://www.xcbrasil.com.br//flight/486042
+171,row_485251,23/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:10,1.8,2.9,4.30,Distância livre,,Ozone Element 2,http://www.xcbrasil.com.br//flight/485251
+172,row_485933,23/01/2021,ricardo perroni,Pedra Bonita - BR,Brasil,0:10,1.6,2.6,3.93,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/485933
+173,row_491500,23/01/2021,Luca Haegler,Pedra Bonita - BR,Brasil,0:14,1.7,2.4,3.66,Distância livre,Parapente - Fun Cup,Skywalk Mescal5 M,http://www.xcbrasil.com.br//flight/491500
+174,row_485340,23/01/2021,Fabricio Negri,Pedra Bonita - BR,Brasil,0:05,1.5,2.1,3.13,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/485340
+175,row_485282,22/01/2021,Brenno Cezzare Souza Meneghel,Pedra Bonita - BR,Brasil,2:06,1.9,5.0,9.94,Triângulo FAI,Asa delta FAI1 - Kingpost,WillsWing Andorinha,http://www.xcbrasil.com.br//flight/485282
+176,row_485087,22/01/2021,Leonardo  Mattos,Pedra Bonita - BR,Brasil,0:52,1.8,5.3,7.98,Distância livre,Parapente - Fun Cup,MacPara muse 4,http://www.xcbrasil.com.br//flight/485087
+177,row_489788,22/01/2021,Andre Malicia,Pedra Bonita - BR,Brasil,0:57,1.8,4.9,7.31,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/489788
+178,row_485185,22/01/2021,Eric  Zeemann,Pedra Bonita - BR,Brasil,0:35,1.7,4.5,6.80,Distância livre,Parapente - Sport,Dudek Plus 28,http://www.xcbrasil.com.br//flight/485185
+179,row_485116,22/01/2021,Muriel Aparecida de Souza,Pedra Bonita - BR,Brasil,0:51,1.8,4.5,6.72,Distância livre,Parapente - Open,SOL Ellus5 S,http://www.xcbrasil.com.br//flight/485116
+180,row_485102,22/01/2021,Fernando Magalhaes,Pedra Bonita - BR,Brasil,0:52,1.7,3.9,5.90,Distância livre,Parapente,Gin Explorer,http://www.xcbrasil.com.br//flight/485102
+181,row_485092,22/01/2021,Thiago  Souza,Pedra Bonita - BR,Brasil,0:52,1.7,3.7,5.54,Distância livre,Parapente - Sport,Skywalk Davincifunky L,http://www.xcbrasil.com.br//flight/485092
+182,row_487099,22/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:50,1.7,2.9,4.40,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487099
+183,row_485093,22/01/2021,Gilvan Alves,Pedra Bonita - BR,Brasil,0:11,1.7,2.8,4.22,Distância livre,Parapente - Sport,Gin Carrera M,http://www.xcbrasil.com.br//flight/485093
+184,row_488755,22/01/2021,Mauricio Simoes,Pedra Bonita - BR,Brasil,0:14,1.6,2.5,3.71,Distância livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/488755
+185,row_485137,22/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:07,1.5,2.3,3.46,Distância livre,Parapente - Open,Ozone Element 2,http://www.xcbrasil.com.br//flight/485137
+186,row_485138,22/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:08,1.6,2.3,3.45,Distância livre,Parapente - Open,Ozone Element 2,http://www.xcbrasil.com.br//flight/485138
+187,row_485127,22/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:11,1.6,2.2,3.33,Distância livre,Parapente - Open,Ozone Element 2,http://www.xcbrasil.com.br//flight/485127
+188,row_485888,22/01/2021,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:12,0.5,0.9,1.33,Distância livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/485888
+189,row_484753,21/01/2021,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:12,8.2,17.5,30.60,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/484753
+190,row_489787,21/01/2021,Andre Malicia,Pedra Bonita - BR,Brasil,0:27,1.9,5.4,8.03,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/489787
+191,row_484837,21/01/2021,ighor martins,Pedra Bonita - BR,Brasil,1:08,1.8,4.4,6.60,Distância livre,Parapente - Open,Advance Sigma10 27,http://www.xcbrasil.com.br//flight/484837
+192,row_491499,21/01/2021,Luca Haegler,Pedra Bonita - BR,Brasil,0:28,1.7,4.3,6.47,Distância livre,Parapente - Fun Cup,Skywalk Mescal5 M,http://www.xcbrasil.com.br//flight/491499
+193,row_485183,21/01/2021,Eric  Zeemann,Pedra Bonita - BR,Brasil,0:23,1.7,3.6,5.36,Distância livre,Parapente - Sport,Dudek Plus 28,http://www.xcbrasil.com.br//flight/485183
+194,row_484764,21/01/2021,Arthur Freires,Pedra Bonita - BR,Brasil,0:11,1.7,3.5,5.26,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/484764
+195,row_485184,21/01/2021,Eric  Zeemann,Pedra Bonita - BR,Brasil,0:12,1.7,3.3,5.02,Distância livre,Parapente - Sport,Dudek Plus 28,http://www.xcbrasil.com.br//flight/485184
+196,row_486480,21/01/2021,Rodrigo Silva,Pedra Bonita - BR,Brasil,0:35,1.8,3.3,4.89,Distância livre,Parapente - Sport,SOL cyclus M,http://www.xcbrasil.com.br//flight/486480
+197,row_485891,21/01/2021,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:34,1.7,3.2,4.75,Distância livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/485891
+198,row_484680,21/01/2021,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:35,1.8,3.1,4.72,Distância livre,Parapente - Sport,SOL Ciclus1,http://www.xcbrasil.com.br//flight/484680
+199,row_484840,21/01/2021,ighor martins,Pedra Bonita - BR,Brasil,0:13,1.7,3.1,4.65,Distância livre,Parapente - Open,Advance Sigma10 27,http://www.xcbrasil.com.br//flight/484840
+200,row_487098,21/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:35,1.7,3.1,4.62,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487098
+201,row_485640,21/01/2021,Vinicius Soares,Pedra Bonita - BR,Brasil,0:08,1.6,3.0,4.50,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/485640
+202,row_485932,21/01/2021,ricardo perroni,Pedra Bonita - BR,Brasil,0:27,1.7,3.0,4.47,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/485932
+203,row_485638,21/01/2021,Vinicius Soares,Pedra Bonita - BR,Brasil,0:07,1.6,2.6,3.93,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/485638
+204,row_485931,21/01/2021,ricardo perroni,Pedra Bonita - BR,Brasil,0:27,1.5,2.5,3.70,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/485931
+205,row_484288,20/01/2021,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:50,8.2,17.8,31.07,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/484288
+206,row_491460,20/01/2021,Leonard Wollmann,Pedra Bonita - BR,Brasil,0:32,1.8,4.1,8.18,Triângulo FAI,Parapente - Open,Flow Fusion ML,http://www.xcbrasil.com.br//flight/491460
+207,row_491134,20/01/2021,Marcio Barroso,Pedra Bonita - BR,Brasil,0:16,2.7,4.7,7.11,Distância livre,Parapente - Sport,SOL Ellus2 XL,http://www.xcbrasil.com.br//flight/491134
+208,row_484633,20/01/2021,Eric  Zeemann,Pedra Bonita - BR,Brasil,0:32,1.7,3.8,5.72,Distância livre,Parapente - Sport,Dudek Plus 28,http://www.xcbrasil.com.br//flight/484633
+209,row_488742,20/01/2021,Mauricio Simoes,Pedra Bonita - BR,Brasil,0:17,1.7,3.5,5.31,Distância livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/488742
+210,row_484298,20/01/2021,Thiago  Souza,Pedra Bonita - BR,Brasil,0:28,1.8,3.2,4.81,Distância livre,Parapente - Sport,Skywalk Davincifunky L,http://www.xcbrasil.com.br//flight/484298
+211,row_485637,20/01/2021,Vinicius Soares,Pedra Bonita - BR,Brasil,0:06,1.6,3.1,4.72,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/485637
+212,row_492439,20/01/2021,Yago Almeida,Pedra Bonita - BR,Brasil,0:14,1.8,3.1,4.63,Distância livre,Parapente - Open,Sup Air EONA 2,http://www.xcbrasil.com.br//flight/492439
+213,row_487097,20/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:44,1.7,3.1,4.61,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487097
+214,row_485930,20/01/2021,ricardo perroni,Pedra Bonita - BR,Brasil,0:15,1.6,3.0,4.58,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/485930
+215,row_484430,20/01/2021,Gilnei  Reckziegel,Pedra Bonita - BR,Brasil,0:10,1.7,2.9,4.39,Distância livre,Parapente - Sport,SOL Prymus5 XL,http://www.xcbrasil.com.br//flight/484430
+216,row_484297,20/01/2021,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:21,1.7,2.9,4.33,Distância livre,Parapente - Sport,SOL Ciclus1,http://www.xcbrasil.com.br//flight/484297
+217,row_484529,20/01/2021,Fernando Rosa,Pedra Bonita - BR,Brasil,0:16,1.6,2.9,4.29,Distância livre,Parapente - Open,Ozone Delta3 M,http://www.xcbrasil.com.br//flight/484529
+218,row_484431,20/01/2021,Gilnei  Reckziegel,Pedra Bonita - BR,Brasil,0:14,1.7,2.8,4.21,Distância livre,Parapente - Sport,SOL Prymus5 XL,http://www.xcbrasil.com.br//flight/484431
+219,row_485889,20/01/2021,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:10,1.6,2.8,4.19,Distância livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/485889
+220,row_489785,20/01/2021,Andre Malicia,Pedra Bonita - BR,Brasil,0:17,1.6,2.5,3.82,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/489785
+221,row_484296,20/01/2021,Marcelo Nicolau Maciel,Pedra Bonita - BR,Brasil,0:06,1.6,2.5,3.73,Distância livre,Parapente,Niviuk Koyot 2,http://www.xcbrasil.com.br//flight/484296
+222,row_485136,20/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:09,1.3,2.3,3.43,Distância livre,Parapente - Open,Ozone Element 2,http://www.xcbrasil.com.br//flight/485136
+223,row_485135,20/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:06,1.6,2.1,3.17,Distância livre,Parapente - Open,Ozone Element 2,http://www.xcbrasil.com.br//flight/485135
+224,row_487096,19/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:32,1.7,3.4,5.06,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487096
+225,row_483394,17/01/2021,DANIEL Minahim Araujo da Silva,Pedra Bonita - BR,Brasil,0:07,1.7,2.7,4.01,Distância livre,Asa delta FAI1 - Kingpost,Moyes Malibu 188,http://www.xcbrasil.com.br//flight/483394
+226,row_483312,16/01/2021,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:51,1.5,6.7,10.06,Distância livre,Parapente - Open,SOL Ellus5 L,http://www.xcbrasil.com.br//flight/483312
+227,row_484985,16/01/2021,Fabricio Negri,Pedra Bonita - BR,Brasil,0:12,1.6,2.6,3.85,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/484985
+228,row_483199,15/01/2021,Diego Almeida,Pedra Bonita - BR,Brasil,1:22,1.9,5.4,10.73,Triângulo FAI,Parapente - Sport,Sup Air Step M,http://www.xcbrasil.com.br//flight/483199
+229,row_483537,15/01/2021,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:15,1.7,3.0,4.46,Distância livre,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/483537
+230,row_487095,15/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:08,1.5,2.6,3.97,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487095
+231,row_483160,15/01/2021,Gilvan Alves,Pedra Bonita - BR,Brasil,0:12,1.8,2.6,3.83,Distância livre,Parapente - Sport,Gin Carrera M,http://www.xcbrasil.com.br//flight/483160
+232,row_485886,15/01/2021,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:08,1.7,2.5,3.80,Distância livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/485886
+233,row_485134,15/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:06,1.6,2.2,3.37,Distância livre,Parapente - Open,Ozone Element 2,http://www.xcbrasil.com.br//flight/485134
+234,row_482969,14/01/2021,Marcelo Araripe,Pedra Bonita - BR,Brasil,2:07,8.3,17.7,31.04,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/482969
+235,row_482965,14/01/2021,Mauro Antonio  Sousa Taveira,Pedra Bonita - BR,Brasil,0:47,1.9,5.5,8.30,Distância livre,Parapente,Advance Sigma 10,http://www.xcbrasil.com.br//flight/482965
+236,row_482938,14/01/2021,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,0:22,2.0,5.4,8.16,Distância livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/482938
+237,row_482985,14/01/2021,Andre Malicia,Pedra Bonita - BR,Brasil,0:29,1.7,4.0,5.98,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/482985
+238,row_483006,14/01/2021,Thiago  Souza,Pedra Bonita - BR,Brasil,0:22,1.8,3.5,5.24,Distância livre,Parapente - Sport,Skywalk Davincifunky L,http://www.xcbrasil.com.br//flight/483006
+239,row_483005,14/01/2021,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:11,1.6,3.2,4.83,Distância livre,Parapente - Sport,SOL Ciclus1,http://www.xcbrasil.com.br//flight/483005
+240,row_483055,14/01/2021,Vinicius Soares,Pedra Bonita - BR,Brasil,0:06,1.7,3.2,4.80,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/483055
+241,row_483225,14/01/2021,SANDRO LIMA,Pedra Bonita - BR,Brasil,0:20,1.7,3.2,4.78,Distância livre,Parapente - Open,Axis Vega 3 M,http://www.xcbrasil.com.br//flight/483225
+242,row_483058,14/01/2021,Vinicius Soares,Pedra Bonita - BR,Brasil,0:08,1.7,2.9,4.42,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/483058
+243,row_483539,14/01/2021,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:43,1.7,2.9,4.30,Distância livre,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/483539
+244,row_487094,14/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:11,1.6,2.6,3.93,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487094
+245,row_485133,14/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:07,1.6,2.2,3.29,Distância livre,Parapente - Open,Ozone Element 2,http://www.xcbrasil.com.br//flight/485133
+246,row_483209,13/01/2021,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:47,1.7,3.8,5.73,Distância livre,Parapente - Open,SOL Ellus5 L,http://www.xcbrasil.com.br//flight/483209
+247,row_482854,13/01/2021,Raphael Dionisio,Pedra Bonita - BR,Brasil,0:32,1.7,3.8,5.67,Distância livre,Parapente - Sport,Skywalk chili3 S,http://www.xcbrasil.com.br//flight/482854
+248,row_483074,13/01/2021,Yago Almeida,Pedra Bonita - BR,Brasil,0:18,1.7,3.4,5.15,Distância livre,Parapente - Open,Sup Air EONA 2,http://www.xcbrasil.com.br//flight/483074
+249,row_482853,13/01/2021,Diego Almeida,Pedra Bonita - BR,Brasil,0:18,1.7,2.8,4.22,Distância livre,Parapente - Sport,Sup Air Step M,http://www.xcbrasil.com.br//flight/482853
+250,row_487092,13/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:09,1.7,2.7,3.99,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487092
+251,row_486043,13/01/2021,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:07,1.7,2.6,3.94,Distância livre,Parapente,Niviuk Hulk5,http://www.xcbrasil.com.br//flight/486043
+252,row_485927,13/01/2021,ricardo perroni,Pedra Bonita - BR,Brasil,0:07,1.6,2.3,3.45,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/485927
+253,row_485131,13/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:10,1.6,2.3,3.43,Distância livre,Parapente - Open,Ozone Element 2,http://www.xcbrasil.com.br//flight/485131
+254,row_485132,13/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:06,1.6,2.3,3.40,Distância livre,Parapente - Open,Ozone Element 2,http://www.xcbrasil.com.br//flight/485132
+255,row_485926,12/01/2021,ricardo perroni,Pedra Bonita - BR,Brasil,0:11,1.5,2.8,4.14,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/485926
+256,row_482636,12/01/2021,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:07,1.6,2.7,4.03,Distância livre,Parapente,Niviuk Hulk5,http://www.xcbrasil.com.br//flight/482636
+257,row_487091,12/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:08,1.6,2.5,3.81,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487091
+258,row_485129,12/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:10,1.6,2.2,3.36,Distância livre,Parapente - Open,Ozone Element 2,http://www.xcbrasil.com.br//flight/485129
+259,row_485130,12/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:06,1.6,2.1,3.20,Distância livre,Parapente - Open,Ozone Element 2,http://www.xcbrasil.com.br//flight/485130
+260,row_482468,11/01/2021,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:26,8.4,17.9,31.35,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/482468
+261,row_482466,11/01/2021,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:04,2.2,7.6,11.44,Distância livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/482466
+262,row_483227,11/01/2021,SANDRO LIMA,Pedra Bonita - BR,Brasil,0:36,1.8,4.6,6.93,Distância livre,Parapente - Open,Skywalk Cayenne5 L,http://www.xcbrasil.com.br//flight/483227
+263,row_482471,11/01/2021,Vinicius Soares,Pedra Bonita - BR,Brasil,0:14,1.6,3.1,4.71,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/482471
+264,row_482984,11/01/2021,Andre Malicia,Pedra Bonita - BR,Brasil,0:18,1.7,2.8,4.26,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/482984
+265,row_482470,11/01/2021,Vinicius Soares,Pedra Bonita - BR,Brasil,0:08,1.6,2.8,4.25,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/482470
+266,row_482490,11/01/2021,Raphael Dionisio,Pedra Bonita - BR,Brasil,0:20,1.8,2.8,4.21,Distância livre,Parapente - Sport,Skywalk chili3 S,http://www.xcbrasil.com.br//flight/482490
+267,row_485128,11/01/2021,flavio  Battioli Coimbra,Pedra Bonita - BR,Brasil,0:07,1.7,2.6,3.91,Distância livre,Parapente - Open,Ozone Element 2,http://www.xcbrasil.com.br//flight/485128
+268,row_487090,11/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:13,1.6,2.6,3.86,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487090
+269,row_483541,10/01/2021,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:59,1.9,7.8,11.73,Distância livre,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/483541
+270,row_482557,10/01/2021,Bruno Paes,Pedra Bonita - BR,Brasil,1:15,1.8,6.5,9.81,Distância livre,Parapente - Sport,SOL Ellusfive L,http://www.xcbrasil.com.br//flight/482557
+271,row_482704,10/01/2021,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:59,1.9,5.7,8.61,Distância livre,Parapente - Open,SOL Ellus5 L,http://www.xcbrasil.com.br//flight/482704
+272,row_482221,10/01/2021,Renato Rocha,Pedra Bonita - BR,Brasil,0:23,2.0,5.3,7.96,Distância livre,Asa delta FAI1 - Kingpost,02/02/2020 Ellus Five,http://www.xcbrasil.com.br//flight/482221
+273,row_482271,10/01/2021,Luis Cerqueira,Pedra Bonita - BR,Brasil,1:20,1.8,4.1,6.19,Distância livre,Parapente - Open,Sky Paragliders KUDOS2 L,http://www.xcbrasil.com.br//flight/482271
+274,row_485217,10/01/2021,Gustavo Lenine Velasco de Oliveira,Pedra Bonita - BR,Brasil,0:16,2.0,3.6,5.38,Distância livre,Parapente - Sport,Apco VISTA3 L,http://www.xcbrasil.com.br//flight/485217
+275,row_482582,10/01/2021,Frederick  Borges,Pedra Bonita - BR,Brasil,0:18,1.8,3.4,5.12,Distância livre,Parapente - Open,Skywalk Skywalk Tequila3 S,http://www.xcbrasil.com.br//flight/482582
+276,row_488751,10/01/2021,Mauricio Simoes,Pedra Bonita - BR,Brasil,0:22,1.7,3.3,4.96,Distância livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/488751
+277,row_482983,10/01/2021,Andre Malicia,Pedra Bonita - BR,Brasil,0:41,1.6,3.3,4.89,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/482983
+278,row_483347,10/01/2021,Rennis Oliveira,Pedra Bonita - BR,Brasil,0:14,1.7,3.1,4.69,Distância livre,Parapente - Open,Niviuk Artik 5,http://www.xcbrasil.com.br//flight/483347
+279,row_482475,10/01/2021,Luciano  Silva Bada,Pedra Bonita - BR,Brasil,0:04,1.8,2.5,3.80,Distância livre,Parapente - Open,Skywalk Cayenne5 L,http://www.xcbrasil.com.br//flight/482475
+280,row_482082,09/01/2021,Raphael Dionisio,Pedra Bonita - BR,Brasil,0:13,1.6,2.9,4.39,Distância livre,Parapente - Sport,Skywalk chili3 S,http://www.xcbrasil.com.br//flight/482082
+281,row_483072,09/01/2021,Yago Almeida,Pedra Bonita - BR,Brasil,0:09,1.7,2.7,4.08,Distância livre,Parapente - Open,Sup Air EONA 2,http://www.xcbrasil.com.br//flight/483072
+282,row_481787,08/01/2021,Gilvan Alves,Pedra Bonita - BR,Brasil,0:09,1.8,3.4,5.17,Distância livre,Parapente - Sport,Gin Carrera M,http://www.xcbrasil.com.br//flight/481787
+283,row_487089,08/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:12,1.9,2.7,4.09,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487089
+284,row_482982,07/01/2021,Andre Malicia,Pedra Bonita - BR,Brasil,0:22,1.8,3.4,5.10,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/482982
+285,row_481731,07/01/2021,Raphael Dionisio,Pedra Bonita - BR,Brasil,0:11,1.8,3.2,4.86,Distância livre,Parapente - Sport,Skywalk chili3 S,http://www.xcbrasil.com.br//flight/481731
+286,row_481730,07/01/2021,Raphael Dionisio,Pedra Bonita - BR,Brasil,0:11,1.8,3.0,4.49,Distância livre,Parapente - Sport,Skywalk chili3 S,http://www.xcbrasil.com.br//flight/481730
+287,row_481741,07/01/2021,Vinicius Soares,Pedra Bonita - BR,Brasil,0:06,1.6,2.9,4.35,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/481741
+288,row_481640,07/01/2021,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:12,1.8,2.9,4.31,Distância livre,Parapente - Sport,SOL Ciclus1,http://www.xcbrasil.com.br//flight/481640
+289,row_482627,07/01/2021,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:08,1.6,2.8,4.27,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/482627
+290,row_481708,07/01/2021,Thiago  Souza,Pedra Bonita - BR,Brasil,0:09,1.7,2.8,4.24,Distância livre,Parapente - Sport,Skywalk Davincifunky L,http://www.xcbrasil.com.br//flight/481708
+291,row_487088,07/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:14,1.6,2.8,4.18,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487088
+292,row_481701,07/01/2021,ricardo perroni,Pedra Bonita - BR,Brasil,0:14,1.4,2.6,3.96,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/481701
+293,row_483350,07/01/2021,Rennis Oliveira,Pedra Bonita - BR,Brasil,0:06,1.7,2.5,3.78,Distância livre,Parapente - Open,Niviuk Artik 5,http://www.xcbrasil.com.br//flight/483350
+294,row_481700,07/01/2021,ricardo perroni,Pedra Bonita - BR,Brasil,0:07,1.4,2.5,3.70,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/481700
+295,row_481702,06/01/2021,ricardo perroni,Pedra Bonita - BR,Brasil,0:06,1.5,2.8,4.20,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/481702
+296,row_481539,06/01/2021,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:07,1.7,2.7,4.08,Distância livre,Parapente,Niviuk Hulk5,http://www.xcbrasil.com.br//flight/481539
+297,row_487087,06/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:12,1.6,2.7,4.08,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487087
+298,row_481656,06/01/2021,ricardo perroni,Pedra Bonita - BR,Brasil,0:08,1.5,2.5,3.69,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/481656
+299,row_481528,06/01/2021,Rodrigo Silva,Pedra Bonita - BR,Brasil,0:06,1.7,2.5,3.67,Distância livre,Parapente - Sport,SOL cyclus M,http://www.xcbrasil.com.br//flight/481528
+300,row_481434,05/01/2021,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:53,1.9,4.8,7.15,Distância livre,Parapente - Sport,SOL Ciclus1,http://www.xcbrasil.com.br//flight/481434
+301,row_481433,05/01/2021,Thiago  Souza,Pedra Bonita - BR,Brasil,0:45,1.8,4.6,6.96,Distância livre,Parapente - Sport,Skywalk Davincifunky L,http://www.xcbrasil.com.br//flight/481433
+302,row_481436,05/01/2021,Diego Almeida,Pedra Bonita - BR,Brasil,0:37,1.8,4.2,6.25,Distância livre,Parapente - Sport,Sup Air Step M,http://www.xcbrasil.com.br//flight/481436
+303,row_481460,05/01/2021,Andre Malicia,Pedra Bonita - BR,Brasil,0:33,1.7,3.8,5.65,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/481460
+304,row_482021,05/01/2021,Jose Evandro Brandao,Pedra Bonita - BR,Brasil,0:22,1.7,3.2,4.73,Distância livre,Parapente - Sport,Gradient Golden5 26,http://www.xcbrasil.com.br//flight/482021
+305,row_482626,05/01/2021,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:10,1.6,2.8,4.25,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/482626
+306,row_481430,05/01/2021,Gilvan Alves,Pedra Bonita - BR,Brasil,0:13,1.8,2.8,4.18,Distância livre,Parapente - Sport,Gin Carrera M,http://www.xcbrasil.com.br//flight/481430
+307,row_481454,05/01/2021,Rodrigo Silva,Pedra Bonita - BR,Brasil,0:08,1.7,2.5,3.75,Distância livre,Parapente - Sport,SOL cyclus M,http://www.xcbrasil.com.br//flight/481454
+308,row_481427,05/01/2021,Paulo Victor Fernandes Souza Nasciment,Pedra Bonita - BR,Brasil,0:07,1.6,2.4,3.55,Distância livre,Parapente - Sport,SOL ATIMUS2 L,http://www.xcbrasil.com.br//flight/481427
+309,row_481287,04/01/2021,Dennis Feld,Pedra Bonita - BR,Brasil,1:34,8.1,22.2,33.30,Distância livre,Parapente - Open,Flow XCracer M,http://www.xcbrasil.com.br//flight/481287
+310,row_481277,04/01/2021,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:39,8.2,17.8,31.10,Triângulo livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/481277
+311,row_481286,04/01/2021,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:48,8.1,19.9,29.80,Distância livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/481286
+312,row_483230,04/01/2021,SANDRO LIMA,Pedra Bonita - BR,Brasil,0:30,1.9,5.5,8.19,Distância livre,Parapente - Open,Skywalk Cayenne5 L,http://www.xcbrasil.com.br//flight/483230
+313,row_482907,04/01/2021,Antonio  Valenca,Pedra Bonita - BR,Brasil,0:09,2.1,3.8,7.60,Triângulo FAI,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/482907
+314,row_487086,04/01/2021,silvia castelo branco,Pedra Bonita - BR,Brasil,0:45,1.5,4.5,6.77,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/487086
+315,row_481292,04/01/2021,Glaucio Rocha,Pedra Bonita - BR,Brasil,0:23,1.4,4.3,6.40,Distância livre,Parapente - Open,Niviuk Artik 3 27,http://www.xcbrasil.com.br//flight/481292
+316,row_481255,04/01/2021,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:20,1.8,4.1,6.18,Distância livre,Parapente - Sport,SOL Ciclus1,http://www.xcbrasil.com.br//flight/481255
+317,row_481459,04/01/2021,Andre Malicia,Pedra Bonita - BR,Brasil,0:18,1.4,3.9,5.92,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/481459
+318,row_481407,04/01/2021,Vinicius Soares,Pedra Bonita - BR,Brasil,0:10,1.6,3.6,5.47,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/481407
+319,row_481259,04/01/2021,Diego Nunes,Pedra Bonita - BR,Brasil,0:16,1.6,3.1,4.71,Distância livre,Parapente - Sport,SOL Ellus5 XL,http://www.xcbrasil.com.br//flight/481259
+320,row_481325,04/01/2021,WEVERTON VIEIRA NUNES,Pedra Bonita - BR,Brasil,0:08,1.4,3.1,4.65,Distância livre,Parapente - Sport,SOL ATIMUS2 L,http://www.xcbrasil.com.br//flight/481325
+321,row_481349,04/01/2021,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:21,1.8,2.9,4.30,Distância livre,Parapente - Open,SOL Ellus5 L,http://www.xcbrasil.com.br//flight/481349
+322,row_481141,31/12/2020,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:17,1.8,3.4,5.10,Distância livre,Parapente - Open,Sky Paragliders KUDOS2 L,http://www.xcbrasil.com.br//flight/481141
+323,row_480679,31/12/2020,Marcelo Nicolau Maciel,Pedra Bonita - BR,Brasil,0:20,1.6,2.9,4.38,Distância livre,Parapente,Niviuk Koyot 2,http://www.xcbrasil.com.br//flight/480679
+324,row_481139,30/12/2020,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:06,1.9,3.0,4.51,Distância livre,Parapente - Open,Sky Paragliders KUDOS2 L,http://www.xcbrasil.com.br//flight/481139
+325,row_481140,30/12/2020,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:08,1.7,2.9,4.28,Distância livre,Parapente - Open,Sky Paragliders KUDOS2 L,http://www.xcbrasil.com.br//flight/481140
+326,row_482625,29/12/2020,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:07,1.6,2.9,4.42,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/482625
+327,row_480454,29/12/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:08,1.6,2.9,4.39,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/480454
+328,row_480487,28/12/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:07,1.7,2.7,4.02,Distância livre,Parapente - Open,SOL Ellus5 L,http://www.xcbrasil.com.br//flight/480487
+329,row_480427,28/12/2020,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:08,1.7,2.5,3.75,Distância livre,Parapente - Sport,SOL Ciclus1,http://www.xcbrasil.com.br//flight/480427
+330,row_480127,26/12/2020,Raquel Venceslau,Pedra Bonita - BR,Brasil,1:47,8.8,23.1,34.71,Distância livre,Parapente - Open,Gin Leopard XS,http://www.xcbrasil.com.br//flight/480127
+331,row_480072,26/12/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:02,8.2,18.0,31.44,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/480072
+332,row_480116,26/12/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:04,4.4,11.1,16.66,Distância livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/480116
+333,row_480113,26/12/2020,Glaucio Rocha,Pedra Bonita - BR,Brasil,0:40,2.8,5.8,11.56,Triângulo FAI,Parapente - Open,Niviuk Artik 3 27,http://www.xcbrasil.com.br//flight/480113
+334,row_480253,26/12/2020,isaac rozemberg,Pedra Bonita - BR,Brasil,0:54,2.0,6.7,10.10,Distância livre,Asa delta FAI1 - Kingpost,WillsWing U2 145,http://www.xcbrasil.com.br//flight/480253
+335,row_483544,26/12/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:42,2.3,4.7,9.32,Triângulo FAI,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/483544
+336,row_482906,26/12/2020,Antonio  Valenca,Pedra Bonita - BR,Brasil,0:14,2.3,5.0,8.78,Triângulo livre,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/482906
+337,row_483165,26/12/2020,Luan lima bastos,Pedra Bonita - BR,Brasil,0:25,2.3,5.7,8.52,Distância livre,Parapente - Open,SOL LT1 S,http://www.xcbrasil.com.br//flight/483165
+338,row_480260,26/12/2020,Mauricio Simoes,Pedra Bonita - BR,Brasil,0:29,1.8,4.0,8.01,Triângulo FAI,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/480260
+339,row_483543,26/12/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:26,1.9,4.5,6.79,Distância livre,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/483543
+340,row_480902,26/12/2020,Brenno Cezzare Souza Meneghel,Pedra Bonita - BR,Brasil,0:23,1.8,3.8,5.65,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Andorinha,http://www.xcbrasil.com.br//flight/480902
+341,row_480240,26/12/2020,Eric  Zeemann,Pedra Bonita - BR,Brasil,0:18,1.7,3.7,5.56,Distância livre,Parapente - Sport,Dudek Plus 28,http://www.xcbrasil.com.br//flight/480240
+342,row_480137,26/12/2020,Marcelo Nicolau Maciel,Pedra Bonita - BR,Brasil,0:23,1.6,3.6,5.39,Distância livre,Parapente,Niviuk Koyot 2,http://www.xcbrasil.com.br//flight/480137
+343,row_480121,26/12/2020,Thiago  Souza,Pedra Bonita - BR,Brasil,0:10,1.9,3.6,5.37,Distância livre,Parapente - Sport,Skywalk Davincifunky L,http://www.xcbrasil.com.br//flight/480121
+344,row_480196,26/12/2020,Eric  Zeemann,Pedra Bonita - BR,Brasil,0:24,1.7,3.5,5.24,Distância livre,Parapente - Sport,Dudek Plus 28,http://www.xcbrasil.com.br//flight/480196
+345,row_484988,26/12/2020,Fabricio Negri,Pedra Bonita - BR,Brasil,0:17,1.6,2.8,4.21,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/484988
+346,row_484986,26/12/2020,Fabricio Negri,Pedra Bonita - BR,Brasil,0:14,1.8,2.7,4.12,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/484986
+347,row_480091,26/12/2020,Vinicius Soares,Pedra Bonita - BR,Brasil,0:08,1.7,2.7,4.03,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/480091
+348,row_484987,26/12/2020,Fabricio Negri,Pedra Bonita - BR,Brasil,0:11,1.6,2.6,3.94,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/484987
+349,row_479565,21/12/2020,cristiano da silva silva,Pedra Bonita - BR,Brasil,0:11,1.9,3.9,5.87,Distância livre,Parapente - Open,SOL LotusL L,http://www.xcbrasil.com.br//flight/479565
+350,row_479468,21/12/2020,Thiago  Souza,Pedra Bonita - BR,Brasil,0:08,1.7,3.1,4.70,Distância livre,Parapente - Sport,Skywalk Davincifunky L,http://www.xcbrasil.com.br//flight/479468
+351,row_480453,21/12/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:09,1.6,2.6,3.86,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/480453
+352,row_481169,21/12/2020,Rodrigo Silva,Pedra Bonita - BR,Brasil,0:07,1.7,2.5,3.81,Distância livre,Parapente - Sport,SOL CyclusOne L,http://www.xcbrasil.com.br//flight/481169
+353,row_479497,20/12/2020,Bruno Paes,Pedra Bonita - BR,Brasil,0:21,1.7,3.8,5.75,Distância livre,Parapente - Sport,SOL Ellusfive L,http://www.xcbrasil.com.br//flight/479497
+354,row_479726,20/12/2020,marco azevedo,Pedra Bonita - BR,Brasil,0:20,1.4,3.7,5.56,Distância livre,Asa delta FAI1 - Kingpost,Skyline Skyline Falcon 25,http://www.xcbrasil.com.br//flight/479726
+355,row_480452,20/12/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:19,1.7,3.1,4.63,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/480452
+356,row_479498,20/12/2020,Bruno Paes,Pedra Bonita - BR,Brasil,0:10,1.7,2.7,4.09,Distância livre,Parapente - Sport,SOL Ellusfive L,http://www.xcbrasil.com.br//flight/479498
+357,row_479223,20/12/2020,Fernando Magalhaes,Pedra Bonita - BR,Brasil,0:17,1.7,2.7,4.03,Distância livre,Parapente,Gin Explorer,http://www.xcbrasil.com.br//flight/479223
+358,row_479206,20/12/2020,Vinicius Machado Gouvea,Pedra Bonita - BR,Brasil,0:06,1.7,2.7,4.00,Distância livre,Parapente,Advance Joint 3,http://www.xcbrasil.com.br//flight/479206
+359,row_483073,20/12/2020,Yago Almeida,Pedra Bonita - BR,Brasil,0:24,1.7,2.7,3.98,Distância livre,Parapente - Open,Sup Air EONA 2,http://www.xcbrasil.com.br//flight/483073
+360,row_484990,20/12/2020,Fabricio Negri,Pedra Bonita - BR,Brasil,0:07,1.5,2.4,3.60,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/484990
+361,row_484991,20/12/2020,Fabricio Negri,Pedra Bonita - BR,Brasil,0:08,1.5,2.4,3.59,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/484991
+362,row_484989,20/12/2020,Fabricio Negri,Pedra Bonita - BR,Brasil,0:08,1.5,2.4,3.53,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/484989
+363,row_479056,19/12/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:26,8.1,23.9,35.78,Distância livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/479056
+364,row_479060,19/12/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,0:49,7.9,17.0,29.71,Triângulo livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/479060
+365,row_479701,19/12/2020,Glaucio Rocha,Pedra Bonita - BR,Brasil,0:31,2.7,5.6,11.16,Triângulo FAI,Parapente - Open,Niviuk Artik 3 27,http://www.xcbrasil.com.br//flight/479701
+366,row_479140,19/12/2020,Mauricio Simoes,Pedra Bonita - BR,Brasil,0:56,2.0,5.3,10.56,Triângulo FAI,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/479140
+367,row_483545,19/12/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,1:22,2.1,4.9,7.42,Distância livre,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/483545
+368,row_485923,19/12/2020,Bruno  Menezes,Pedra Bonita - BR,Brasil,0:30,1.7,4.5,6.75,Distância livre,Parapente - Sport,Dudek Optic 2,http://www.xcbrasil.com.br//flight/485923
+369,row_485890,19/12/2020,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:33,1.7,4.3,6.52,Distância livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/485890
+370,row_480451,19/12/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,1:01,1.6,4.1,6.21,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/480451
+371,row_479189,19/12/2020,Waldemar Silva,Pedra Bonita - BR,Brasil,0:32,1.7,4.0,6.06,Distância livre,Parapente - Sport,SOL Atmus One M,http://www.xcbrasil.com.br//flight/479189
+372,row_479190,19/12/2020,Waldemar Silva,Pedra Bonita - BR,Brasil,1:03,1.6,3.4,5.92,Triângulo livre,Parapente - Sport,SOL Atmus One M,http://www.xcbrasil.com.br//flight/479190
+373,row_484984,19/12/2020,Fabricio Negri,Pedra Bonita - BR,Brasil,0:49,1.5,3.8,5.73,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/484984
+374,row_480144,19/12/2020,Marcelo Nicolau Maciel,Pedra Bonita - BR,Brasil,0:15,1.8,3.5,5.18,Distância livre,Parapente,Niviuk Koyot 2,http://www.xcbrasil.com.br//flight/480144
+375,row_480136,19/12/2020,Marcelo Nicolau Maciel,Pedra Bonita - BR,Brasil,0:33,1.7,3.4,5.14,Distância livre,Parapente,Niviuk Koyot 2,http://www.xcbrasil.com.br//flight/480136
+376,row_485887,19/12/2020,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:14,1.2,2.8,4.93,Triângulo livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/485887
+377,row_479338,19/12/2020,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:07,1.7,3.0,4.56,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/479338
+378,row_479204,19/12/2020,WONOWSKI MARIA MALGORZATA,Pedra Bonita - BR,Brasil,0:06,1.2,2.4,3.64,Distância livre,Parapente - Sport,SOL Sycross L,http://www.xcbrasil.com.br//flight/479204
+379,row_479725,18/12/2020,marco azevedo,Pedra Bonita - BR,Brasil,0:06,1.5,3.2,4.81,Distância livre,Asa delta FAI1 - Kingpost,Skyline Skyline Falcon 25,http://www.xcbrasil.com.br//flight/479725
+380,row_479822,17/12/2020,Brenno Cezzare Souza Meneghel,Pedra Bonita - BR,Brasil,0:34,2.0,3.6,5.46,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Andorinha S,http://www.xcbrasil.com.br//flight/479822
+381,row_478630,16/12/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:19,4.1,18.3,27.40,Distância livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/478630
+382,row_478741,16/12/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,1:08,1.6,5.1,7.70,Distância livre,Parapente - Open,SOL Ellus5 L,http://www.xcbrasil.com.br//flight/478741
+383,row_478730,16/12/2020,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:56,1.6,4.7,7.06,Distância livre,Parapente - Sport,SOL Ciclus1,http://www.xcbrasil.com.br//flight/478730
+384,row_478643,16/12/2020,Vinicius Soares,Pedra Bonita - BR,Brasil,0:10,1.6,4.5,6.78,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/478643
+385,row_478731,16/12/2020,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:12,1.7,3.8,5.68,Distância livre,Parapente - Sport,SOL Ciclus1,http://www.xcbrasil.com.br//flight/478731
+386,row_478690,16/12/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:33,1.7,3.3,4.90,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/478690
+387,row_478614,16/12/2020,Vinicius Soares,Pedra Bonita - BR,Brasil,0:06,1.6,3.2,4.83,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/478614
+388,row_478804,16/12/2020,Jhonatta Freitas,Pedra Bonita - BR,Brasil,0:07,1.6,2.9,4.37,Distância livre,Parapente - Open,SOL Ellus 4 XL,http://www.xcbrasil.com.br//flight/478804
+389,row_478742,16/12/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:13,1.6,2.9,4.36,Distância livre,Parapente - Open,SOL Ellus5 L,http://www.xcbrasil.com.br//flight/478742
+390,row_478815,16/12/2020,Mauricio Simoes,Pedra Bonita - BR,Brasil,0:22,1.6,2.9,4.35,Distância livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/478815
+391,row_479339,16/12/2020,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:11,1.6,2.7,4.10,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/479339
+392,row_478803,16/12/2020,Jhonatta Freitas,Pedra Bonita - BR,Brasil,0:08,1.6,2.4,3.64,Distância livre,Parapente - Open,SOL Ellus4 XL,http://www.xcbrasil.com.br//flight/478803
+393,row_483344,16/12/2020,Rennis Oliveira,Pedra Bonita - BR,Brasil,0:08,1.6,2.4,3.64,Distância livre,Parapente - Open,Niviuk Artik 5,http://www.xcbrasil.com.br//flight/483344
+394,row_481654,16/12/2020,ricardo perroni,Pedra Bonita - BR,Brasil,0:06,1.5,2.4,3.62,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/481654
+395,row_479340,16/12/2020,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:09,1.6,2.3,3.52,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/479340
+396,row_478481,15/12/2020,ROBSON PONCIANO,Pedra Bonita - BR,Brasil,0:28,1.6,5.0,7.44,Distância livre,Parapente - Open,Nova Triton 2,http://www.xcbrasil.com.br//flight/478481
+397,row_483071,15/12/2020,Yago Almeida,Pedra Bonita - BR,Brasil,0:42,1.8,4.4,6.55,Distância livre,Parapente - Open,Sup Air EONA 2,http://www.xcbrasil.com.br//flight/483071
+398,row_478986,15/12/2020,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:09,1.7,3.3,4.93,Distância livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/478986
+399,row_478974,15/12/2020,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:10,1.8,3.1,4.63,Distância livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/478974
+400,row_479341,15/12/2020,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:11,1.6,3.0,4.47,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/479341
+401,row_479187,15/12/2020,Waldemar Silva,Pedra Bonita - BR,Brasil,0:08,1.7,2.9,4.32,Distância livre,Parapente - Sport,SOL Atmus One M,http://www.xcbrasil.com.br//flight/479187
+402,row_480450,15/12/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:10,1.6,2.6,3.94,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/480450
+403,row_479342,15/12/2020,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:06,1.6,2.6,3.85,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/479342
+404,row_481584,15/12/2020,ricardo perroni,Pedra Bonita - BR,Brasil,0:06,1.4,2.3,3.42,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/481584
+405,row_478369,14/12/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:43,1.7,4.2,6.35,Distância livre,Parapente - Open,SOL Ellus5 L,http://www.xcbrasil.com.br//flight/478369
+406,row_484992,13/12/2020,Fabricio Negri,Pedra Bonita - BR,Brasil,0:06,1.5,2.3,3.43,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/484992
+407,row_478016,12/12/2020,ALBERTO  junior,Pedra Bonita - BR,Brasil,0:08,1.8,3.0,4.57,Distância livre,Parapente - Sport,BGD Cure,http://www.xcbrasil.com.br//flight/478016
+408,row_478977,12/12/2020,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:07,1.6,2.9,4.30,Distância livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/478977
+409,row_478041,12/12/2020,Felipe Tibirica,Pedra Bonita - BR,Brasil,0:07,1.6,2.8,4.14,Distância livre,Parapente - Sport,SOL CyclusOne L,http://www.xcbrasil.com.br//flight/478041
+410,row_480449,12/12/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:08,1.6,2.6,3.89,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/480449
+411,row_480145,12/12/2020,Marcelo Nicolau Maciel,Pedra Bonita - BR,Brasil,0:07,1.6,2.6,3.86,Distância livre,Parapente,Niviuk Koyot 2,http://www.xcbrasil.com.br//flight/480145
+412,row_479185,12/12/2020,Waldemar Silva,Pedra Bonita - BR,Brasil,0:07,1.6,2.6,3.83,Distância livre,Parapente - Sport,SOL Atmus One M,http://www.xcbrasil.com.br//flight/479185
+413,row_484993,12/12/2020,Fabricio Negri,Pedra Bonita - BR,Brasil,0:07,1.5,2.3,3.50,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/484993
+414,row_484994,12/12/2020,Fabricio Negri,Pedra Bonita - BR,Brasil,0:07,1.6,2.3,3.41,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/484994
+415,row_479203,11/12/2020,WONOWSKI MARIA MALGORZATA,Pedra Bonita - BR,Brasil,0:38,2.0,4.9,7.28,Distância livre,Parapente - Sport,SOL Sycross L,http://www.xcbrasil.com.br//flight/479203
+416,row_491464,11/12/2020,Leonard Wollmann,Pedra Bonita - BR,Brasil,0:59,1.7,4.6,6.87,Distância livre,Parapente - Open,Flow Fusion ML,http://www.xcbrasil.com.br//flight/491464
+417,row_477911,11/12/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:45,1.7,4.2,6.28,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/477911
+418,row_477855,11/12/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:44,1.7,3.7,5.55,Distância livre,Parapente - Open,SOL Ellus5 L,http://www.xcbrasil.com.br//flight/477855
+419,row_477836,11/12/2020,Gilvan Alves,Pedra Bonita - BR,Brasil,0:32,1.7,3.4,5.07,Distância livre,Parapente - Sport,Gin Carrera M,http://www.xcbrasil.com.br//flight/477836
+420,row_477859,11/12/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:14,1.6,3.3,4.89,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/477859
+421,row_477852,11/12/2020,Diego Nunes,Pedra Bonita - BR,Brasil,0:49,1.5,3.2,4.79,Distância livre,Parapente - Sport,SOL Ellus5 XL,http://www.xcbrasil.com.br//flight/477852
+422,row_478979,11/12/2020,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:34,1.8,3.1,4.58,Distância livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/478979
+423,row_477834,11/12/2020,Vinicius Soares,Pedra Bonita - BR,Brasil,0:08,1.7,2.8,4.13,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/477834
+424,row_477433,03/12/2020,Thiago  Souza,Pedra Bonita - BR,Brasil,0:41,1.8,4.3,6.51,Distância livre,Parapente - Sport,Skywalk Davincifunky L,http://www.xcbrasil.com.br//flight/477433
+425,row_477169,03/12/2020,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:48,1.8,4.0,5.96,Distância livre,Parapente - Sport,SOL Ciclus1,http://www.xcbrasil.com.br//flight/477169
+426,row_477261,03/12/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:47,1.7,3.5,5.30,Distância livre,Parapente - Open,SOL Ellus5 L,http://www.xcbrasil.com.br//flight/477261
+427,row_477109,03/12/2020,DANIEL Minahim Araujo da Silva,Pedra Bonita - BR,Brasil,0:06,1.8,3.5,5.24,Distância livre,Asa delta FAI1 - Kingpost,Moyes Malibu 188,http://www.xcbrasil.com.br//flight/477109
+428,row_477124,03/12/2020,DANIEL Minahim Araujo da Silva,Pedra Bonita - BR,Brasil,0:06,1.7,3.0,4.49,Distância livre,Asa delta FAI1 - Kingpost,Moyes Malibu 188,http://www.xcbrasil.com.br//flight/477124
+429,row_476873,02/12/2020,Vinicius Soares,Pedra Bonita - BR,Brasil,0:11,1.7,2.8,4.27,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/476873
+430,row_476907,02/12/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:07,1.6,2.7,3.99,Distância livre,Parapente - Open,SOL Ellus5 L,http://www.xcbrasil.com.br//flight/476907
+431,row_476890,02/12/2020,Vinicius Soares,Pedra Bonita - BR,Brasil,0:10,1.6,2.6,3.92,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/476890
+432,row_476773,30/11/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,1:00,1.8,4.2,6.27,Distância livre,Parapente - Open,SOL Ellus 5,http://www.xcbrasil.com.br//flight/476773
+433,row_476574,30/11/2020,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:14,1.6,3.5,5.29,Distância livre,Parapente - Sport,SOL Ciclus1,http://www.xcbrasil.com.br//flight/476574
+434,row_477112,30/11/2020,CARLOS HENRIQUE  WIEDMER BOSCH,Pedra Bonita - BR,Brasil,0:09,1.5,3.2,4.75,Distância livre,Parapente - Sport,SOL Atmus2 M,http://www.xcbrasil.com.br//flight/477112
+435,row_476837,30/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:10,1.6,2.8,4.20,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/476837
+436,row_476834,29/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:09,1.8,2.8,4.15,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/476834
+437,row_476177,28/11/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:30,8.2,17.4,30.46,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/476177
+438,row_476259,28/11/2020,Thiago  Souza,Pedra Bonita - BR,Brasil,0:37,1.7,4.2,6.24,Distância livre,Parapente - Sport,Skywalk Davincifunky L,http://www.xcbrasil.com.br//flight/476259
+439,row_484429,28/11/2020,Gilnei  Reckziegel,Pedra Bonita - BR,Brasil,0:27,1.7,3.2,4.77,Distância livre,Parapente - Sport,SOL Prymus5 XL,http://www.xcbrasil.com.br//flight/484429
+440,row_476830,28/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:27,1.7,3.2,4.74,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/476830
+441,row_476222,28/11/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:09,1.7,2.5,3.75,Distância livre,Parapente - Open,SOL Ellus5 L,http://www.xcbrasil.com.br//flight/476222
+442,row_484574,27/11/2020,Fernando Rosa,Pedra Bonita - BR,Brasil,0:53,1.8,4.2,6.34,Distância livre,Parapente - Open,Ozone Delta3 M,http://www.xcbrasil.com.br//flight/484574
+443,row_476077,27/11/2020,Walter Fonseca,Pedra Bonita - BR,Brasil,0:59,1.8,4.2,6.25,Distância livre,Parapente - Sport,SOL Sycross2 XL,http://www.xcbrasil.com.br//flight/476077
+444,row_476062,27/11/2020,Renato Rocha,Pedra Bonita - BR,Brasil,0:19,1.8,3.0,4.44,Distância livre,Asa delta FAI1 - Kingpost,02/02/2020 Ellus Five,http://www.xcbrasil.com.br//flight/476062
+445,row_478976,27/11/2020,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:26,1.8,3.0,4.44,Distância livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/478976
+446,row_479343,27/11/2020,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:08,1.6,2.8,4.23,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/479343
+447,row_476106,27/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:08,1.7,2.8,4.20,Distância livre,Parapente,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/476106
+448,row_492395,27/11/2020,Marcilio Santos da silva,Pedra Bonita - BR,Brasil,0:15,1.5,2.7,4.06,Distância livre,Parapente - Sport,Ozone Mojo 3 M,http://www.xcbrasil.com.br//flight/492395
+449,row_478975,27/11/2020,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:08,1.7,2.7,4.03,Distância livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/478975
+450,row_476027,27/11/2020,Leonard Wollmann,Pedra Bonita - BR,Brasil,0:16,1.6,2.7,3.99,Distância livre,Parapente - Open,Flow Fusion ML,http://www.xcbrasil.com.br//flight/476027
+451,row_481583,27/11/2020,ricardo perroni,Pedra Bonita - BR,Brasil,0:07,1.5,2.6,3.91,Distância livre,Parapente - Sport,Skywalk Mescal6 XL,http://www.xcbrasil.com.br//flight/481583
+452,row_492396,27/11/2020,Marcilio Santos da silva,Pedra Bonita - BR,Brasil,0:06,1.5,2.5,3.68,Distância livre,Parapente - Sport,Ozone Mojo 3 M,http://www.xcbrasil.com.br//flight/492396
+453,row_484996,27/11/2020,Fabricio Negri,Pedra Bonita - BR,Brasil,0:07,1.6,2.4,3.61,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/484996
+454,row_484995,27/11/2020,Fabricio Negri,Pedra Bonita - BR,Brasil,0:14,1.6,2.4,3.61,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/484995
+455,row_484997,27/11/2020,Fabricio Negri,Pedra Bonita - BR,Brasil,0:07,1.5,2.3,3.51,Distância livre,Parapente,Ozone Element 2,http://www.xcbrasil.com.br//flight/484997
+456,row_475980,26/11/2020,Conrado Aguiar  Barreto,Pedra Bonita - BR,Brasil,1:34,1.9,6.0,8.95,Distância livre,Parapente - Open,SOL Synergy4,http://www.xcbrasil.com.br//flight/475980
+457,row_476129,26/11/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,1:05,1.9,5.1,7.67,Distância livre,Parapente - Open,Triple Seven Queen 2,http://www.xcbrasil.com.br//flight/476129
+458,row_476019,26/11/2020,FELIPPY  MENDONCA MATOS,Pedra Bonita - BR,Brasil,1:06,1.8,4.6,6.96,Distância livre,Parapente - Sport,Skywalk TEQUILA5,http://www.xcbrasil.com.br//flight/476019
+459,row_476105,26/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:14,1.6,3.3,4.95,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/476105
+460,row_478008,26/11/2020,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:09,1.7,2.6,3.89,Distância livre,Parapente - Sport,Niviuk Koyot,http://www.xcbrasil.com.br//flight/478008
+461,row_475846,25/11/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:33,8.2,18.3,31.95,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/475846
+462,row_475829,25/11/2020,Dennis Feld,Pedra Bonita - BR,Brasil,0:56,8.1,17.6,30.85,Triângulo livre,Parapente - Open,Flow XCracer M,http://www.xcbrasil.com.br//flight/475829
+463,row_475824,25/11/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:16,2.8,9.0,13.50,Distância livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/475824
+464,row_475909,25/11/2020,Thaise Galvan,Pedra Bonita - BR,Brasil,0:53,1.8,5.3,10.59,Triângulo FAI,Asa delta FAI1 - Kingpost,WillsWing Sport 3,http://www.xcbrasil.com.br//flight/475909
+465,row_475881,25/11/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,1:25,1.7,6.9,10.39,Distância livre,Parapente - Open,SOL Ellus 5,http://www.xcbrasil.com.br//flight/475881
+466,row_475870,25/11/2020,FELIPPY  MENDONCA MATOS,Pedra Bonita - BR,Brasil,1:15,1.9,5.7,8.61,Distância livre,Parapente - Sport,Skywalk TEQUILA5,http://www.xcbrasil.com.br//flight/475870
+467,row_479252,25/11/2020,EDEN NUNES,Pedra Bonita - BR,Brasil,1:08,1.7,5.7,8.51,Distância livre,Parapente,SOL Paragliders Sinergy 4,http://www.xcbrasil.com.br//flight/479252
+468,row_475847,25/11/2020,Gilvan Alves,Pedra Bonita - BR,Brasil,0:48,1.7,4.3,6.51,Distância livre,Parapente - Sport,Gin Carrera M,http://www.xcbrasil.com.br//flight/475847
+469,row_475875,25/11/2020,Diego Almeida,Pedra Bonita - BR,Brasil,0:31,1.7,3.7,5.49,Distância livre,Parapente - Sport,Sup Air Step M,http://www.xcbrasil.com.br//flight/475875
+470,row_475928,25/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:41,1.6,3.2,4.80,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/475928
+471,row_475693,24/11/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,0:58,8.1,17.5,30.67,Triângulo livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/475693
+472,row_475698,24/11/2020,Dennis Feld,Pedra Bonita - BR,Brasil,1:15,7.9,17.3,30.36,Triângulo livre,Parapente - Open,Flow XCracer M,http://www.xcbrasil.com.br//flight/475698
+473,row_475775,24/11/2020,Ricardo Martins Pereira e Souza,Pedra Bonita - BR,Brasil,0:47,2.4,10.0,15.01,Distância livre,Asa delta FAI1 - Topless,WillsWing T2C 144,http://www.xcbrasil.com.br//flight/475775
+474,row_475767,24/11/2020,Antonio  Valenca,Pedra Bonita - BR,Brasil,2:20,2.2,9.4,14.17,Distância livre,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/475767
+475,row_475783,24/11/2020,gildas epaud,Pedra Bonita - BR,Brasil,1:43,1.9,8.1,12.22,Distância livre,Parapente - Sport,Gin Explorer S,http://www.xcbrasil.com.br//flight/475783
+476,row_475845,24/11/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,0:39,2.9,7.6,11.38,Distância livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/475845
+477,row_475897,24/11/2020,Thaise Galvan,Pedra Bonita - BR,Brasil,0:46,2.1,5.7,11.33,Triângulo FAI,Asa delta FAI1 - Kingpost,WillsWing Sport 3,http://www.xcbrasil.com.br//flight/475897
+478,row_475722,24/11/2020,ighor martins,Pedra Bonita - BR,Brasil,1:14,1.8,6.5,9.81,Distância livre,Parapente - Open,Advance Sigma10 27,http://www.xcbrasil.com.br//flight/475722
+479,row_475769,24/11/2020,Sidney Correa Netto  Esch,Pedra Bonita - BR,Brasil,2:21,1.8,6.3,9.49,Distância livre,Parapente - Sport,BGD Punk M,http://www.xcbrasil.com.br//flight/475769
+480,row_484578,24/11/2020,Fernando Rosa,Pedra Bonita - BR,Brasil,0:17,1.8,4.1,6.09,Distância livre,Parapente - Open,Ozone Delta3 M,http://www.xcbrasil.com.br//flight/484578
+481,row_475725,24/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,1:00,1.8,3.9,5.92,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/475725
+482,row_475455,23/11/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,2:32,8.6,38.7,57.99,Distância livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/475455
+483,row_475449,23/11/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,0:55,8.2,19.9,34.86,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/475449
+484,row_475458,23/11/2020,Dennis Feld,Pedra Bonita - BR,Brasil,1:16,8.3,18.6,32.55,Triângulo livre,Parapente - Open,Flow XCracer M,http://www.xcbrasil.com.br//flight/475458
+485,row_475901,23/11/2020,Thaise Galvan,Pedra Bonita - BR,Brasil,0:44,8.6,18.4,32.18,Triângulo livre,Asa delta FAI1 - Kingpost,WillsWing Sport 3,http://www.xcbrasil.com.br//flight/475901
+486,row_475784,23/11/2020,gildas epaud,Pedra Bonita - BR,Brasil,0:32,4.3,9.0,15.76,Triângulo livre,Parapente - Sport,Gin Explorer S,http://www.xcbrasil.com.br//flight/475784
+487,row_475476,23/11/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,1:18,3.2,9.8,14.78,Distância livre,Parapente - Open,Triple Seven Queen2 ML,http://www.xcbrasil.com.br//flight/475476
+488,row_475480,23/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,1:30,2.6,8.4,12.53,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/475480
+489,row_475533,23/11/2020,Sidney Correa Netto  Esch,Pedra Bonita - BR,Brasil,0:35,6.5,7.9,11.79,Distância livre,Parapente - Sport,BGD Punk M,http://www.xcbrasil.com.br//flight/475533
+490,row_475494,23/11/2020,Diego Almeida,Pedra Bonita - BR,Brasil,0:40,4.5,7.3,10.88,Distância livre,Parapente - Sport,Sup Air Step M,http://www.xcbrasil.com.br//flight/475494
+491,row_475615,23/11/2020,Andre Malicia,Pedra Bonita - BR,Brasil,1:03,2.1,6.9,10.38,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/475615
+492,row_475478,23/11/2020,Arthur Freires,Pedra Bonita - BR,Brasil,0:41,2.4,6.9,10.31,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/475478
+493,row_475463,23/11/2020,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:35,1.7,6.1,9.20,Distância livre,Parapente - Sport,Niviuk Koyot,http://www.xcbrasil.com.br//flight/475463
+494,row_478813,23/11/2020,Mauricio Simoes,Pedra Bonita - BR,Brasil,0:19,2.4,5.5,8.21,Distância livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/478813
+495,row_475465,23/11/2020,WEVERTON VIEIRA NUNES,Pedra Bonita - BR,Brasil,0:35,1.9,4.5,6.80,Distância livre,Parapente - Sport,SOL ATIMUS2 L,http://www.xcbrasil.com.br//flight/475465
+496,row_475493,23/11/2020,Diego Almeida,Pedra Bonita - BR,Brasil,0:29,1.7,3.4,5.16,Distância livre,Parapente - Sport,Sup Air Step M,http://www.xcbrasil.com.br//flight/475493
+497,row_479344,23/11/2020,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:15,1.5,2.7,4.03,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/479344
+498,row_475263,22/11/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,0:39,6.3,13.3,23.25,Triângulo livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/475263
+499,row_475432,22/11/2020,Antonio  Valenca,Pedra Bonita - BR,Brasil,0:19,2.9,6.3,12.52,Triângulo FAI,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/475432
+500,row_475351,22/11/2020,Arthur Freires,Pedra Bonita - BR,Brasil,0:18,1.7,6.0,9.06,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/475351
+501,row_475056,21/11/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:16,8.1,19.2,33.61,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/475056
+502,row_475053,21/11/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:31,8.5,18.8,32.88,Triângulo livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/475053
+503,row_475386,21/11/2020,Bruno Paes,Pedra Bonita - BR,Brasil,0:50,2.7,10.8,16.16,Distância livre,Parapente - Sport,SOL Ellusfive L,http://www.xcbrasil.com.br//flight/475386
+504,row_475216,21/11/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,1:05,3.5,8.9,13.34,Distância livre,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/475216
+505,row_475613,21/11/2020,Andre Malicia,Pedra Bonita - BR,Brasil,1:03,2.9,8.6,12.97,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/475613
+506,row_483076,21/11/2020,Yago Almeida,Pedra Bonita - BR,Brasil,0:23,3.4,6.3,12.59,Triângulo FAI,Parapente - Open,Sup Air EONA 2,http://www.xcbrasil.com.br//flight/483076
+507,row_475894,21/11/2020,Thaise Galvan,Pedra Bonita - BR,Brasil,0:30,2.3,5.7,11.48,Triângulo FAI,Asa delta FAI1 - Kingpost,WillsWing Sport 3,http://www.xcbrasil.com.br//flight/475894
+508,row_475431,21/11/2020,Antonio  Valenca,Pedra Bonita - BR,Brasil,0:11,2.8,5.7,11.35,Triângulo FAI,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/475431
+509,row_475158,21/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,1:03,2.4,6.5,9.78,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/475158
+510,row_475195,21/11/2020,antonio fonseca,Pedra Bonita - BR,Brasil,1:20,1.7,5.7,8.49,Distância livre,Parapente - Open,Skywalk Cayenne5 M,http://www.xcbrasil.com.br//flight/475195
+511,row_475447,21/11/2020,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:40,1.8,5.5,8.26,Distância livre,Parapente - Sport,Niviuk Koyot,http://www.xcbrasil.com.br//flight/475447
+512,row_478812,21/11/2020,Mauricio Simoes,Pedra Bonita - BR,Brasil,0:18,1.6,4.6,6.96,Distância livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/478812
+513,row_475161,21/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:36,1.6,4.1,6.14,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/475161
+514,row_475924,21/11/2020,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:11,1.7,3.0,4.55,Distância livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/475924
+515,row_475925,21/11/2020,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:13,1.8,3.0,4.47,Distância livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/475925
+516,row_479345,21/11/2020,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:13,1.6,2.8,4.16,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/479345
+517,row_484428,21/11/2020,Gilnei  Reckziegel,Pedra Bonita - BR,Brasil,0:08,1.6,2.7,4.07,Distância livre,Parapente - Sport,SOL Prymus5 XL,http://www.xcbrasil.com.br//flight/484428
+518,row_475203,21/11/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:09,1.6,2.5,3.76,Distância livre,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/475203
+519,row_475385,21/11/2020,Bruno Paes,Pedra Bonita - BR,Brasil,0:07,1.6,2.5,3.76,Distância livre,Parapente - Sport,SOL Ellusfive L,http://www.xcbrasil.com.br//flight/475385
+520,row_474456,16/11/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:12,3.0,7.9,15.74,Triângulo FAI,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/474456
+521,row_482955,16/11/2020,Marcelo Andrei,Pedra Bonita - BR,Brasil,0:35,3.5,9.6,14.38,Distância livre,Asa delta FAI1 - Topless,WillsWing T2C,http://www.xcbrasil.com.br//flight/482955
+522,row_475904,16/11/2020,Thaise Galvan,Pedra Bonita - BR,Brasil,0:36,1.8,5.6,8.45,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Sport 3,http://www.xcbrasil.com.br//flight/475904
+523,row_474454,16/11/2020,Raphael Dionisio,Pedra Bonita - BR,Brasil,0:20,1.9,3.8,5.69,Distância livre,Parapente - Sport,Skywalk chili3 S,http://www.xcbrasil.com.br//flight/474454
+524,row_475923,16/11/2020,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:42,2.1,3.6,5.47,Distância livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/475923
+525,row_478811,16/11/2020,Mauricio Simoes,Pedra Bonita - BR,Brasil,0:32,1.7,3.5,5.21,Distância livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/478811
+526,row_474467,16/11/2020,CARLOS HENRIQUE  WIEDMER BOSCH,Pedra Bonita - BR,Brasil,0:08,1.5,3.4,5.15,Distância livre,Parapente - Sport,SOL Atmus2 M,http://www.xcbrasil.com.br//flight/474467
+527,row_475918,16/11/2020,Raphael Pacassini,Pedra Bonita - BR,Brasil,0:07,2.0,3.4,5.04,Distância livre,Parapente - Open,Gin Atlas L,http://www.xcbrasil.com.br//flight/475918
+528,row_479346,16/11/2020,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:20,1.7,3.4,5.04,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/479346
+529,row_475160,16/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:42,1.7,3.2,4.86,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/475160
+530,row_474452,16/11/2020,Raphael Dionisio,Pedra Bonita - BR,Brasil,0:13,1.8,3.1,4.68,Distância livre,Parapente - Sport,Skywalk chili3 S,http://www.xcbrasil.com.br//flight/474452
+531,row_475611,16/11/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:18,1.5,3.1,4.62,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/475611
+532,row_474484,16/11/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:19,1.7,2.8,4.13,Distância livre,Parapente - Open,Triple Seven Queen 2,http://www.xcbrasil.com.br//flight/474484
+533,row_474386,15/11/2020,Phil Haegler,Pedra Bonita - BR,Brasil,1:00,2.0,7.0,10.49,Distância livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/474386
+534,row_475907,15/11/2020,Thaise Galvan,Pedra Bonita - BR,Brasil,0:52,1.8,6.3,9.45,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Sport 3,http://www.xcbrasil.com.br//flight/475907
+535,row_474413,15/11/2020,Glaucio Rocha,Pedra Bonita - BR,Brasil,0:16,1.5,4.2,6.33,Distância livre,Parapente - Sport,SOL Ellus 4 M,http://www.xcbrasil.com.br//flight/474413
+536,row_474823,15/11/2020,FELIPPY  MENDONCA MATOS,Pedra Bonita - BR,Brasil,0:45,1.8,4.1,6.12,Distância livre,Parapente - Sport,Skywalk TEQUILA5,http://www.xcbrasil.com.br//flight/474823
+537,row_474340,15/11/2020,Gilnei  Reckziegel,Pedra Bonita - BR [~0.5],Brasil,1:51,1.3,3.8,5.71,Distância livre,Parapente - Sport,SOL Prymus5 XL,http://www.xcbrasil.com.br//flight/474340
+538,row_474534,15/11/2020,Raphael Dionisio,Pedra Bonita - BR,Brasil,0:25,1.8,3.8,5.70,Distância livre,Parapente - Sport,Skywalk chili3 S,http://www.xcbrasil.com.br//flight/474534
+539,row_474438,15/11/2020,Rodrigo Silva,Pedra Bonita - BR,Brasil,0:35,1.8,3.7,5.48,Distância livre,Parapente - Sport,SOL CyclusOne L,http://www.xcbrasil.com.br//flight/474438
+540,row_488827,15/11/2020,Shirley Cristina  do Nascimento Soares,Pedra Bonita - BR,Brasil,0:25,1.8,3.6,5.44,Distância livre,Parapente - Sport,Niviuk Hook 3 23,http://www.xcbrasil.com.br//flight/488827
+541,row_486908,15/11/2020,Joao Amaral,Pedra Bonita - BR,Brasil,0:15,1.6,3.1,4.72,Distância livre,Parapente - Sport,Skywalk Mescal S,http://www.xcbrasil.com.br//flight/486908
+542,row_474375,15/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:14,1.7,3.0,4.47,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/474375
+543,row_483075,15/11/2020,Yago Almeida,Pedra Bonita - BR,Brasil,0:12,1.7,2.9,4.37,Distância livre,Parapente - Open,Sup Air EONA 2,http://www.xcbrasil.com.br//flight/483075
+544,row_474332,15/11/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:22,1.7,2.7,4.05,Distância livre,Parapente - Open,SOL Ellus 5,http://www.xcbrasil.com.br//flight/474332
+545,row_479347,15/11/2020,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:13,1.6,2.4,3.61,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/479347
+546,row_475040,15/11/2020,WEVERTON VIEIRA NUNES,Pedra Bonita - BR,Brasil,0:01,0.8,1.8,2.64,Distância livre,Parapente - Sport,SOL ATIMUS2 L,http://www.xcbrasil.com.br//flight/475040
+547,row_474374,14/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:11,2.2,4.2,6.24,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/474374
+548,row_474191,14/11/2020,Raphael Dionisio,Pedra Bonita - BR,Brasil,0:07,1.7,2.9,4.30,Distância livre,Parapente - Sport,Skywalk chili3 S,http://www.xcbrasil.com.br//flight/474191
+549,row_474175,14/11/2020,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:05,1.7,2.3,3.48,Distância livre,Parapente - Open,Ozone Ozone Element L,http://www.xcbrasil.com.br//flight/474175
+550,row_474373,13/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:08,2.2,4.1,6.08,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/474373
+551,row_474174,13/11/2020,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:06,1.7,2.8,4.22,Distância livre,Parapente - Open,Ozone Ozone Element L,http://www.xcbrasil.com.br//flight/474174
+552,row_474173,13/11/2020,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:06,1.8,2.7,4.05,Distância livre,Parapente - Open,Ozone Ozone Element L,http://www.xcbrasil.com.br//flight/474173
+553,row_473400,08/11/2020,Gilnei  Reckziegel,Pedra Bonita - BR,Brasil,0:17,1.7,3.9,5.92,Distância livre,Parapente - Sport,SOL Prymus5 XL,http://www.xcbrasil.com.br//flight/473400
+554,row_473340,08/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:08,1.9,3.8,5.63,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/473340
+555,row_473318,08/11/2020,Felipe Tibirica,Pedra Bonita - BR,Brasil,0:06,1.7,3.0,4.53,Distância livre,Parapente - Sport,SOL CyclusOne L,http://www.xcbrasil.com.br//flight/473318
+556,row_473478,08/11/2020,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:08,1.8,2.8,4.23,Distância livre,Parapente - Open,Ozone Ozone Element L,http://www.xcbrasil.com.br//flight/473478
+557,row_473568,07/11/2020,Antonio  Valenca,Pedra Bonita - BR,Brasil,1:09,8.6,20.4,35.62,Triângulo livre,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/473568
+558,row_473080,07/11/2020,Phil Haegler,Pedra Bonita - BR,Brasil,0:56,3.1,8.9,15.53,Triângulo livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/473080
+559,row_475537,07/11/2020,Sidney Correa Netto  Esch,Pedra Bonita - BR,Brasil,0:13,1.6,4.6,6.83,Distância livre,Parapente - Sport,BGD Punk M,http://www.xcbrasil.com.br//flight/475537
+560,row_475898,07/11/2020,Thaise Galvan,Pedra Bonita - BR,Brasil,0:11,1.6,4.1,6.15,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Sport 3,http://www.xcbrasil.com.br//flight/475898
+561,row_473228,07/11/2020,WONOWSKI MARIA MALGORZATA,Pedra Bonita - BR,Brasil,0:18,1.6,3.6,5.43,Distância livre,Parapente - Sport,SOL Sycross L,http://www.xcbrasil.com.br//flight/473228
+562,row_473666,07/11/2020,Bruno Paes,Pedra Bonita - BR,Brasil,0:12,1.6,3.3,4.90,Distância livre,Parapente - Sport,SOL Ellusfive L,http://www.xcbrasil.com.br//flight/473666
+563,row_473665,07/11/2020,Bruno Paes,Pedra Bonita - BR,Brasil,0:07,1.7,3.0,4.46,Distância livre,Parapente - Sport,SOL Ellusfive L,http://www.xcbrasil.com.br//flight/473665
+564,row_478810,07/11/2020,Mauricio Simoes,Pedra Bonita - BR,Brasil,0:09,1.8,3.0,4.43,Distância livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/478810
+565,row_474335,07/11/2020,Waldemar Silva,Pedra Bonita - BR,Brasil,0:07,1.7,2.9,4.39,Distância livre,Parapente - Sport,SOL Atmus One M,http://www.xcbrasil.com.br//flight/474335
+566,row_473662,07/11/2020,Joao Amaral,Pedra Bonita - BR,Brasil,0:08,1.8,2.9,4.31,Distância livre,Parapente - Sport,Skywalk Mescal S,http://www.xcbrasil.com.br//flight/473662
+567,row_473339,07/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:12,1.6,2.8,4.17,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/473339
+568,row_476625,07/11/2020,Alexandre Silva,Pedra Bonita - BR,Brasil,0:09,1.7,2.7,4.06,Distância livre,Parapente - Sport,SOL ATMUS2 L,http://www.xcbrasil.com.br//flight/476625
+569,row_473058,07/11/2020,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:08,1.6,2.7,3.99,Distância livre,Parapente - Sport,Niviuk Koyot,http://www.xcbrasil.com.br//flight/473058
+570,row_473290,07/11/2020,Renata Martin,Pedra Bonita - BR,Brasil,0:08,1.6,2.6,3.97,Distância livre,Parapente - Sport,Nova Prion3 XS,http://www.xcbrasil.com.br//flight/473290
+571,row_473278,07/11/2020,marco antonio oliveira rosa,Pedra Bonita - BR,Brasil,0:14,1.7,2.6,3.93,Distância livre,Parapente - Open,Sky Paragliders Atis 4 M,http://www.xcbrasil.com.br//flight/473278
+572,row_473059,07/11/2020,Patricia  Diniz,Pedra Bonita - BR [~0.7],Brasil,0:05,1.0,1.7,2.60,Distância livre,Parapente - Sport,Niviuk Koyot,http://www.xcbrasil.com.br//flight/473059
+573,row_472996,06/11/2020,Ricardo Martins Pereira e Souza,Pedra Bonita - BR,Brasil,0:35,1.9,6.3,9.48,Distância livre,Asa delta FAI1 - Topless,WillsWing T2C 144,http://www.xcbrasil.com.br//flight/472996
+574,row_472964,06/11/2020,Arthur Freires,Pedra Bonita - BR,Brasil,0:09,2.0,4.1,6.14,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/472964
+575,row_472876,06/11/2020,Gilvan Alves,Pedra Bonita - BR,Brasil,0:17,1.7,3.6,5.38,Distância livre,Parapente - Sport,Gin Carrera M,http://www.xcbrasil.com.br//flight/472876
+576,row_472951,06/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:10,1.6,3.0,4.50,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/472951
+577,row_473013,06/11/2020,marco antonio oliveira rosa,Pedra Bonita - BR,Brasil,0:10,1.7,2.8,4.24,Distância livre,Parapente - Open,Sky Paragliders Atis 4 M,http://www.xcbrasil.com.br//flight/473013
+578,row_472972,06/11/2020,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:05,1.6,2.7,4.04,Distância livre,Parapente - Open,Ozone Ozone Element L,http://www.xcbrasil.com.br//flight/472972
+579,row_472973,06/11/2020,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:10,1.6,2.6,3.85,Distância livre,Parapente - Open,Ozone Ozone Element L,http://www.xcbrasil.com.br//flight/472973
+580,row_472970,06/11/2020,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:06,1.7,2.5,3.77,Distância livre,Parapente - Open,Ozone Ozone Element L,http://www.xcbrasil.com.br//flight/472970
+581,row_472971,06/11/2020,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:06,1.6,2.3,3.52,Distância livre,Parapente - Open,Ozone Ozone Element L,http://www.xcbrasil.com.br//flight/472971
+582,row_472463,03/11/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:26,8.6,21.7,37.94,Triângulo livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/472463
+583,row_472482,03/11/2020,Dennis Feld,Pedra Bonita - BR,Brasil,1:23,8.4,21.9,32.87,Distância livre,Parapente - Open,Flow XCracer M,http://www.xcbrasil.com.br//flight/472482
+584,row_472485,03/11/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:06,8.7,18.5,32.40,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/472485
+585,row_472504,03/11/2020,Octavio  Fiaes,Pedra Bonita - BR,Brasil,1:11,8.6,18.3,32.09,Triângulo livre,Asa delta FAI1 - Topless,Moyes Litespeed RX 3.5,http://www.xcbrasil.com.br//flight/472504
+586,row_484266,03/11/2020,claudio matos,Pedra Bonita - BR,Brasil,1:42,7.9,18.2,31.79,Triângulo livre,Parapente - Open,SOL LT01 XL,http://www.xcbrasil.com.br//flight/484266
+587,row_472640,03/11/2020,Leonard Wollmann,Pedra Bonita - BR,Brasil,1:24,8.4,18.1,31.66,Triângulo livre,Parapente - Open,Flow Fusion ML,http://www.xcbrasil.com.br//flight/472640
+588,row_472746,03/11/2020,Glauco  Cavalcanti,Pedra Bonita - BR,Brasil,1:05,4.2,8.2,16.45,Triângulo FAI,Asa delta FAI1 - Kingpost,Moyes Lite Speed Rx4,http://www.xcbrasil.com.br//flight/472746
+589,row_473002,03/11/2020,Mauro Villa,Pedra Bonita - BR,Brasil,1:14,5.8,8.9,13.34,Distância livre,Parapente - Open,Ozone D3 ML,http://www.xcbrasil.com.br//flight/473002
+590,row_473616,03/11/2020,Andre Amaro,Pedra Bonita - BR,Brasil,0:43,2.8,6.5,13.06,Triângulo FAI,Parapente - Open,Skywalk Skywalk Tequila4 M,http://www.xcbrasil.com.br//flight/473616
+591,row_472507,03/11/2020,Antonio  Valenca,Pedra Bonita - BR,Brasil,0:34,2.5,7.6,11.36,Distância livre,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/472507
+592,row_475539,03/11/2020,Sidney Correa Netto  Esch,Pedra Bonita - BR,Brasil,1:08,2.4,5.2,10.43,Triângulo FAI,Parapente - Sport,BGD Punk M,http://www.xcbrasil.com.br//flight/475539
+593,row_472495,03/11/2020,Erico  Oliveira,Pedra Bonita - BR,Brasil,0:43,1.9,6.8,10.15,Distância livre,Parapente - Open,Niviuk Icepeak,http://www.xcbrasil.com.br//flight/472495
+594,row_472588,03/11/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:44,1.6,5.3,8.00,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/472588
+595,row_475610,03/11/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:32,1.8,4.7,7.10,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/475610
+596,row_483349,03/11/2020,Rennis Oliveira,Pedra Bonita - BR,Brasil,0:20,1.9,4.4,6.66,Distância livre,Parapente - Open,Niviuk Artik 5,http://www.xcbrasil.com.br//flight/483349
+597,row_478809,03/11/2020,Mauricio Simoes,Pedra Bonita - BR,Brasil,0:29,1.8,4.2,6.34,Distância livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/478809
+598,row_474081,03/11/2020,antonio fonseca,Pedra Bonita - BR,Brasil,0:51,1.7,3.9,5.90,Distância livre,Parapente - Open,Skywalk Cayenne5 M,http://www.xcbrasil.com.br//flight/474081
+599,row_472511,03/11/2020,WEVERTON VIEIRA NUNES,Pedra Bonita - BR,Brasil,0:29,1.8,3.8,5.71,Distância livre,Parapente - Sport,SOL ATIMUS2 L,http://www.xcbrasil.com.br//flight/472511
+600,row_472737,03/11/2020,Gilvan Alves,Pedra Bonita - BR,Brasil,0:19,1.8,3.8,5.63,Distância livre,Parapente - Sport,Gin Carrera M,http://www.xcbrasil.com.br//flight/472737
+601,row_472230,02/11/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,0:59,8.0,18.2,31.87,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/472230
+602,row_484265,02/11/2020,claudio matos,Pedra Bonita - BR,Brasil,1:29,8.2,21.1,31.64,Distância livre,Parapente - Open,SOL LT01 XL,http://www.xcbrasil.com.br//flight/484265
+603,row_472246,02/11/2020,Phil Haegler,Pedra Bonita - BR,Brasil,0:56,8.2,18.0,31.43,Triângulo livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/472246
+604,row_472745,02/11/2020,Glauco  Cavalcanti,Pedra Bonita - BR,Brasil,1:35,2.6,14.1,21.21,Distância livre,Asa delta FAI1 - Kingpost,Moyes Lite Speed Rx4,http://www.xcbrasil.com.br//flight/472745
+605,row_472406,02/11/2020,Alvaro Santos,Pedra Bonita - BR,Brasil,2:01,8.7,13.7,20.55,Distância livre,Parapente - Open,Nova Triton L,http://www.xcbrasil.com.br//flight/472406
+606,row_472327,02/11/2020,Adriano  Coutinho,Pedra Bonita - BR,Brasil,1:05,8.3,13.4,20.09,Distância livre,Parapente - Open,MacPara Marvel 27,http://www.xcbrasil.com.br//flight/472327
+607,row_477759,02/11/2020,Sandro Mottin,Pedra Bonita - BR,Brasil,0:55,8.1,12.4,18.57,Distância livre,Parapente - Sport,SOL Sinergy Five,http://www.xcbrasil.com.br//flight/477759
+608,row_472300,02/11/2020,Douglas Maldonado,Pedra Bonita - BR,Brasil,1:11,8.2,11.7,17.58,Distância livre,Parapente - Open,SOL LotusOne L,http://www.xcbrasil.com.br//flight/472300
+609,row_473617,02/11/2020,Andre Amaro,Pedra Bonita - BR,Brasil,0:56,7.9,10.1,15.08,Distância livre,Parapente - Open,Skywalk Skywalk Tequila4 M,http://www.xcbrasil.com.br//flight/473617
+610,row_472234,02/11/2020,Renato Rocha,Pedra Bonita - BR,Brasil,1:02,6.6,9.9,14.86,Distância livre,Asa delta FAI1 - Kingpost,02/02/2020 Ellus Five,http://www.xcbrasil.com.br//flight/472234
+611,row_472280,02/11/2020,Diego Almeida,Pedra Bonita - BR,Brasil,1:33,3.3,9.9,14.78,Distância livre,Parapente - Sport,Sup Air Step M,http://www.xcbrasil.com.br//flight/472280
+612,row_472337,02/11/2020,Bruno Paes,Pedra Bonita - BR,Brasil,1:07,2.6,7.3,14.52,Triângulo FAI,Parapente - Sport,SOL Ellusfive S,http://www.xcbrasil.com.br//flight/472337
+613,row_472348,02/11/2020,WONOWSKI MARIA MALGORZATA,Pedra Bonita - BR,Brasil,0:43,6.8,9.0,13.56,Distância livre,Parapente - Sport,SOL Sycross L,http://www.xcbrasil.com.br//flight/472348
+614,row_472275,02/11/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:52,3.1,7.8,11.77,Distância livre,Parapente - Open,Triple Seven Queen 2,http://www.xcbrasil.com.br//flight/472275
+615,row_472244,02/11/2020,Walter Fonseca,Pedra Bonita - BR,Brasil,1:15,2.7,5.4,10.70,Triângulo FAI,Parapente - Sport,SOL Sycross2 XL,http://www.xcbrasil.com.br//flight/472244
+616,row_472383,02/11/2020,Wesley Wilker dos Santos,Pedra Bonita - BR,Brasil,0:44,1.8,4.8,7.23,Distância livre,Parapente - Open,Niviuk Hook2 L,http://www.xcbrasil.com.br//flight/472383
+617,row_474079,02/11/2020,antonio fonseca,Pedra Bonita - BR,Brasil,0:38,1.7,3.7,5.50,Distância livre,Parapente - Open,Skywalk Cayenne5 M,http://www.xcbrasil.com.br//flight/474079
+618,row_472506,02/11/2020,Antonio  Valenca,Pedra Bonita - BR,Brasil,0:10,1.8,3.5,5.21,Distância livre,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/472506
+619,row_471676,28/10/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:10,2.0,4.0,6.06,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/471676
+620,row_484588,28/10/2020,Fernando Rosa,Pedra Bonita - BR,Brasil,0:10,1.5,3.8,5.74,Distância livre,Parapente - Open,Ozone Delta3 M,http://www.xcbrasil.com.br//flight/484588
+621,row_483345,28/10/2020,Rennis Oliveira,Pedra Bonita - BR,Brasil,0:08,1.7,3.8,5.67,Distância livre,Parapente - Open,Niviuk Artik 5,http://www.xcbrasil.com.br//flight/483345
+622,row_471691,28/10/2020,Walter Fonseca,Pedra Bonita - BR,Brasil,0:07,1.7,2.6,3.96,Distância livre,Parapente - Sport,SOL Sycross2 XL,http://www.xcbrasil.com.br//flight/471691
+623,row_491132,28/10/2020,Marcio Barroso,Pedra Bonita - BR,Brasil,0:33,1.6,2.5,3.80,Distância livre,Parapente - Sport,SOL Ellis2 M,http://www.xcbrasil.com.br//flight/491132
+624,row_471360,26/10/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:32,8.1,17.5,30.55,Triângulo livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/471360
+625,row_471361,26/10/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:53,7.9,16.8,29.42,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/471361
+626,row_471375,26/10/2020,Phil Haegler,Pedra Bonita - BR,Brasil,0:31,2.8,6.5,13.05,Triângulo FAI,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/471375
+627,row_471408,26/10/2020,Andre Malicia,Pedra Bonita - BR,Brasil,1:15,1.7,5.0,10.09,Triângulo FAI,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/471408
+628,row_471392,26/10/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:53,1.8,6.0,9.00,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/471392
+629,row_475555,26/10/2020,SANDRO LIMA,Pedra Bonita - BR,Brasil,0:35,1.7,5.8,8.69,Distância livre,Parapente - Open,Skywalk Cayenne5 L,http://www.xcbrasil.com.br//flight/475555
+630,row_475207,25/10/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:14,1.0,3.9,5.85,Distância livre,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/475207
+631,row_471490,24/10/2020,Gustavo Lenine Velasco de Oliveira,Pedra Bonita - BR,Brasil,0:08,1.5,2.7,4.06,Distância livre,Parapente - Sport,Apco VISTA3 L,http://www.xcbrasil.com.br//flight/471490
+632,row_471407,24/10/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:07,1.6,2.6,3.87,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/471407
+633,row_470692,23/10/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:26,1.6,4.1,6.21,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/470692
+634,row_469923,21/10/2020,gildas epaud,Pedra Bonita - BR,Brasil,0:44,1.8,5.1,7.64,Distância livre,Parapente - Sport,Gin Explorer S,http://www.xcbrasil.com.br//flight/469923
+635,row_469918,21/10/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:36,1.7,4.3,6.41,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/469918
+636,row_469917,21/10/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:08,1.6,3.1,4.71,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/469917
+637,row_483346,20/10/2020,Rennis Oliveira,Pedra Bonita - BR,Brasil,0:09,1.8,3.7,5.53,Distância livre,Parapente - Open,Niviuk Artik 5,http://www.xcbrasil.com.br//flight/483346
+638,row_469834,20/10/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:15,1.7,3.5,5.19,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/469834
+639,row_469797,19/10/2020,Leonard Wollmann,Pedra Bonita - BR,Brasil,0:53,1.9,9.0,13.45,Distância livre,Parapente - Open,Flow Fusion ML,http://www.xcbrasil.com.br//flight/469797
+640,row_469605,19/10/2020,Arthur Freires,Pedra Bonita - BR,Brasil,0:50,1.8,8.1,12.20,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/469605
+641,row_469619,19/10/2020,Andre Malicia,Pedra Bonita - BR,Brasil,1:07,2.0,5.4,10.81,Triângulo FAI,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/469619
+642,row_469634,19/10/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,1:25,1.7,5.8,8.75,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/469634
+643,row_470738,19/10/2020,Conrado Aguiar  Barreto,Pedra Bonita - BR,Brasil,0:25,1.7,5.3,7.91,Distância livre,Parapente - Open,SOL Synergy 4,http://www.xcbrasil.com.br//flight/470738
+644,row_475896,18/10/2020,Thaise Galvan,Pedra Bonita - BR,Brasil,2:02,2.3,8.9,13.42,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Sport 3,http://www.xcbrasil.com.br//flight/475896
+645,row_488826,18/10/2020,Shirley Cristina  do Nascimento Soares,Pedra Bonita - BR,Brasil,0:26,2.0,4.3,8.56,Triângulo FAI,Parapente - Sport,Niviuk Hook 3 23,http://www.xcbrasil.com.br//flight/488826
+646,row_469476,18/10/2020,Gustavo Lenine Velasco de Oliveira,Pedra Bonita - BR,Brasil,0:45,1.5,5.2,7.81,Distância livre,Parapente - Sport,Apco VISTA3 L,http://www.xcbrasil.com.br//flight/469476
+647,row_469566,18/10/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:30,2.0,4.8,7.20,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/469566
+648,row_469565,18/10/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:28,1.8,4.5,6.78,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/469565
+649,row_469589,17/10/2020,Antonio  Valenca,Pedra Bonita - BR,Brasil,2:27,8.2,39.5,59.30,Distância livre,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/469589
+650,row_469340,17/10/2020,Erick  Vils,Pedra Bonita - BR,Brasil,2:06,9.3,27.3,40.92,Distância livre,Asa delta FAI1 - Kingpost,WW T2C,http://www.xcbrasil.com.br//flight/469340
+651,row_469186,17/10/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:18,8.0,20.8,36.35,Triângulo livre,Parapente - Open,Skywalk Cayenne 6,http://www.xcbrasil.com.br//flight/469186
+652,row_469838,17/10/2020,ROBSON PONCIANO,Pedra Bonita - BR,Brasil,1:51,8.5,23.7,35.52,Distância livre,Parapente - Open,Nova Triton 2,http://www.xcbrasil.com.br//flight/469838
+653,row_469188,17/10/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:48,8.4,19.7,34.52,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/469188
+654,row_470997,17/10/2020,Diogo Okida,Pedra Bonita - BR,Brasil,2:00,8.3,19.1,33.47,Triângulo livre,Parapente - Sport,Skywalk Chilli 4,http://www.xcbrasil.com.br//flight/470997
+655,row_469201,17/10/2020,Caio  Hersen,Pedra Bonita - BR,Brasil,1:15,8.5,18.4,32.16,Triângulo livre,Parapente - Sport,UTurn Blacklight SM,http://www.xcbrasil.com.br//flight/469201
+656,row_489884,17/10/2020,Danilo  Moura,Pedra Bonita - BR,Brasil,2:11,2.7,10.2,15.37,Distância livre,Parapente,Ozone Rush 3,http://www.xcbrasil.com.br//flight/489884
+657,row_469814,17/10/2020,Mayall Daniel,Pedra Bonita - BR,Brasil,1:50,2.3,10.2,15.29,Distância livre,Parapente - Sport,Ozone Delta3 ML,http://www.xcbrasil.com.br//flight/469814
+658,row_475651,17/10/2020,Sidney Correa Netto  Esch,Pedra Bonita - BR,Brasil,2:26,2.6,7.3,14.50,Triângulo FAI,Parapente - Sport,BGD Punk M,http://www.xcbrasil.com.br//flight/475651
+659,row_469195,17/10/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,1:19,2.1,9.7,14.48,Distância livre,Parapente - Open,Triple Seven Queen 2,http://www.xcbrasil.com.br//flight/469195
+660,row_469205,17/10/2020,Glaucio Rocha,Pedra Bonita - BR,Brasil,1:47,2.3,8.6,12.94,Distância livre,Parapente - Sport,SOL Ellus 4 M,http://www.xcbrasil.com.br//flight/469205
+661,row_469696,17/10/2020,Erich Cantuario Martins Lemos,Pedra Bonita - BR,Brasil,1:09,4.4,8.6,12.89,Distância livre,Parapente - Open,Niviuk Hook 2 27,http://www.xcbrasil.com.br//flight/469696
+662,row_484264,17/10/2020,claudio matos,Pedra Bonita - BR,Brasil,1:05,4.7,8.1,12.15,Distância livre,Parapente - Open,SOL LT01 XL,http://www.xcbrasil.com.br//flight/484264
+663,row_469260,17/10/2020,Emerson Oliveira da Silva,Pedra Bonita - BR,Brasil,1:04,2.4,8.1,12.11,Distância livre,Parapente - Sport,Skywalk chilli4 M,http://www.xcbrasil.com.br//flight/469260
+664,row_475210,17/10/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:36,4.5,7.0,10.55,Distância livre,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/475210
+665,row_469261,17/10/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,1:19,2.0,6.7,10.02,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/469261
+666,row_469371,17/10/2020,Franc  Da Silva Souza,Pedra Bonita - BR,Brasil,0:32,1.4,4.4,8.87,Triângulo FAI,Parapente - Open,Ozone Delta 2,http://www.xcbrasil.com.br//flight/469371
+667,row_469203,17/10/2020,Andre Malicia,Pedra Bonita - BR,Brasil,1:10,2.0,5.6,8.40,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/469203
+668,row_469373,17/10/2020,Franc  Da Silva Souza,Pedra Bonita - BR [~0.7],Brasil,0:58,1.8,5.1,7.69,Distância livre,Parapente - Open,Ozone Delta 2,http://www.xcbrasil.com.br//flight/469373
+669,row_469193,17/10/2020,Renato Rocha,Pedra Bonita - BR,Brasil,0:42,1.8,4.8,7.21,Distância livre,Asa delta FAI1 - Kingpost,02/02/2020 Ellus Five,http://www.xcbrasil.com.br//flight/469193
+670,row_469337,17/10/2020,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:58,1.8,4.6,6.92,Distância livre,Parapente - Open,SOL CyclusOne L,http://www.xcbrasil.com.br//flight/469337
+671,row_472188,17/10/2020,Luis Cerqueira,Pedra Bonita - BR,Brasil,0:11,1.7,2.9,4.31,Distância livre,Parapente - Open,Ozone Element XXS,http://www.xcbrasil.com.br//flight/472188
+672,row_468665,13/10/2020,WONOWSKI MARIA MALGORZATA,Pedra Bonita - BR,Brasil,1:03,1.9,4.4,6.61,Distância livre,Parapente - Sport,SOL Sycross L,http://www.xcbrasil.com.br//flight/468665
+673,row_468410,13/10/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:31,1.6,4.0,6.00,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/468410
+674,row_475212,13/10/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:36,1.9,3.9,5.80,Distância livre,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/475212
+675,row_468429,13/10/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:08,1.5,2.5,3.71,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/468429
+676,row_468495,12/10/2020,Antonio  Valenca,Pedra Bonita - BR,Brasil,1:51,8.7,25.1,37.70,Distância livre,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/468495
+677,row_468108,12/10/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:06,8.2,18.3,32.05,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/468108
+678,row_468111,12/10/2020,Rafael Gomes Xavier,Pedra Bonita - BR,Brasil,1:17,7.3,17.1,29.87,Triângulo livre,Parapente - Sport,Gin Bonanza2 S,http://www.xcbrasil.com.br//flight/468111
+679,row_468683,12/10/2020,Bruno Paes,Pedra Bonita - BR,Brasil,1:17,8.6,14.4,21.57,Distância livre,Parapente - Sport,SOL Ellus5 S,http://www.xcbrasil.com.br//flight/468683
+680,row_469480,12/10/2020,Patricia  Diniz,Pedra Bonita - BR,Brasil,1:40,2.8,11.4,17.13,Distância livre,Parapente - Sport,Niviuk Koyot,http://www.xcbrasil.com.br//flight/469480
+681,row_468180,12/10/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,1:03,2.4,6.5,9.78,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/468180
+682,row_475652,12/10/2020,Sidney Correa Netto  Esch,Pedra Bonita - BR,Brasil,1:23,1.8,6.3,9.50,Distância livre,Parapente - Sport,BGD Punk M,http://www.xcbrasil.com.br//flight/475652
+683,row_468129,12/10/2020,Luis Felipe Tarle,Pedra Bonita - BR,Brasil,0:22,1.7,4.1,6.08,Distância livre,Parapente,Skywalk Chili 3,http://www.xcbrasil.com.br//flight/468129
+684,row_468226,12/10/2020,Franc  Da Silva Souza,Pedra Bonita - BR,Brasil,0:19,1.4,3.2,4.85,Distância livre,Parapente - Open,Ozone Delta 2,http://www.xcbrasil.com.br//flight/468226
+685,row_476803,12/10/2020,Andre Pacheco,Pedra Bonita - BR,Brasil,0:17,1.7,3.2,4.84,Distância livre,Parapente - Tandem,SOL Canguru 4,http://www.xcbrasil.com.br//flight/476803
+686,row_476804,12/10/2020,Andre Pacheco,Pedra Bonita - BR,Brasil,0:14,1.6,2.8,4.17,Distância livre,Parapente - Tandem,SOL Canguru 4,http://www.xcbrasil.com.br//flight/476804
+687,row_467926,11/10/2020,Dennis Feld,Pedra Bonita - BR,Brasil,2:09,9.6,47.4,71.16,Distância livre,Parapente - Open,Flow XCracer M,http://www.xcbrasil.com.br//flight/467926
+688,row_468021,11/10/2020,Antonio  Valenca,Pedra Bonita - BR,Brasil,1:44,9.3,40.5,60.69,Distância livre,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/468021
+689,row_467920,11/10/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:55,9.3,22.4,44.73,Triângulo FAI,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/467920
+690,row_475908,11/10/2020,Thaise Galvan,Pedra Bonita - BR,Brasil,2:05,8.6,27.1,40.69,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Sport 3,http://www.xcbrasil.com.br//flight/475908
+691,row_467918,11/10/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:13,8.3,21.3,37.35,Triângulo livre,Parapente - Open,Skywalk Cayenne 6,http://www.xcbrasil.com.br//flight/467918
+692,row_480254,11/10/2020,isaac rozemberg,Pedra Bonita - BR,Brasil,1:45,9.6,24.2,36.24,Distância livre,Asa delta FAI1 - Kingpost,Airborne STING,http://www.xcbrasil.com.br//flight/480254
+693,row_470992,11/10/2020,Diogo Okida,Pedra Bonita - BR,Brasil,1:47,8.5,20.4,35.73,Triângulo livre,Parapente - Sport,Skywalk Chilli 4,http://www.xcbrasil.com.br//flight/470992
+694,row_468069,11/10/2020,Caio  Hersen,Pedra Bonita - BR,Brasil,1:25,8.7,20.3,35.58,Triângulo livre,Parapente - Sport,UTurn Blacklight SM,http://www.xcbrasil.com.br//flight/468069
+695,row_475542,11/10/2020,Sidney Correa Netto  Esch,Pedra Bonita - BR,Brasil,2:43,7.9,23.2,34.87,Distância livre,Parapente - Sport,BGD Punk M,http://www.xcbrasil.com.br//flight/475542
+696,row_468075,11/10/2020,Arthur Freires,Pedra Bonita - BR,Brasil,1:19,8.3,19.9,34.81,Triângulo livre,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/468075
+697,row_467965,11/10/2020,Glaucio Rocha,Pedra Bonita - BR,Brasil,1:14,8.3,23.0,34.53,Distância livre,Parapente - Sport,SOL Ellus 4 M,http://www.xcbrasil.com.br//flight/467965
+698,row_468017,11/10/2020,Conrado Aguiar  Barreto,Pedra Bonita - BR,Brasil,1:43,8.6,19.6,34.22,Triângulo livre,Parapente - Open,SOL Synergy 4,http://www.xcbrasil.com.br//flight/468017
+699,row_467986,11/10/2020,Marcelo Marinho Dutra,Pedra Bonita - BR,Brasil,1:40,8.5,19.1,33.37,Triângulo livre,Parapente - Sport,Skywalk chile3 L,http://www.xcbrasil.com.br//flight/467986
+700,row_467933,11/10/2020,Andre Malicia,Pedra Bonita - BR,Brasil,1:30,8.2,22.1,33.18,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/467933
+701,row_475202,11/10/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,2:22,8.4,21.7,32.50,Distância livre,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/475202
+702,row_467929,11/10/2020,EDEN NUNES,Pedra Bonita - BR,Brasil,1:29,8.5,18.4,32.13,Triângulo livre,Parapente,SOL Paragliders Sinergy 4,http://www.xcbrasil.com.br//flight/467929
+703,row_468291,11/10/2020,Luan lima bastos,Pedra Bonita - BR,Brasil,0:57,8.1,18.3,31.97,Triângulo livre,Parapente - Open,SOL LT1 S,http://www.xcbrasil.com.br//flight/468291
+704,row_467915,11/10/2020,Rafael Gomes Xavier,Pedra Bonita - BR,Brasil,1:01,8.0,18.0,31.56,Triângulo livre,Parapente - Sport,Gin Bonanza2 S,http://www.xcbrasil.com.br//flight/467915
+705,row_467991,11/10/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,1:12,8.2,16.5,24.82,Distância livre,Parapente - Open,Triple Seven Queen 2,http://www.xcbrasil.com.br//flight/467991
+706,row_468045,11/10/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,1:41,8.1,15.9,23.86,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/468045
+707,row_468682,11/10/2020,Bruno Paes,Pedra Bonita - BR,Brasil,1:25,4.0,15.9,23.85,Distância livre,Parapente - Sport,SOL Ellus5 S,http://www.xcbrasil.com.br//flight/468682
+708,row_467916,11/10/2020,Renato Rocha,Pedra Bonita - BR,Brasil,1:08,8.7,15.6,23.42,Distância livre,Asa delta FAI1 - Kingpost,02/02/2020 Ellus Five,http://www.xcbrasil.com.br//flight/467916
+709,row_485924,11/10/2020,Bruno  Menezes,Pedra Bonita - BR,Brasil,0:55,2.6,7.1,14.28,Triângulo FAI,Parapente - Sport,Dudek Optic 2,http://www.xcbrasil.com.br//flight/485924
+710,row_468087,11/10/2020,Alexander Silva,Pedra Bonita - BR,Brasil,0:41,5.4,9.3,13.95,Distância livre,Parapente,SOL Atmus One,http://www.xcbrasil.com.br//flight/468087
+711,row_468064,11/10/2020,Ciro Gomes de Sousa,Pedra Bonita - BR,Brasil,0:38,2.2,6.1,12.24,Triângulo FAI,Parapente - Tandem,SOL kuat 2,http://www.xcbrasil.com.br//flight/468064
+712,row_467980,11/10/2020,Gilnei  Reckziegel,Pedra Bonita - BR,Brasil,1:56,1.7,7.1,10.65,Distância livre,Parapente - Sport,SOL Prymus5 XL,http://www.xcbrasil.com.br//flight/467980
+713,row_468076,11/10/2020,Arthur Freires,Pedra Bonita - BR,Brasil,0:23,1.7,3.7,5.60,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/468076
+714,row_469481,11/10/2020,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:14,0.4,2.2,3.30,Distância livre,Parapente - Sport,Niviuk Koyot,http://www.xcbrasil.com.br//flight/469481
+715,row_467570,07/10/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:13,1.6,3.7,5.48,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/467570
+716,row_467583,07/10/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:42,1.6,3.4,5.12,Distância livre,Parapente - Open,Triple Seven Queen 2,http://www.xcbrasil.com.br//flight/467583
+717,row_467549,07/10/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:17,1.6,3.3,5.01,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/467549
+718,row_472952,06/10/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,1:02,1.7,7.4,11.06,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/472952
+719,row_467331,05/10/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:33,1.9,5.2,7.78,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/467331
+720,row_467548,05/10/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:15,1.8,3.1,4.69,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/467548
+721,row_466675,30/09/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:11,1.8,3.0,4.56,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/466675
+722,row_466352,28/09/2020,VINICIUS  PENA,Pedra Bonita - BR,Brasil,0:20,1.7,3.1,4.60,Distância livre,Parapente - Sport,Nova TRITON2 M,http://www.xcbrasil.com.br//flight/466352
+723,row_466329,26/09/2020,Antonio  Valenca,Pedra Bonita - BR,Brasil,0:07,1.5,3.3,4.95,Distância livre,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/466329
+724,row_468680,26/09/2020,Bruno Paes,Pedra Bonita - BR,Brasil,0:16,1.7,3.1,4.61,Distância livre,Parapente - Sport,SOL Ellus5 S,http://www.xcbrasil.com.br//flight/468680
+725,row_466356,26/09/2020,marcos  menezes,Pedra Bonita - BR,Brasil,0:08,1.7,2.6,3.97,Distância livre,Parapente - Sport,SOL Paragliders Prymus,http://www.xcbrasil.com.br//flight/466356
+726,row_465861,26/09/2020,Rodrigo Bastos,Pedra Bonita - BR,Brasil,0:07,1.8,2.5,3.82,Distância livre,Parapente,Skywalk Tequila4,http://www.xcbrasil.com.br//flight/465861
+727,row_468681,26/09/2020,Bruno Paes,Pedra Bonita - BR,Brasil,0:07,1.7,2.5,3.69,Distância livre,Parapente - Sport,SOL Ellus5 S,http://www.xcbrasil.com.br//flight/468681
+728,row_465672,25/09/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,0:41,2.9,6.9,13.87,Triângulo FAI,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/465672
+729,row_466334,25/09/2020,WONOWSKI MARIA MALGORZATA,Pedra Bonita - BR,Brasil,0:44,1.9,3.5,5.19,Distância livre,Parapente - Sport,SOL Sycross L,http://www.xcbrasil.com.br//flight/466334
+730,row_468730,25/09/2020,Leonard Wollmann,Pedra Bonita - BR,Brasil,0:36,1.8,3.3,4.94,Distância livre,Parapente - Open,Flow Fusion ML,http://www.xcbrasil.com.br//flight/468730
+731,row_465718,25/09/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:37,1.6,3.2,4.84,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/465718
+732,row_482585,25/09/2020,Frederick  Borges,Pedra Bonita - BR,Brasil,0:10,1.7,2.9,4.33,Distância livre,Parapente - Open,Skywalk Skywalk Tequila3 S,http://www.xcbrasil.com.br//flight/482585
+733,row_468332,25/09/2020,SANDRO LIMA,Pedra Bonita - BR,Brasil,0:11,1.7,2.9,4.30,Distância livre,Parapente - Open,Skywalk Cayenne5 L,http://www.xcbrasil.com.br//flight/468332
+734,row_466568,25/09/2020,Flavio Peres de Almeida,Pedra Bonita - BR,Brasil,0:15,1.7,2.7,4.10,Distância livre,Parapente - Sport,SOL Sycross2 XL,http://www.xcbrasil.com.br//flight/466568
+735,row_464865,19/09/2020,Bruno Santana,Pedra Bonita - BR,Brasil,0:09,1.4,3.1,4.67,Distância livre,Parapente - Sport,BGD WASP M,http://www.xcbrasil.com.br//flight/464865
+736,row_464824,19/09/2020,Gilnei  Reckziegel,Pedra Bonita - BR,Brasil,0:09,1.7,2.7,4.01,Distância livre,Parapente - Sport,SOL Prymus5 XL,http://www.xcbrasil.com.br//flight/464824
+737,row_464662,18/09/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:07,4.2,13.9,20.81,Distância livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/464662
+738,row_464728,18/09/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,1:12,1.7,4.7,7.04,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/464728
+739,row_464713,18/09/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:36,1.9,4.0,5.99,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/464713
+740,row_464730,18/09/2020,Bruno Santana,Pedra Bonita - BR,Brasil,0:15,1.6,3.6,5.37,Distância livre,Parapente - Open,BGD WASP M,http://www.xcbrasil.com.br//flight/464730
+741,row_464513,16/09/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:43,1.7,3.8,5.64,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/464513
+742,row_464712,16/09/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:27,1.6,3.3,4.92,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/464712
+743,row_463688,12/09/2020,Gilnei  Reckziegel,Pedra Bonita - BR,Brasil,0:06,1.7,2.7,4.02,Distância livre,Parapente - Sport,SOL Prymus5 XL,http://www.xcbrasil.com.br//flight/463688
+744,row_463763,12/09/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:09,1.7,2.7,4.00,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/463763
+745,row_463835,12/09/2020,Bruno Santana,Pedra Bonita - BR,Brasil,0:06,1.3,2.3,3.48,Distância livre,Parapente - Open,BGD WASP M,http://www.xcbrasil.com.br//flight/463835
+746,row_463348,09/09/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:51,1.7,4.3,6.41,Distância livre,,SOL Ellus 5,http://www.xcbrasil.com.br//flight/463348
+747,row_463333,09/09/2020,Reginaldo Pirozi,Pedra Bonita - BR,Brasil,0:29,1.8,4.0,5.93,Distância livre,Parapente - Open,SOL CyclusOne L,http://www.xcbrasil.com.br//flight/463333
+748,row_463359,09/09/2020,Thiago  Souza,Pedra Bonita - BR,Brasil,0:22,1.6,3.0,4.56,Distância livre,Parapente - Open,Skywalk cayenne4 L,http://www.xcbrasil.com.br//flight/463359
+749,row_463364,09/09/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:12,1.8,2.9,4.32,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/463364
+750,row_463314,09/09/2020,Gilvan Alves,Pedra Bonita - BR,Brasil,0:09,1.7,2.6,3.87,Distância livre,Parapente - Sport,Gin Carrera M,http://www.xcbrasil.com.br//flight/463314
+751,row_463349,09/09/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:14,1.6,2.4,3.58,Distância livre,,SOL Ellus 5,http://www.xcbrasil.com.br//flight/463349
+752,row_462883,07/09/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:10,1.6,2.5,3.78,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/462883
+753,row_462836,06/09/2020,Oseias Pina,Pedra Bonita - BR,Brasil,0:07,1.8,3.1,4.71,Distância livre,Parapente - Open,Skywalk Mescal M,http://www.xcbrasil.com.br//flight/462836
+754,row_464934,06/09/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:06,1.7,2.4,3.66,Distância livre,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/464934
+755,row_462207,05/09/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,0:42,2.0,6.1,9.11,Distância livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/462207
+756,row_489167,05/09/2020,Anderson  da Cruz Bruch,Pedra Bonita - BR,Brasil,0:14,1.6,3.6,5.47,Distância livre,Parapente - Sport,Ozone Rush 5,http://www.xcbrasil.com.br//flight/489167
+757,row_462148,05/09/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:15,1.9,3.6,5.46,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/462148
+758,row_462146,03/09/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:10,1.6,2.9,4.32,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/462146
+759,row_461632,02/09/2020,Leonard Wollmann,Pedra Bonita - BR,Brasil,0:33,1.7,3.9,5.79,Distância livre,Parapente - Open,Flow Fusion ML,http://www.xcbrasil.com.br//flight/461632
+760,row_461171,01/09/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:03,8.2,18.6,32.58,Triângulo livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/461171
+761,row_461177,01/09/2020,Dennis Feld,Pedra Bonita - BR,Brasil,1:40,8.2,18.2,31.83,Triângulo livre,Parapente - Open,Flow XCracer M,http://www.xcbrasil.com.br//flight/461177
+762,row_461215,01/09/2020,Ricardo Martins Pereira e Souza,Pedra Bonita - BR,Brasil,1:02,8.7,16.8,25.21,Distância livre,Asa delta FAI1 - Topless,WillsWing T2C 144,http://www.xcbrasil.com.br//flight/461215
+763,row_461289,01/09/2020,Phil Haegler,Pedra Bonita - BR,Brasil,1:58,8.1,15.7,23.53,Distância livre,Parapente - Sport,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/461289
+764,row_461288,01/09/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,0:57,8.5,15.2,22.73,Distância livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/461288
+765,row_461810,01/09/2020,Rafael Gomes Xavier,Pedra Bonita - BR,Brasil,1:46,7.9,15.1,22.66,Distância livre,Parapente - Open,UP Meru MS,http://www.xcbrasil.com.br//flight/461810
+766,row_461188,01/09/2020,Antonio  Valenca,Pedra Bonita - BR,Brasil,0:21,1.9,4.8,9.53,Triângulo FAI,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/461188
+767,row_461181,01/09/2020,Diego Almeida,Pedra Bonita - BR,Brasil,0:39,1.9,4.7,9.42,Triângulo FAI,Parapente - Sport,Sup Air Step M,http://www.xcbrasil.com.br//flight/461181
+768,row_461182,01/09/2020,Diego Almeida,Pedra Bonita - BR,Brasil,0:32,1.7,4.8,7.15,Distância livre,Parapente - Sport,Sup Air Step M,http://www.xcbrasil.com.br//flight/461182
+769,row_461184,01/09/2020,Rennis Oliveira,Pedra Bonita - BR,Brasil,0:12,2.1,4.2,6.31,Distância livre,Parapente - Open,Niviuk Artik 5,http://www.xcbrasil.com.br//flight/461184
+770,row_461200,01/09/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:28,1.7,3.5,5.28,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/461200
+771,row_460320,28/08/2020,Renato Rocha,Pedra Bonita - BR,Brasil,0:27,1.8,4.0,6.06,Distância livre,Asa delta FAI1 - Kingpost,02/02/2020 Ellus Five,http://www.xcbrasil.com.br//flight/460320
+772,row_460367,28/08/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:16,1.8,3.8,5.66,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/460367
+773,row_464960,28/08/2020,Daniel de Freitas Lewkovitch,Pedra Bonita - BR,Brasil,0:32,1.6,3.5,5.23,Distância livre,Parapente - Sport,SOL Ellus 4 L,http://www.xcbrasil.com.br//flight/464960
+774,row_460325,28/08/2020,Eric  Zeemann,Pedra Bonita - BR,Brasil,0:09,1.7,2.8,4.16,Distância livre,Parapente - Sport,Dudek Plus 28,http://www.xcbrasil.com.br//flight/460325
+775,row_460323,28/08/2020,Eric  Zeemann,Pedra Bonita - BR,Brasil,0:08,1.7,2.6,3.91,Distância livre,Parapente - Sport,Dudek Plus 28,http://www.xcbrasil.com.br//flight/460323
+776,row_460359,28/08/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:09,1.6,2.4,3.65,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/460359
+777,row_460074,27/08/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:27,8.4,19.2,33.56,Triângulo livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/460074
+778,row_460090,27/08/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:16,8.5,17.7,31.04,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/460090
+779,row_479658,27/08/2020,daniel souto bispo,Pedra Bonita - BR,Brasil,2:07,2.1,5.5,10.98,Triângulo FAI,Parapente - Sport,Niviuk Hook 3 25,http://www.xcbrasil.com.br//flight/479658
+780,row_460226,27/08/2020,Octavio  Fiaes,Pedra Bonita - BR,Brasil,0:13,2.6,5.3,10.51,Triângulo FAI,Asa delta FAI1 - Topless,Moyes Litespeed RX 3.5,http://www.xcbrasil.com.br//flight/460226
+781,row_461617,27/08/2020,Leonard Wollmann,Pedra Bonita - BR,Brasil,1:29,1.9,6.7,9.99,Distância livre,Parapente - Open,Flow Fusion ML,http://www.xcbrasil.com.br//flight/461617
+782,row_460709,27/08/2020,Rennis Oliveira,Pedra Bonita - BR,Brasil,0:32,1.9,6.0,8.96,Distância livre,Parapente - Open,Niviuk Artik 5,http://www.xcbrasil.com.br//flight/460709
+783,row_460170,27/08/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,1:01,1.9,5.5,8.25,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/460170
+784,row_460357,27/08/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:36,2.0,5.2,7.81,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/460357
+785,row_460280,27/08/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,1:05,1.7,4.1,6.21,Distância livre,,SOL Ellus 5,http://www.xcbrasil.com.br//flight/460280
+786,row_461893,27/08/2020,Glaucio Rocha,Pedra Bonita - BR,Brasil,0:18,1.7,4.0,6.05,Distância livre,Parapente - Open,Niviuk Artik 3 27,http://www.xcbrasil.com.br//flight/461893
+787,row_460072,27/08/2020,Jeferson Leal Silva,Pedra Bonita - BR,Brasil,0:55,1.5,3.4,5.07,Distância livre,Parapente - Sport,BGD Epic,http://www.xcbrasil.com.br//flight/460072
+788,row_466703,27/08/2020,Rodrigo Silva,Pedra Bonita - BR,Brasil,0:17,1.8,3.4,5.07,Distância livre,Parapente - Sport,SOL CyclusOne L,http://www.xcbrasil.com.br//flight/466703
+789,row_459847,25/08/2020,Ricardo Martins Pereira e Souza,Pedra Bonita - BR,Brasil,0:35,8.4,17.4,30.40,Triângulo livre,Asa delta FAI1 - Topless,WillsWing T2C 144,http://www.xcbrasil.com.br//flight/459847
+790,row_459781,25/08/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,0:55,8.0,14.7,29.43,Triângulo FAI,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/459781
+791,row_459868,25/08/2020,Luan lima bastos,Pedra Bonita - BR,Brasil,1:11,8.5,13.6,20.41,Distância livre,Parapente - Open,SOL LT1 S,http://www.xcbrasil.com.br//flight/459868
+792,row_459851,25/08/2020,Andre Diniz,Pedra Bonita - BR,Brasil,0:40,8.1,11.3,17.01,Distância livre,Parapente - Open,Niviuk Peak 27,http://www.xcbrasil.com.br//flight/459851
+793,row_459784,25/08/2020,Leonard Wollmann,Pedra Bonita - BR,Brasil,0:43,6.4,8.4,12.67,Distância livre,Parapente - Open,Flow Fusion ML,http://www.xcbrasil.com.br//flight/459784
+794,row_459937,25/08/2020,Caio  Hersen,Pedra Bonita - BR,Brasil,1:10,1.9,8.0,11.96,Distância livre,Parapente - Sport,UTurn Blacklight SM,http://www.xcbrasil.com.br//flight/459937
+795,row_461811,25/08/2020,Rafael Gomes Xavier,Pedra Bonita - BR,Brasil,0:27,6.2,7.9,11.79,Distância livre,Parapente - Open,UP Meru MS,http://www.xcbrasil.com.br//flight/461811
+796,row_459951,25/08/2020,Antonio  Valenca,Pedra Bonita - BR,Brasil,0:33,2.6,7.7,11.52,Distância livre,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/459951
+797,row_459793,25/08/2020,Beto Maluco,Pedra Bonita - BR,Brasil,0:21,2.8,5.5,11.04,Triângulo FAI,Parapente - Open,Skywalk Cayenne5 M,http://www.xcbrasil.com.br//flight/459793
+798,row_459861,25/08/2020,WONOWSKI MARIA MALGORZATA,Pedra Bonita - BR,Brasil,0:36,3.3,6.4,9.55,Distância livre,Parapente - Sport,SOL Sycross L,http://www.xcbrasil.com.br//flight/459861
+799,row_470318,25/08/2020,Pedro Vilardo,Pedra Bonita - BR,Brasil,0:34,3.2,6.0,8.96,Distância livre,Parapente - Open,BGD TalaLight M,http://www.xcbrasil.com.br//flight/470318
+800,row_459808,25/08/2020,EDEN NUNES,Pedra Bonita - BR,Brasil,0:37,1.9,4.7,7.11,Distância livre,Parapente,SOL Paragliders Sinergy 4,http://www.xcbrasil.com.br//flight/459808
+801,row_459805,25/08/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,0:17,1.8,4.0,5.98,Distância livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/459805
+802,row_459811,25/08/2020,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:09,2.0,2.6,3.86,Distância livre,Parapente - Sport,Niviuk Koyot,http://www.xcbrasil.com.br//flight/459811
+803,row_459804,24/08/2020,claudio matos,Pedra Bonita - BR,Brasil,2:23,8.3,22.0,43.96,Triângulo FAI,Parapente - Open,SOL LT01 XL,http://www.xcbrasil.com.br//flight/459804
+804,row_459680,24/08/2020,Dennis Feld,Pedra Bonita - BR,Brasil,1:03,8.3,19.3,33.81,Triângulo livre,Parapente - Open,Flow XCracer M,http://www.xcbrasil.com.br//flight/459680
+805,row_459675,24/08/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:11,8.2,19.2,33.54,Triângulo livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/459675
+806,row_462741,24/08/2020,Fabio Telles Siqueira,Pedra Bonita - BR,Brasil,1:22,8.3,17.7,30.95,Triângulo livre,Parapente - Open,Ozone Delta3 XL,http://www.xcbrasil.com.br//flight/462741
+807,row_459848,24/08/2020,Ricardo Martins Pereira e Souza,Pedra Bonita - BR,Brasil,0:57,8.2,17.2,30.08,Triângulo livre,Asa delta FAI1,WillsWing T2C 144,http://www.xcbrasil.com.br//flight/459848
+808,row_459677,24/08/2020,Leonard Wollmann,Pedra Bonita - BR,Brasil,1:00,8.6,14.1,21.13,Distância livre,Parapente - Open,Flow Fusion ML,http://www.xcbrasil.com.br//flight/459677
+809,row_459850,24/08/2020,Andre Malicia,Pedra Bonita - BR,Brasil,1:09,2.4,10.3,15.49,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/459850
+810,row_464451,24/08/2020,Sidney Correa Netto  Esch,Pedra Bonita - BR,Brasil,1:34,2.8,7.6,13.30,Triângulo livre,Parapente - Sport,BGD Punk M,http://www.xcbrasil.com.br//flight/464451
+811,row_459770,24/08/2020,WONOWSKI MARIA MALGORZATA,Pedra Bonita - BR,Brasil,0:41,6.2,8.6,12.93,Distância livre,Parapente - Sport,SOL Sycross L,http://www.xcbrasil.com.br//flight/459770
+812,row_459678,24/08/2020,EDEN NUNES,Pedra Bonita - BR,Brasil,1:10,2.2,5.7,11.31,Triângulo FAI,Parapente,SOL Paragliders Sinergy 4,http://www.xcbrasil.com.br//flight/459678
+813,row_459714,24/08/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:53,1.8,6.8,10.27,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/459714
+814,row_459697,24/08/2020,Eric  Zeemann,Pedra Bonita - BR,Brasil,1:23,1.7,6.1,9.18,Distância livre,Parapente - Sport,Dudek Plus 28,http://www.xcbrasil.com.br//flight/459697
+815,row_459709,24/08/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:53,2.5,6.0,9.06,Distância livre,,SOL Ellus 5,http://www.xcbrasil.com.br//flight/459709
+816,row_459936,24/08/2020,Caio  Hersen,Pedra Bonita - BR,Brasil,0:27,2.3,6.0,8.95,Distância livre,Parapente - Sport,UTurn Blacklight SM,http://www.xcbrasil.com.br//flight/459936
+817,row_459708,24/08/2020,Diego Almeida,Pedra Bonita - BR,Brasil,0:12,2.0,4.1,6.11,Distância livre,Parapente - Sport,Sup Air Step M,http://www.xcbrasil.com.br//flight/459708
+818,row_459700,24/08/2020,Gustavo Lenine Velasco de Oliveira,Pedra Bonita - BR,Brasil,0:17,1.7,3.8,5.76,Distância livre,Parapente - Sport,Apco VISTA3 L,http://www.xcbrasil.com.br//flight/459700
+819,row_463313,24/08/2020,Gilvan Alves,Pedra Bonita - BR,Brasil,0:31,1.6,3.6,5.43,Distância livre,Parapente - Sport,Gin Carrera M,http://www.xcbrasil.com.br//flight/463313
+820,row_459707,24/08/2020,Diego Almeida,Pedra Bonita - BR,Brasil,0:15,1.6,3.0,4.56,Distância livre,Parapente - Sport,Sup Air Step M,http://www.xcbrasil.com.br//flight/459707
+821,row_459765,24/08/2020,Rafael Rios,Pedra Bonita - BR,Brasil,0:08,1.7,3.0,4.45,Distância livre,Parapente - Sport,SOL Sycross M,http://www.xcbrasil.com.br//flight/459765
+822,row_459935,24/08/2020,Caio  Hersen,Pedra Bonita - BR,Brasil,0:09,1.7,2.9,4.31,Distância livre,Parapente - Sport,UTurn Blacklight SM,http://www.xcbrasil.com.br//flight/459935
+823,row_459988,24/08/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:06,1.8,2.5,3.80,Distância livre,Parapente - Sport,Ozone RUSH S,http://www.xcbrasil.com.br//flight/459988
+824,row_459505,23/08/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:18,8.2,18.2,31.81,Triângulo livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/459505
+825,row_459521,23/08/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:16,8.1,16.8,29.46,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/459521
+826,row_459867,23/08/2020,Luan lima bastos,Pedra Bonita - BR,Brasil,1:20,8.4,16.6,29.14,Triângulo livre,Parapente - Open,SOL LT1 S,http://www.xcbrasil.com.br//flight/459867
+827,row_459679,23/08/2020,ROBSON PONCIANO,Pedra Bonita - BR,Brasil,1:12,8.6,14.5,21.77,Distância livre,Parapente - Open,Nova Triton 2,http://www.xcbrasil.com.br//flight/459679
+828,row_459524,23/08/2020,Leonard Wollmann,Pedra Bonita - BR,Brasil,1:15,8.4,13.9,20.90,Distância livre,Parapente - Open,Flow Fusion ML,http://www.xcbrasil.com.br//flight/459524
+829,row_459621,23/08/2020,Sidney Correa Netto  Esch,Pedra Bonita - BR,Brasil,1:11,2.9,9.9,14.88,Distância livre,Parapente - Sport,BGD Punk M,http://www.xcbrasil.com.br//flight/459621
+830,row_459849,23/08/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:19,1.7,3.9,7.73,Triângulo FAI,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/459849
+831,row_461891,23/08/2020,Glaucio Rocha,Pedra Bonita - BR,Brasil,0:34,1.9,4.9,7.36,Distância livre,Parapente - Sport,SOL Ellus 4 M,http://www.xcbrasil.com.br//flight/461891
+832,row_459598,23/08/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:21,2.1,4.7,7.12,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/459598
+833,row_473006,23/08/2020,Ian  Fernandes Rocha,Pedra Bonita - BR,Brasil,0:25,1.8,4.4,6.67,Distância livre,Parapente - Sport,Skywalk Chili4 XS,http://www.xcbrasil.com.br//flight/473006
+834,row_459506,23/08/2020,Renato Rocha,Pedra Bonita - BR,Brasil,0:17,1.9,4.1,6.19,Distância livre,Asa delta FAI1 - Kingpost,02/02/2020 Ellus Five,http://www.xcbrasil.com.br//flight/459506
+835,row_459597,23/08/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:11,1.9,4.0,5.93,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/459597
+836,row_459983,10/08/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:07,1.7,2.8,4.15,Distância livre,Parapente - Sport,SOL Atmus One M,http://www.xcbrasil.com.br//flight/459983
+837,row_479348,10/08/2020,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:07,1.6,2.7,4.10,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/479348
+838,row_457769,10/08/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:06,1.6,2.5,3.73,Distância livre,,SOL Ellus 5,http://www.xcbrasil.com.br//flight/457769
+839,row_457946,10/08/2020,Gilvan Alves,Pedra Bonita - BR,Brasil,0:10,1.5,2.5,3.72,Distância livre,Parapente - Sport,Gin Carrera M,http://www.xcbrasil.com.br//flight/457946
+840,row_473003,09/08/2020,Ian  Fernandes Rocha,Pedra Bonita - BR,Brasil,0:17,1.7,3.4,5.17,Distância livre,Parapente - Sport,Skywalk Chili4 XS,http://www.xcbrasil.com.br//flight/473003
+841,row_457620,09/08/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:09,1.6,2.7,4.02,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/457620
+842,row_461675,08/08/2020,Glaucio Rocha,Pedra Bonita - BR,Brasil,0:08,1.7,3.4,5.14,Distância livre,Parapente - Open,Niviuk Artik 3 27,http://www.xcbrasil.com.br//flight/461675
+843,row_460181,08/08/2020,Fernando Magalhaes,Pedra Bonita - BR,Brasil,0:16,1.7,3.0,4.56,Distância livre,Parapente,Gin Explorer,http://www.xcbrasil.com.br//flight/460181
+844,row_459981,08/08/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:06,1.8,2.9,4.28,Distância livre,Parapente - Sport,SOL Atmus One M,http://www.xcbrasil.com.br//flight/459981
+845,row_466707,08/08/2020,Rodrigo Silva,Pedra Bonita - BR,Brasil,0:08,1.8,2.8,4.19,Distância livre,Parapente - Sport,SOL CyclusOne L,http://www.xcbrasil.com.br//flight/466707
+846,row_479350,08/08/2020,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:07,1.6,2.7,4.09,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/479350
+847,row_459982,08/08/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:06,1.8,2.7,4.01,Distância livre,Parapente - Sport,SOL Atmus One M,http://www.xcbrasil.com.br//flight/459982
+848,row_466705,08/08/2020,Rodrigo Silva,Pedra Bonita - BR,Brasil,0:08,1.7,2.6,3.98,Distância livre,Parapente - Sport,SOL CyclusOne L,http://www.xcbrasil.com.br//flight/466705
+849,row_457195,08/08/2020,Eric  Zeemann,Pedra Bonita - BR,Brasil,0:06,1.7,2.6,3.94,Distância livre,Parapente - Sport,Dudek Plus 28,http://www.xcbrasil.com.br//flight/457195
+850,row_479349,08/08/2020,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:07,1.6,2.6,3.89,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/479349
+851,row_457068,07/08/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:12,8.3,17.7,31.04,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/457068
+852,row_457098,07/08/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:55,1.6,6.0,9.04,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/457098
+853,row_457056,07/08/2020,Renato Rocha,Pedra Bonita - BR,Brasil,0:43,2.0,6.0,8.96,Distância livre,Asa delta FAI1 - Kingpost,02/02/2020 Ellus Five,http://www.xcbrasil.com.br//flight/457056
+854,row_457132,07/08/2020,Emerson Oliveira da Silva,Pedra Bonita - BR,Brasil,0:22,1.1,4.1,7.16,Triângulo livre,Parapente - Sport,Skywalk chilli4 M,http://www.xcbrasil.com.br//flight/457132
+855,row_457131,07/08/2020,Emerson Oliveira da Silva,Pedra Bonita - BR,Brasil,0:24,1.6,4.1,6.21,Distância livre,Parapente - Sport,Skywalk chilli4 M,http://www.xcbrasil.com.br//flight/457131
+856,row_458468,07/08/2020,Caio  Hersen,Pedra Bonita - BR,Brasil,0:21,1.8,3.4,5.13,Distância livre,Parapente - Sport,UTurn Blacklight SM,http://www.xcbrasil.com.br//flight/458468
+857,row_457081,07/08/2020,cristiano  monteiro,Pedra Bonita - BR,Brasil,0:18,1.5,3.2,4.85,Distância livre,Parapente - Open,Skywalk Cayenne5 M,http://www.xcbrasil.com.br//flight/457081
+858,row_457097,07/08/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:13,1.6,2.9,4.35,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/457097
+859,row_457092,07/08/2020,Eric  Zeemann,Pedra Bonita - BR,Brasil,0:12,1.7,2.9,4.28,Distância livre,Parapente - Sport,Dudek Plus 28,http://www.xcbrasil.com.br//flight/457092
+860,row_456907,06/08/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:11,8.2,17.3,30.28,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/456907
+861,row_456848,06/08/2020,Erico  Oliveira,Pedra Bonita - BR,Brasil,1:17,3.7,9.7,19.37,Triângulo FAI,Parapente - Open,Niviuk Icepeak,http://www.xcbrasil.com.br//flight/456848
+862,row_456929,06/08/2020,Eric  Zeemann,Pedra Bonita - BR,Brasil,1:09,2.9,9.4,14.11,Distância livre,Parapente - Sport,Dudek Plus 28,http://www.xcbrasil.com.br//flight/456929
+863,row_456933,06/08/2020,Ricardo Rangel  Nogueira,Pedra Bonita - BR,Brasil,1:01,3.1,9.2,13.87,Distância livre,Asa delta FAI1 - Kingpost,Moyes Litesport 4 Dacron,http://www.xcbrasil.com.br//flight/456933
+864,row_456902,06/08/2020,Andre Malicia,Pedra Bonita - BR,Brasil,1:11,1.9,4.9,9.86,Triângulo FAI,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/456902
+865,row_456935,06/08/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:51,1.7,6.3,9.42,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/456935
+866,row_464958,06/08/2020,Daniel de Freitas Lewkovitch,Pedra Bonita - BR,Brasil,0:08,1.6,2.7,4.08,Distância livre,Parapente - Sport,SOL Ellus 4 L,http://www.xcbrasil.com.br//flight/464958
+867,row_456716,05/08/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:55,2.1,5.1,10.13,Triângulo FAI,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/456716
+868,row_456730,05/08/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:35,2.1,4.8,9.53,Triângulo FAI,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/456730
+869,row_456704,05/08/2020,Arthur Freires,Pedra Bonita - BR,Brasil,0:15,3.0,6.2,9.28,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/456704
+870,row_456686,05/08/2020,Renato Rocha,Pedra Bonita - BR,Brasil,0:33,2.0,4.1,6.16,Distância livre,Asa delta FAI1 - Kingpost,02/02/2020 Ellus Five,http://www.xcbrasil.com.br//flight/456686
+871,row_456562,04/08/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:35,8.2,17.4,30.51,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/456562
+872,row_456516,04/08/2020,Renato Rocha,Pedra Bonita - BR,Brasil,0:22,2.1,4.5,6.81,Distância livre,Asa delta FAI1 - Kingpost,02/02/2020 Ellus Five,http://www.xcbrasil.com.br//flight/456516
+873,row_456551,04/08/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:31,1.6,3.3,4.90,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/456551
+874,row_456535,04/08/2020,Flavio Peres de Almeida,Pedra Bonita - BR,Brasil,0:09,1.7,3.0,4.44,Distância livre,Parapente - Sport,SOL Sycross2 XL,http://www.xcbrasil.com.br//flight/456535
+875,row_456546,04/08/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:31,1.7,2.9,4.32,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/456546
+876,row_479351,04/08/2020,Marcos Cavalcante,Pedra Bonita - BR,Brasil,0:13,1.6,2.6,3.85,Distância livre,Parapente - Sport,SOL Atmus 2 S,http://www.xcbrasil.com.br//flight/479351
+877,row_456398,03/08/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:40,8.5,18.9,33.10,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/456398
+878,row_456484,03/08/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,1:13,2.7,7.8,11.66,Distância livre,,SOL Ellus 5,http://www.xcbrasil.com.br//flight/456484
+879,row_456446,03/08/2020,Luciano  Silva Bada,Pedra Bonita - BR,Brasil,0:21,1.7,4.4,8.80,Triângulo FAI,Parapente - Open,Skywalk Cayenne5 L,http://www.xcbrasil.com.br//flight/456446
+880,row_459978,03/08/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:52,1.7,5.8,8.65,Distância livre,Parapente - Sport,SOL Atmus One M,http://www.xcbrasil.com.br//flight/459978
+881,row_456701,03/08/2020,Leonard Wollmann,Pedra Bonita - BR,Brasil,0:49,1.7,5.7,8.50,Distância livre,Parapente - Open,Flow Fusion ML,http://www.xcbrasil.com.br//flight/456701
+882,row_456550,03/08/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:32,2.1,4.6,6.96,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/456550
+883,row_456419,03/08/2020,DANIEL Minahim Araujo da Silva,Pedra Bonita - BR,Brasil,0:07,1.8,3.9,5.81,Distância livre,Asa delta FAI1 - Kingpost,Moyes Malibu 188,http://www.xcbrasil.com.br//flight/456419
+884,row_459977,03/08/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:34,1.8,3.8,5.66,Distância livre,Parapente - Sport,SOL Atmus One M,http://www.xcbrasil.com.br//flight/459977
+885,row_456379,03/08/2020,DANIEL Minahim Araujo da Silva,Pedra Bonita - BR,Brasil,0:07,1.7,3.4,5.12,Distância livre,Asa delta FAI1 - Kingpost,Moyes Malibu 188,http://www.xcbrasil.com.br//flight/456379
+886,row_457088,03/08/2020,Clayton  Lima,Pedra Bonita - BR,Brasil,0:14,1.7,3.4,5.03,Distância livre,Parapente - Sport,Swing SWING Arcus 6.24,http://www.xcbrasil.com.br//flight/457088
+887,row_457087,03/08/2020,Clayton  Lima,Pedra Bonita - BR,Brasil,0:19,1.7,3.3,5.01,Distância livre,Parapente - Sport,Swing SWING Arcus 6.24,http://www.xcbrasil.com.br//flight/457087
+888,row_459973,03/08/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:16,1.6,3.3,4.91,Distância livre,Parapente - Sport,SOL Atmus One M,http://www.xcbrasil.com.br//flight/459973
+889,row_472795,03/08/2020,Ricardo Augusto Ubeira Franco,Pedra Bonita - BR,Brasil,0:14,1.4,3.0,4.48,Distância livre,Asa delta FAI1 - Kingpost,Moyes Malibu 16.6,http://www.xcbrasil.com.br//flight/472795
+890,row_456469,03/08/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:11,1.8,2.9,4.42,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/456469
+891,row_464957,03/08/2020,Daniel de Freitas Lewkovitch,Pedra Bonita - BR,Brasil,0:11,1.7,2.9,4.34,Distância livre,Parapente - Sport,SOL Ellus 4 L,http://www.xcbrasil.com.br//flight/464957
+892,row_459976,03/08/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:08,1.7,2.7,4.04,Distância livre,Parapente - Sport,SOL Atmus One M,http://www.xcbrasil.com.br//flight/459976
+893,row_456102,02/08/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,2:18,9.0,19.4,33.93,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/456102
+894,row_456105,02/08/2020,Leandro Basilio,Pedra Bonita - BR,Brasil,1:09,8.0,17.2,30.15,Triângulo livre,Parapente - Open,Advance Sigma10 27,http://www.xcbrasil.com.br//flight/456105
+895,row_456098,02/08/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:14,9.2,15.8,23.67,Distância livre,Parapente - Open,Flow Xc Racer Ml,http://www.xcbrasil.com.br//flight/456098
+896,row_457185,02/08/2020,isaac rozemberg,Pedra Bonita - BR,Brasil,1:22,3.3,9.1,13.63,Distância livre,Asa delta FAI1 - Kingpost,Airborne STING,http://www.xcbrasil.com.br//flight/457185
+897,row_459720,02/08/2020,ROBSON PONCIANO,Pedra Bonita - BR,Brasil,0:41,2.8,7.9,11.82,Distância livre,Parapente - Open,UTurn Passion M,http://www.xcbrasil.com.br//flight/459720
+898,row_473001,02/08/2020,Ian  Fernandes Rocha,Pedra Bonita - BR,Brasil,1:20,1.9,5.1,10.16,Triângulo FAI,Parapente - Sport,Skywalk Chili4 XS,http://www.xcbrasil.com.br//flight/473001
+899,row_456334,02/08/2020,Luciano  Silva Bada,Pedra Bonita - BR,Brasil,0:24,1.7,5.0,7.50,Distância livre,Parapente - Open,Skywalk Cayenne5 L,http://www.xcbrasil.com.br//flight/456334
+900,row_456254,02/08/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:30,2.0,4.8,7.20,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/456254
+901,row_456495,02/08/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:23,2.0,4.3,6.38,Distância livre,Parapente - Sport,SOL Atmus One M,http://www.xcbrasil.com.br//flight/456495
+902,row_456259,02/08/2020,Rodrigo Hidemi,Pedra Bonita - BR,Brasil,0:17,1.6,3.7,5.60,Distância livre,Parapente,Skywalk Chili2 S,http://www.xcbrasil.com.br//flight/456259
+903,row_456088,02/08/2020,DANIEL Minahim Araujo da Silva,Pedra Bonita - BR,Brasil,0:06,1.7,3.4,5.10,Distância livre,Asa delta FAI1 - Kingpost,Moyes Malibu 188,http://www.xcbrasil.com.br//flight/456088
+904,row_462019,02/08/2020,Glaucio Rocha,Pedra Bonita - BR,Brasil,0:24,1.5,3.4,5.09,Distância livre,Parapente - Open,Niviuk Artik 3 27,http://www.xcbrasil.com.br//flight/462019
+905,row_457611,02/08/2020,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:31,1.8,3.4,5.06,Distância livre,Parapente - Sport,Niviuk Koyot,http://www.xcbrasil.com.br//flight/457611
+906,row_456548,02/08/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:31,1.7,3.3,4.90,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/456548
+907,row_456137,02/08/2020,DANIEL Minahim Araujo da Silva,Pedra Bonita - BR,Brasil,0:10,1.7,3.2,4.79,Distância livre,Asa delta FAI1 - Kingpost,Moyes Malibu 188,http://www.xcbrasil.com.br//flight/456137
+908,row_472794,02/08/2020,Ricardo Augusto Ubeira Franco,Pedra Bonita - BR,Brasil,0:10,1.4,3.1,4.58,Distância livre,Asa delta FAI1 - Kingpost,Moyes Malibu 16.6,http://www.xcbrasil.com.br//flight/472794
+909,row_456251,02/08/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:10,1.6,3.0,4.45,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/456251
+910,row_462018,02/08/2020,Glaucio Rocha,Pedra Bonita - BR,Brasil,0:02,0.5,1.2,1.78,Distância livre,Parapente - Sport,SOL Ellus 4 M,http://www.xcbrasil.com.br//flight/462018
+911,row_456357,01/08/2020,Antonio  Valenca,Pedra Bonita - BR,Brasil,1:48,9.3,22.2,38.81,Triângulo livre,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/456357
+912,row_455945,01/08/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,1:02,2.0,7.4,11.16,Distância livre,,SOL Ellus 5,http://www.xcbrasil.com.br//flight/455945
+913,row_456255,01/08/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,1:02,1.7,7.4,11.06,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/456255
+914,row_456086,01/08/2020,Patricia  Diniz,Pedra Bonita - BR,Brasil,1:22,2.4,5.1,10.16,Triângulo FAI,Parapente - Sport,Niviuk Koyot,http://www.xcbrasil.com.br//flight/456086
+915,row_455961,01/08/2020,rodrigo rodrigues,Pedra Bonita - BR,Brasil,0:46,1.0,5.3,8.00,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/455961
+916,row_472999,01/08/2020,Ian  Fernandes Rocha,Pedra Bonita - BR,Brasil,0:56,1.7,4.9,7.40,Distância livre,Parapente - Sport,Skywalk Chili4 XS,http://www.xcbrasil.com.br//flight/472999
+917,row_472793,01/08/2020,Ricardo Augusto Ubeira Franco,Pedra Bonita - BR,Brasil,0:18,1.9,4.5,6.82,Distância livre,Asa delta FAI1 - Kingpost,Moyes Malibu 16.6,http://www.xcbrasil.com.br//flight/472793
+918,row_455946,01/08/2020,DANIEL Minahim Araujo da Silva,Pedra Bonita - BR,Brasil,0:11,2.1,4.4,6.54,Distância livre,Asa delta FAI1 - Kingpost,Moyes Malibu 188,http://www.xcbrasil.com.br//flight/455946
+919,row_455944,01/08/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:17,1.6,3.0,4.56,Distância livre,,SOL Ellus 5,http://www.xcbrasil.com.br//flight/455944
+920,row_462026,01/08/2020,Glaucio Rocha,Pedra Bonita - BR,Brasil,0:09,1.5,3.0,4.43,Distância livre,Parapente - Sport,SOL Ellus 4 M,http://www.xcbrasil.com.br//flight/462026
+921,row_455909,01/08/2020,Arthur Freires,Pedra Bonita - BR,Brasil,0:07,1.7,2.8,4.17,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/455909
+922,row_455865,27/07/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,0:24,1.7,3.5,5.23,Distância livre,,SOL Ellus 5,http://www.xcbrasil.com.br//flight/455865
+923,row_454586,24/07/2020,Gustavo Lenine Velasco de Oliveira,Pedra Bonita - BR,Brasil,0:53,1.8,6.3,9.39,Distância livre,Parapente - Sport,Apco VISTA3 L,http://www.xcbrasil.com.br//flight/454586
+924,row_454331,23/07/2020,Diego Almeida,Pedra Bonita - BR,Brasil,0:18,1.7,3.0,4.45,Distância livre,Parapente - Sport,Sup Air Step M,http://www.xcbrasil.com.br//flight/454331
+925,row_454404,23/07/2020,Gustavo Lenine Velasco de Oliveira,Pedra Bonita - BR,Brasil,0:07,1.3,2.8,4.26,Distância livre,Parapente - Sport,Apco VISTA3 L,http://www.xcbrasil.com.br//flight/454404
+926,row_455282,23/07/2020,Daniel de Freitas Lewkovitch,Pedra Bonita - BR,Brasil,0:07,1.6,2.8,4.22,Distância livre,Parapente - Sport,SOL Ellus 4 L,http://www.xcbrasil.com.br//flight/455282
+927,row_454583,23/07/2020,Clayton  Lima,Pedra Bonita - BR,Brasil,0:08,1.8,2.6,3.91,Distância livre,Parapente,Swing SWING Arcus 6.24,http://www.xcbrasil.com.br//flight/454583
+928,row_453881,21/07/2020,Bruno Santana,Pedra Bonita - BR,Brasil,0:09,1.6,2.8,4.15,Distância livre,Parapente - Open,BGD WASP M,http://www.xcbrasil.com.br//flight/453881
+929,row_453909,21/07/2020,Eric  Zeemann,Pedra Bonita - BR,Brasil,0:06,1.7,2.5,3.79,Distância livre,Parapente - Sport,Dudek Plus 28,http://www.xcbrasil.com.br//flight/453909
+930,row_454219,21/07/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:07,1.7,2.5,3.67,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/454219
+931,row_454221,20/07/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:17,1.8,3.0,4.47,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/454221
+932,row_455284,20/07/2020,Daniel de Freitas Lewkovitch,Pedra Bonita - BR,Brasil,0:07,1.6,2.9,4.35,Distância livre,Parapente - Sport,SOL Ellus 4 L,http://www.xcbrasil.com.br//flight/455284
+933,row_455096,19/07/2020,ROBSON PONCIANO,Pedra Bonita - BR,Brasil,0:09,1.7,3.4,5.15,Distância livre,Parapente - Open,Nova Triton 2,http://www.xcbrasil.com.br//flight/455096
+934,row_454220,19/07/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:53,1.7,3.3,4.92,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/454220
+935,row_453433,19/07/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,1:00,1.7,3.2,4.79,Distância livre,,SOL Ellus 5,http://www.xcbrasil.com.br//flight/453433
+936,row_460711,19/07/2020,Rennis Oliveira,Pedra Bonita - BR,Brasil,0:07,1.7,3.1,4.62,Distância livre,Parapente - Open,Niviuk Artik 5,http://www.xcbrasil.com.br//flight/460711
+937,row_455577,19/07/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:09,1.9,3.1,4.61,Distância livre,Parapente - Sport,SOL Atmus One M,http://www.xcbrasil.com.br//flight/455577
+938,row_453714,19/07/2020,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:09,1.6,2.8,4.13,Distância livre,Parapente - Sport,A B,http://www.xcbrasil.com.br//flight/453714
+939,row_453194,18/07/2020,Arthur Freires,Pedra Bonita - BR,Brasil,0:18,1.7,4.0,5.96,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/453194
+940,row_453152,18/07/2020,Gustavo Lenine Velasco de Oliveira,Pedra Bonita - BR,Brasil,0:47,2.0,3.7,5.58,Distância livre,Parapente - Sport,Apco VISTA3 L,http://www.xcbrasil.com.br//flight/453152
+941,row_453196,18/07/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:47,1.8,3.7,5.57,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/453196
+942,row_453151,18/07/2020,Gustavo Lenine Velasco de Oliveira,Pedra Bonita - BR,Brasil,0:23,1.5,3.2,4.78,Distância livre,Parapente - Sport,Apco VISTA3 L,http://www.xcbrasil.com.br//flight/453151
+943,row_454582,18/07/2020,Clayton  Lima,Pedra Bonita - BR,Brasil,0:10,1.7,2.8,4.16,Distância livre,Parapente - Sport,Swing SWING Arcus 6.24,http://www.xcbrasil.com.br//flight/454582
+944,row_453199,17/07/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:43,1.8,4.7,7.01,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/453199
+945,row_455575,17/07/2020,Alexandre Leopoldino Pereira da Sil,Pedra Bonita - BR,Brasil,0:09,1.8,3.9,5.78,Distância livre,Parapente - Sport,SOL Atmus One M,http://www.xcbrasil.com.br//flight/455575
+946,row_472992,17/07/2020,Ian  Fernandes Rocha,Pedra Bonita - BR,Brasil,0:15,1.7,3.3,4.88,Distância livre,Parapente - Sport,Skywalk Chili4 XS,http://www.xcbrasil.com.br//flight/472992
+947,row_453715,17/07/2020,Patricia  Diniz,Pedra Bonita - BR,Brasil,0:08,1.6,2.7,3.99,Distância livre,Parapente - Sport,A B,http://www.xcbrasil.com.br//flight/453715
+948,row_454581,17/07/2020,Clayton  Lima,Pedra Bonita - BR,Brasil,0:10,1.7,2.5,3.76,Distância livre,Parapente - Sport,Swing SWING Arcus 6.24,http://www.xcbrasil.com.br//flight/454581
+949,row_455811,16/07/2020,Antonio  Valenca,Pedra Bonita - BR,Brasil,0:22,1.8,4.3,6.43,Distância livre,Asa delta FAI1 - Topless,Moyes Litespeed RX,http://www.xcbrasil.com.br//flight/455811
+950,row_451952,10/07/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:42,6.6,15.1,30.20,Triângulo FAI,Parapente - Open,Flow Xc Race Ml,http://www.xcbrasil.com.br//flight/451952
+951,row_452003,10/07/2020,Marcelo Araripe,Pedra Bonita - BR,Brasil,1:26,4.1,14.8,22.26,Distância livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/452003
+952,row_451960,10/07/2020,Erico  Oliveira,Pedra Bonita - BR,Brasil,0:46,4.2,10.3,15.39,Distância livre,Parapente - Open,Niviuk Icepeak,http://www.xcbrasil.com.br//flight/451960
+953,row_452210,10/07/2020,Luan lima bastos,Pedra Bonita - BR,Brasil,0:37,1.7,5.5,10.94,Triângulo FAI,Parapente - Open,SOL LT1 S,http://www.xcbrasil.com.br//flight/452210
+954,row_452211,10/07/2020,Luan lima bastos,Pedra Bonita - BR,Brasil,0:23,2.9,6.2,9.34,Distância livre,Parapente - Open,SOL LT1 S,http://www.xcbrasil.com.br//flight/452211
+955,row_455640,10/07/2020,Joao  Vilardo de Mattos,Pedra Bonita - BR,Brasil,0:30,2.2,5.9,8.85,Distância livre,Parapente - Open,Skywalk Chili4 XS,http://www.xcbrasil.com.br//flight/455640
+956,row_451968,10/07/2020,Arthur Freires,Pedra Bonita - BR,Brasil,0:17,2.3,5.3,7.98,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/451968
+957,row_452135,10/07/2020,Luciano  Silva Bada,Pedra Bonita - BR,Brasil,0:11,1.8,4.7,6.98,Distância livre,Parapente - Open,Skywalk Cayenne5 L,http://www.xcbrasil.com.br//flight/452135
+958,row_452579,10/07/2020,Bruno  Menezes,Pedra Bonita - BR,Brasil,0:25,1.9,4.6,6.88,Distância livre,Parapente - Sport,Dudek Optic2,http://www.xcbrasil.com.br//flight/452579
+959,row_451975,10/07/2020,Renato Rocha,Pedra Bonita - BR,Brasil,0:13,1.8,4.5,6.73,Distância livre,Asa delta FAI1 - Kingpost,02/02/2020 Ellus Five,http://www.xcbrasil.com.br//flight/451975
+960,row_452504,10/07/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:28,1.6,3.9,5.84,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/452504
+961,row_455285,10/07/2020,Daniel de Freitas Lewkovitch,Pedra Bonita - BR,Brasil,0:10,1.8,3.7,5.51,Distância livre,Parapente - Sport,SOL Ellus 4 L,http://www.xcbrasil.com.br//flight/455285
+962,row_452417,10/07/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:23,1.6,2.9,4.35,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/452417
+963,row_436043,15/03/2020,Carlos da Silva Nogueira,Pedra Bonita - BR,Brasil,1:36,1.6,5.0,7.48,Distância livre,Parapente - Open,Sup Air Taska S,http://www.xcbrasil.com.br//flight/436043
+964,row_435934,15/03/2020,Luciano  Silva Bada,Pedra Bonita - BR,Brasil,0:18,1.7,3.8,5.76,Distância livre,Parapente - Open,Skywalk Cayenne5 L,http://www.xcbrasil.com.br//flight/435934
+965,row_436166,15/03/2020,Bruno Moreira,Pedra Bonita - BR,Brasil,0:32,1.6,3.8,5.65,Distância livre,Parapente - Open,Flow XCracer M,http://www.xcbrasil.com.br//flight/436166
+966,row_444923,15/03/2020,Lucas Wilke Dalla Rosa,Pedra Bonita - BR,Brasil,0:08,1.6,3.5,5.25,Distância livre,Parapente,SOL Atmus One,http://www.xcbrasil.com.br//flight/444923
+967,row_436017,15/03/2020,Bruno Goncalves da Silva,Pedra Bonita - BR,Brasil,0:11,1.3,3.2,4.82,Distância livre,Parapente - Open,SOL Atmus One XL,http://www.xcbrasil.com.br//flight/436017
+968,row_440278,15/03/2020,Thaise Galvan,Pedra Bonita - BR,Brasil,0:16,1.7,2.9,4.30,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Andorinha 165,http://www.xcbrasil.com.br//flight/440278
+969,row_435975,15/03/2020,Gilnei  Reckziegel,Pedra Bonita - BR [~0.8],Brasil,0:06,1.0,1.8,2.74,Distância livre,Parapente - Sport,SOL Prymus5 XL,http://www.xcbrasil.com.br//flight/435975
+970,row_435634,14/03/2020,Silvio Pinheiro,Pedra Bonita - BR,Brasil,1:48,1.8,4.8,7.27,Distância livre,Parapente - Open,Nova Mentor4 S,http://www.xcbrasil.com.br//flight/435634
+971,row_435720,14/03/2020,CARLOS HENRIQUE DE BARROS GUARILHA,Pedra Bonita - BR,Brasil,1:18,1.9,4.4,6.64,Distância livre,Parapente - Sport,Skywalk Chili4 Lime,http://www.xcbrasil.com.br//flight/435720
+972,row_444922,14/03/2020,Lucas Wilke Dalla Rosa,Pedra Bonita - BR,Brasil,0:54,1.8,4.4,6.63,Distância livre,Parapente,SOL Atmus One,http://www.xcbrasil.com.br//flight/444922
+973,row_435480,13/03/2020,Daniel Stratievsky Atmosfera,Pedra Bonita - BR,Brasil,0:58,2.2,6.5,9.78,Distância livre,Parapente - Sport,Ozone Rush 3 XL,http://www.xcbrasil.com.br//flight/435480
+974,row_435536,13/03/2020,gildas epaud,Pedra Bonita - BR,Brasil,1:51,2.0,4.8,9.70,Triângulo FAI,Parapente - Sport,Gin Explorer S,http://www.xcbrasil.com.br//flight/435536
+975,row_440269,13/03/2020,Thaise Galvan,Pedra Bonita - BR,Brasil,0:57,1.7,5.1,7.61,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Andorinha 165,http://www.xcbrasil.com.br//flight/440269
+976,row_450798,13/03/2020,Lucio Glauco Vasconcellos Albuquerque,Pedra Bonita - BR,Brasil,0:29,2.4,5.1,7.61,Distância livre,Parapente - Sport,SOL SycrossOne S,http://www.xcbrasil.com.br//flight/450798
+977,row_435491,13/03/2020,Andre Malicia,Pedra Bonita - BR,Brasil,0:44,1.7,4.6,6.92,Distância livre,Parapente - Sport,SOL SycrossOne L,http://www.xcbrasil.com.br//flight/435491
+978,row_435470,13/03/2020,Marcos Manhaes,Pedra Bonita - BR,Brasil,1:10,1.9,4.6,6.83,Distância livre,Parapente - Fun Cup,SOL Ellus 3,http://www.xcbrasil.com.br//flight/435470
+979,row_439292,13/03/2020,MARCELO ALEGRIA,Pedra Bonita - BR,Brasil,0:11,1.8,3.7,5.55,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 195,http://www.xcbrasil.com.br//flight/439292
+980,row_440321,12/03/2020,Fabiano Nahoum,Pedra Bonita - BR,Brasil,1:07,8.7,19.0,33.17,Triângulo livre,Asa delta FAI1 - Topless,Moyes Litespeed RS4,http://www.xcbrasil.com.br//flight/440321
+981,row_435308,12/03/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,0:48,8.0,17.1,29.91,Triângulo livre,Parapente - Open,UP Trango X Race,http://www.xcbrasil.com.br//flight/435308
+982,row_435366,12/03/2020,Arthur Freires,Pedra Bonita - BR,Brasil,0:45,2.5,6.0,11.92,Triângulo FAI,Asa delta FAI1 - Kingpost,Icaro 2000 Laminar 14,http://www.xcbrasil.com.br//flight/435366
+983,row_435604,12/03/2020,Ricardo Rangel  Nogueira,Pedra Bonita - BR,Brasil,0:38,2.7,7.4,11.05,Distância livre,Asa delta FAI1 - Kingpost,Moyes Litesport 4 Dacron,http://www.xcbrasil.com.br//flight/435604
+984,row_435404,12/03/2020,GERVASIO PEDROSA FONSECA,Pedra Bonita - BR,Brasil,1:10,1.6,6.9,10.33,Distância livre,,SOL Ellus 5,http://www.xcbrasil.com.br//flight/435404
+985,row_435369,12/03/2020,Glaucio Rocha,Pedra Bonita - BR,Brasil,0:16,2.4,4.6,9.12,Triângulo FAI,Parapente - Sport,SOL Ellus 4 M,http://www.xcbrasil.com.br//flight/435369
+986,row_440215,12/03/2020,Gustavo Lenine Velasco de Oliveira,Pedra Bonita - BR,Brasil,0:17,1.6,3.4,6.86,Triângulo FAI,Parapente - Open,Skywalk Mescal5 M,http://www.xcbrasil.com.br//flight/440215
+987,row_435414,12/03/2020,Emerson Oliveira da Silva,Pedra Bonita - BR,Brasil,0:40,1.8,4.0,5.92,Distância livre,Parapente - Sport,Skywalk chilli4 M,http://www.xcbrasil.com.br//flight/435414
+988,row_435382,12/03/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:49,1.6,3.0,4.45,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/435382
+989,row_435333,12/03/2020,Gilvan Alves,Pedra Bonita - BR,Brasil,0:15,1.6,2.7,4.00,Distância livre,Parapente - Sport,Gin Carrera M,http://www.xcbrasil.com.br//flight/435333
+990,row_441820,12/03/2020,Ricardo Halfeld Rosadas de Andrad,Pedra Bonita - BR,Brasil,0:10,1.7,2.6,3.96,Distância livre,Parapente - Sport,Skywalk Mescal5 L,http://www.xcbrasil.com.br//flight/441820
+991,row_435144,11/03/2020,Marcelo Araripe,Pedra Bonita - BR [~0.6],Brasil,1:08,9.1,18.4,32.22,Triângulo livre,Parapente - Open,Ozone Zeno ML,http://www.xcbrasil.com.br//flight/435144
+992,row_435132,11/03/2020,Gustavo Alves Russi,Pedra Bonita - BR,Brasil,1:05,5.4,11.7,20.44,Triângulo livre,Parapente - Open,UP Trango X Race,http://www.xcbrasil.com.br//flight/435132
+993,row_435218,11/03/2020,rodrigo rodrigues,Pedra Bonita - BR,Brasil,1:54,1.4,6.9,10.34,Distância livre,Asa delta FAI1 - Kingpost,WillsWing Falcon 140,http://www.xcbrasil.com.br//flight/435218
+994,row_440268,11/03/2020,Thaise Galvan,Pedra Bonita - BR,Brasil,0:31,2.6,5.5,8.22,Distância livre,Asa delta FAI1 - Kingpost,Icaro 2000 Andorinha 165,http://www.xcbrasil.com.br//flight/440268
+995,row_435384,11/03/2020,silvia castelo branco,Pedra Bonita - BR,Brasil,0:30,2.0,4.8,7.20,Distância livre,Parapente - Open,Skywalk Chili4 S,http://www.xcbrasil.com.br//flight/435384
+996,row_466701,11/03/2020,Rodrigo Silva,Pedra Bonita - BR [~0.7],Brasil,0:06,1.1,2.0,3.02,Distância livre,Parapente - Sport,SOL CyclusOne L,http://www.xcbrasil.com.br//flight/466701
+997,row_435099,10/03/2020,Glaucio Rocha,Pedra Bonita - BR,Brasil,1:19,2.4,8.6,12.86,Distância livre,Parapente - Sport,SOL Ellus 4 M,http://www.xcbrasil.com.br//flight/435099
+998,row_435125,10/03/2020,Emerson Oliveira da Silva,Pedra Bonita - BR,Brasil,1:10,2.3,5.7,11.42,Triângulo FAI,Parapente - Sport,Skywalk chilli4 M,http://www.xcbrasil.com.br//flight/435125
+999,row_435084,10/03/2020,wagner teixeira,Pedra Bonita - BR,Brasil,0:44,1.8,7.0,10.43,Distância livre,Parapente - Sport,SOL Ellus5 S,http://www.xcbrasil.com.br//flight/435084
