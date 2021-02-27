@@ -1,0 +1,416 @@
+1614433949447	geckodriver	INFO	Listening on 127.0.0.1:28266
+1614433952367	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileK1FSdE"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614433958390	Marionette	INFO	Listening on port 28277
+1614433958824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614434000852	Marionette	INFO	Stopped listening on port 28277
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+cal\\Temp\\rust_mozprofileraumri"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614433980984	Marionette	INFO	Listening on port 28352
+1614433981349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1614434012005	Marionette	INFO	Stopped listening on port 28352
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+cal\\Temp\\rust_mozprofileP7Ry9W"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614434011175	Marionette	INFO	Listening on port 28448
+1614434011655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1614434017747	Marionette	INFO	Stopped listening on port 28448
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614434329419	geckodriver	INFO	Listening on 127.0.0.1:28886
+1614434332300	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileaVsRWZ"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614434336466	Marionette	INFO	Listening on port 28897
+1614434336722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614434352606	Marionette	INFO	Stopped listening on port 28897
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614434409659	geckodriver	INFO	Listening on 127.0.0.1:29030
+1614434412563	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileGBkExP"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614434418040	Marionette	INFO	Listening on port 29041
+1614434418131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614434583085	Marionette	INFO	Stopped listening on port 29041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614434607308	geckodriver	INFO	Listening on 127.0.0.1:29352
+1614434610155	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofile3LnT2A"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614434615002	Marionette	INFO	Listening on port 29364
+1614434615169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614435271235	Marionette	INFO	Stopped listening on port 29364
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+cal\\Temp\\rust_mozprofileHzLDNi"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614435257885	Marionette	INFO	Listening on port 30172
+1614435257989	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614435270428	Marionette	INFO	Stopped listening on port 30172
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614435274796	geckodriver	INFO	Listening on 127.0.0.1:30252
+1614435277718	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofile1LFlGW"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614435282962	Marionette	INFO	Listening on port 30263
+1614435283218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614435452374	Marionette	INFO	Stopped listening on port 30263
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614435455821	geckodriver	INFO	Listening on 127.0.0.1:30540
+1614435458700	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilebbgqIt"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614435463458	Marionette	INFO	Listening on port 30550
+1614435463698	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1614435607724	Marionette	INFO	Stopped listening on port 30550
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614435617528	geckodriver	INFO	Listening on 127.0.0.1:30786
+1614435620410	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileXPppWb"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614435625312	Marionette	INFO	Listening on port 30798
+1614435625454	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1614435627580	Marionette	INFO	Stopped listening on port 30798
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614435635551	geckodriver	INFO	Listening on 127.0.0.1:30855
+1614435638440	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileq87waZ"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614435643477	Marionette	INFO	Listening on port 30867
+1614435643539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1614435671409	Marionette	INFO	Stopped listening on port 30867
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614435673952	geckodriver	INFO	Listening on 127.0.0.1:30945
+1614435676835	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofile3dFZ0Q"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614435681878	Marionette	INFO	Listening on port 30956
+1614435681949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1614436025086	Marionette	INFO	Stopped listening on port 30956
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614436029112	geckodriver	INFO	Listening on 127.0.0.1:31414
+1614436032011	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilePnPIk2"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614436037346	Marionette	INFO	Listening on port 31424
+1614436037550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614436677877	Marionette	INFO	Stopped listening on port 31424
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614436683300	geckodriver	INFO	Listening on 127.0.0.1:32369
+1614436686195	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileEtoLDf"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614436691453	Marionette	INFO	Listening on port 32380
+1614436691723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614437178239	Marionette	INFO	Stopped listening on port 32380
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614437183693	geckodriver	INFO	Listening on 127.0.0.1:32967
+1614437186668	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilegNFxnb"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614437191359	Marionette	INFO	Listening on port 32977
+1614437191737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614438202964	Marionette	INFO	Stopped listening on port 32977
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614438249267	geckodriver	INFO	Listening on 127.0.0.1:33506
+1614438252125	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileMcdoT4"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614438256949	Marionette	INFO	Listening on port 33514
+1614438257164	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614438270240	Marionette	INFO	Stopped listening on port 33514
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614438310943	geckodriver	INFO	Listening on 127.0.0.1:33591
+1614438313866	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileY25DZu"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614438318940	Marionette	INFO	Listening on port 33601
+1614438319425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614438352015	Marionette	INFO	Stopped listening on port 33601
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614438789060	geckodriver	INFO	Listening on 127.0.0.1:33835
+1614438792038	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilectV1kD"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614438797146	Marionette	INFO	Listening on port 33843
+1614438797601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614439069014	Marionette	INFO	Stopped listening on port 33843
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614439074969	geckodriver	INFO	Listening on 127.0.0.1:33957
+1614439077902	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilebCjKEK"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614439082618	Marionette	INFO	Listening on port 33966
+1614439082964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614439341589	Marionette	INFO	Stopped listening on port 33966
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614439345381	geckodriver	INFO	Listening on 127.0.0.1:34067
+1614439348239	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilepiGkpm"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614439352895	Marionette	INFO	Listening on port 34077
+1614439353294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614439851299	Marionette	INFO	Stopped listening on port 34077
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614439857551	geckodriver	INFO	Listening on 127.0.0.1:34232
+1614439860432	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileaTQjKX"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+1614439865182	Marionette	INFO	Listening on port 34241
+1614439865468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614440015563	Marionette	INFO	Stopped listening on port 34241
+1614440020577	geckodriver	INFO	Listening on 127.0.0.1:34326
+1614440023425	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileh1lJmf"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614440029293	Marionette	INFO	Listening on port 34335
+1614440029650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1614440124549	Marionette	INFO	Stopped listening on port 34335
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614440129639	geckodriver	INFO	Listening on 127.0.0.1:34422
+1614440132569	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileARSMjB"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614440137352	Marionette	INFO	Listening on port 34431
+1614440137625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614440225199	Marionette	INFO	Stopped listening on port 34431
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614440229102	geckodriver	INFO	Listening on 127.0.0.1:34504
+1614440232054	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileIplahq"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614440236847	Marionette	INFO	Listening on port 34512
+1614440237089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614441041893	Marionette	INFO	Stopped listening on port 34512
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614441045567	geckodriver	INFO	Listening on 127.0.0.1:2532
+1614441048529	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileF9mvmu"
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614441054524	Marionette	INFO	Listening on port 2540
+1614441054718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
