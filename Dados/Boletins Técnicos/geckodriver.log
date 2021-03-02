@@ -49995,3 +49995,298 @@ JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unre
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1614728475961	geckodriver	INFO	Listening on 127.0.0.1:1281
+1614728478815	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilekD5Lf9"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728484386	Marionette	INFO	Listening on port 1291
+1614728484466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728488449	Marionette	INFO	Stopped listening on port 1291
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728491147	geckodriver	INFO	Listening on 127.0.0.1:1356
+1614728494021	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilehjGJBB"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728498383	Marionette	INFO	Listening on port 1366
+1614728498461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728501045	Marionette	INFO	Stopped listening on port 1366
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728503609	geckodriver	INFO	Listening on 127.0.0.1:1429
+1614728506430	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilegakMbM"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728510457	Marionette	INFO	Listening on port 1440
+1614728510807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728513229	Marionette	INFO	Stopped listening on port 1440
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728515528	geckodriver	INFO	Listening on 127.0.0.1:1504
+1614728518421	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilemgev0s"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728522388	Marionette	INFO	Listening on port 1512
+1614728522791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728525225	Marionette	INFO	Stopped listening on port 1512
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728527570	geckodriver	INFO	Listening on 127.0.0.1:1579
+1614728530465	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofile9WMjWE"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728534459	Marionette	INFO	Listening on port 1587
+1614728534822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728537318	Marionette	INFO	Stopped listening on port 1587
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728539777	geckodriver	INFO	Listening on 127.0.0.1:1645
+1614728542653	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilejIboKk"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728546708	Marionette	INFO	Listening on port 1653
+1614728547015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728549618	Marionette	INFO	Stopped listening on port 1653
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728551934	geckodriver	INFO	Listening on 127.0.0.1:1710
+1614728554819	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileKMOvoq"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728558835	Marionette	INFO	Listening on port 1718
+1614728559180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728561721	Marionette	INFO	Stopped listening on port 1718
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728564163	geckodriver	INFO	Listening on 127.0.0.1:1777
+1614728567057	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofile1Xdr9R"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728571177	Marionette	INFO	Listening on port 1785
+1614728571412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728574126	Marionette	INFO	Stopped listening on port 1785
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728576534	geckodriver	INFO	Listening on 127.0.0.1:1840
+1614728579425	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofile8YvI1y"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728583665	Marionette	INFO	Listening on port 1848
+1614728583792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728586521	Marionette	INFO	Stopped listening on port 1848
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728588959	geckodriver	INFO	Listening on 127.0.0.1:1907
+1614728591837	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileUemrbi"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728595857	Marionette	INFO	Listening on port 1915
+1614728596202	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728598918	Marionette	INFO	Stopped listening on port 1915
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728601363	geckodriver	INFO	Listening on 127.0.0.1:1973
+1614728604303	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofile96uBUH"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728608786	Marionette	INFO	Listening on port 1981
+1614728608810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728611698	Marionette	INFO	Stopped listening on port 1981
+1614728614264	geckodriver	INFO	Listening on 127.0.0.1:2037
+1614728617125	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilexXDp6G"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728621195	Marionette	INFO	Listening on port 2045
+1614728621486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728623826	Marionette	INFO	Stopped listening on port 2045
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728626049	geckodriver	INFO	Listening on 127.0.0.1:2106
+1614728628948	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilei1zoxZ"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728633147	Marionette	INFO	Listening on port 2118
+1614728633303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728635933	Marionette	INFO	Stopped listening on port 2118
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728638109	geckodriver	INFO	Listening on 127.0.0.1:2171
+1614728641011	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilen8TTr2"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728644996	Marionette	INFO	Listening on port 2179
+1614728645380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728647977	Marionette	INFO	Stopped listening on port 2179
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728650325	geckodriver	INFO	Listening on 127.0.0.1:2236
+1614728653215	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofile8H8uXC"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728657288	Marionette	INFO	Listening on port 2244
+1614728657577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728660062	Marionette	INFO	Stopped listening on port 2244
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728662644	geckodriver	INFO	Listening on 127.0.0.1:2302
+1614728665506	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilejHKBAf"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728669423	Marionette	INFO	Listening on port 2310
+1614728669879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728672554	Marionette	INFO	Stopped listening on port 2310
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728675005	geckodriver	INFO	Listening on 127.0.0.1:2367
+1614728678016	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileYFy6Jp"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728682065	Marionette	INFO	Listening on port 2375
+1614728682377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728685267	Marionette	INFO	Stopped listening on port 2375
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728687710	geckodriver	INFO	Listening on 127.0.0.1:2437
+1614728690611	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileR4wn8c"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728694722	Marionette	INFO	Listening on port 2445
+1614728694968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728697830	Marionette	INFO	Stopped listening on port 2445
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614728700397	geckodriver	INFO	Listening on 127.0.0.1:2503
+1614728703221	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofilesparSV"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728707307	Marionette	INFO	Listening on port 2511
+1614728707587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+1614728710502	Marionette	INFO	Stopped listening on port 2511
+1614728712978	geckodriver	INFO	Listening on 127.0.0.1:2569
+1614728715862	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\upe2\\AppData\\Local\\Temp\\rust_mozprofileVAO11O"
+*** You are running in headless mode.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverrideFirstRunPage.
+console.error: Enterprise Policies: 
+  Invalid parameters specified for OverridePostUpdatePage.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1614728719948	Marionette	INFO	Listening on port 2577
+1614728720224	Marionette	WARN	TLS certificate errors will be ignored for this session
