@@ -1,0 +1,1642 @@
+Entidade;Classe
+ACRE;Bacia
+AFOGADOS DA INGAZEIRA;Bacia
+AGUA BONITA;Bacia
+ALAGOAS;Bacia
+ALMADA;Bacia
+ALTO TAPAJOS;Bacia
+AMAPA;Bacia
+AMAZONAS;Bacia
+ARARIPE;Bacia
+BANANAL;Bacia
+BARREIRINHAS;Bacia
+BARRO;Bacia
+BETANIA;Bacia
+BOM NOME;Bacia
+BRAGANCA VIZEU-ILHA NOVA;Bacia
+CAMAMU;Bacia
+CAMPOS;Bacia
+CEARÁ;Bacia
+CEDRO;Bacia
+CUMURUXATIBA;Bacia
+CURITIBA;Bacia
+ESPIRITO SANTO;Bacia
+FOZ DO AMAZONAS;Bacia
+ICO;Bacia
+IGUATU;Bacia
+IRECE;Bacia
+ITABERABA;Bacia
+ITABORAI;Bacia
+JACUIPE;Bacia
+JATOBA;Bacia
+JEQUITINHONHA;Bacia
+LIMA CAMPOS;Bacia
+MADRE DE DIOS;Bacia
+MALHADO VERMELHO;Bacia
+MARAJO;Bacia
+MIRANDIBA;Bacia
+MUCURI;Bacia
+PANTANAL;Bacia
+PARAIBA-PERNAMBUCO;Bacia
+PARA-MARANHAO;Bacia
+PARANA;Bacia
+PARECIS-ALTO XINGU;Bacia
+PARNAIBA;Bacia
+PELOTAS;Bacia
+POMBAL;Bacia
+POTIGUAR;Bacia
+RECONCAVO;Bacia
+RESENDE;Bacia
+Rio do Peixe;Bacia
+SANTOS;Bacia
+SAO FRANCISCO;Bacia
+SAO JOSE DO BELMONTE;Bacia
+SAO LUIZ;Bacia
+SAO PAULO;Bacia
+SERGIPE;Bacia
+SERRA DO INACIO;Bacia
+SOLIMOES;Bacia
+SOUZA;Bacia
+TACUTU;Bacia
+TAUBATE;Bacia
+TRIUNFO;Bacia
+TUCANO CENTRAL;Bacia
+TUCANO NORTE;Bacia
+TUCANO SUL;Bacia
+TUPANACI;Bacia
+AREA DO ALS-25;Campo
+AREA DO ALS-27;Campo
+AREA DO ALS-32;Campo
+CAVALA;Campo
+MERO;Campo
+PARU;Campo
+AZULAO;Campo
+IGARAPE CUIA;Campo
+JAPIIM;Campo
+PARANA AUTAS MIRIM;Campo
+AREA DO BAS-64;Campo
+CAMARAO NORTE;Campo
+MANATI;Campo
+SARDINHA;Campo
+ABALONE2;Campo
+ALBACORA;Campo
+ALBACORA LESTE;Campo
+ANC BRAVA;Campo
+ANEQUIM;Campo
+AREA DO RJS-150;Campo
+AREA DO RJS-433;Campo
+AREA DO RJS-485;Campo
+AREA DO RJS-498;Campo
+AREA ESS-100;Campo
+ARGONAUTA;Campo
+BADEJO;Campo
+BAGRE;Campo
+BALEIA ANA;Campo
+BALEIA AZUL;Campo
+BALEIA BICUDA;Campo
+BALEIA FRANCA;Campo
+BARRACUDA;Campo
+BICUDO;Campo
+BIJUPIRA;Campo
+BONITO;Campo
+CACHALOTE;Campo
+CARAPEBA;Campo
+CARAPICU;Campo
+CARATAI;Campo
+CARATINGA;Campo
+CATUA;Campo
+CAXAREU;Campo
+CHERNE;Campo
+CONGRO;Campo
+CORVINA;Campo
+ENCHOVA;Campo
+ENCHOVA OESTE;Campo
+ESPADARTE;Campo
+FRADE;Campo
+GAROUPA;Campo
+GAROUPINHA;Campo
+GUARAJUBA;Campo
+JUBARTE;Campo
+LINGUADO;Campo
+MALHADO;Campo
+MANGANGA;Campo
+MARIMBA;Campo
+MARLIM;Campo
+MARLIM LESTE;Campo
+MARLIM SUL;Campo
+MAROMBA;Campo
+MOREIA;Campo
+NAMORADO;Campo
+NARU;Campo
+NAUTILUS;Campo
+NORDESTE DE NAMORADO;Campo
+OSTRA;Campo
+PAMPO;Campo
+PAO DE ACUCAR;Campo
+PAPA-TERRA;Campo
+PARATI;Campo
+PARGO;Campo
+PIRAMBU;Campo
+PIRAUNA;Campo
+RONCADOR;Campo
+SALEMA;Campo
+TARTARUGA MESTICA;Campo
+TARTARUGA VERDE;Campo
+TARTARUGA VERDE AREA DA UNIAO;Campo
+TARTARUGA VERDE SUDOESTE;Campo
+TRILHA;Campo
+VERMELHO;Campo
+VIOLA;Campo
+VOADOR;Campo
+XERELETE;Campo
+XERELETE SUL;Campo
+1BRSA713RJS;Campo
+AREA CES-141;Campo
+AREA DO CES-128;Campo
+AREA DO CES-33;Campo
+AREA DO CES-49;Campo
+AREA DO CES-66;Campo
+AREA DO CES-74;Campo
+AREA DO CES-79;Campo
+AREA DO CES-90;Campo
+ATUM;Campo
+CURIMA;Campo
+ESPADA;Campo
+XAREU;Campo
+1BRSA1080CES;Campo
+AREA DO BAS-104;Campo
+AREA DO BAS-39;Campo
+AREA DO BAS-48;Campo
+AREA DO BAS-91;Campo
+ARRAIA;Campo
+AREA DO ESS-30;Campo
+AREA DO 1BRSA936DESS;Campo
+CACAO;Campo
+CAMARUPIM;Campo
+CAMARUPIM NORTE;Campo
+CANAPU;Campo
+CANGOA;Campo
+CARAPO;Campo
+FRAGATA;Campo
+GOLFINHO;Campo
+PEROA;Campo
+1BRSA1143DESS;Campo
+1BRSA882ESS;Campo
+1BRSA926DESS;Campo
+1BRSA983ESS;Campo
+PIRAPEMA;Campo
+AREA DO BAS-37;Campo
+AREA DO BAS-60;Campo
+AREA DO BAS-85;Campo
+AREA DO BAS-86;Campo
+AREA DO PAS-11;Campo
+BARRA BONITA;Campo
+MATO RICO;Campo
+AGULHA;Campo
+ARABAIANA;Campo
+ARATUM;Campo
+AREA DO RNS-36;Campo
+BIQUARA;Campo
+CARAUNA;Campo
+CIOBA;Campo
+DENTAO;Campo
+GUAIUBA;Campo
+GUAJA;Campo
+NORTE DE PESCADA;Campo
+OESTE DE UBARANA;Campo
+PESCADA;Campo
+SALEMA BRANCA;Campo
+SERRA;Campo
+SIRI;Campo
+UBARANA;Campo
+ACAJA;Campo
+AGUA GRANDE;Campo
+APRAIUS;Campo
+ARACAS;Campo
+ARACAS LESTE;Campo
+ARATU;Campo
+AREA DO BRSA1299;Campo
+AREA DO BRSA1300;Campo
+AREA DO BRSA1304;Campo
+AREA DO BRSA-1331D-BA;Campo
+AREA DO BRSA1347;Campo
+AREA DO BRSA1351;Campo
+BEIJA-FLOR;Campo
+BELA VISTA;Campo
+BIRIBA;Campo
+BOM LUGAR;Campo
+BONSUCESSO;Campo
+BREJINHO (REC);Campo
+BURACICA;Campo
+BURIZINHO;Campo
+CAMACARI;Campo
+CAMBACICA;Campo
+CANABRAVA;Campo
+CANARIO DA TERRA;Campo
+CANARIO DA TERRA SUL;Campo
+CANDEIAS;Campo
+CANTAGALO;Campo
+CARACATU;Campo
+CARDEAL;Campo
+CASSARONGONGO;Campo
+CEXIS;Campo
+CIDADE DE ENTRE RIOS;Campo
+CURIO;Campo
+DIAS DAVILA;Campo
+DOM JOAO;Campo
+FAZENDA ALTO DAS PEDRAS;Campo
+FAZENDA ALVORADA;Campo
+FAZENDA AZEVEDO;Campo
+FAZENDA AZEVEDO OESTE;Campo
+FAZENDA BALSAMO;Campo
+FAZENDA BELEM (REC);Campo
+FAZENDA BOA ESPERANCA;Campo
+FAZENDA FLORESTA;Campo
+FAZENDA GAMELEIRA;Campo
+FAZENDA IMBE;Campo
+FAZENDA MAMOEIRO;Campo
+FAZENDA ONCA;Campo
+FAZENDA PANELAS;Campo
+FAZENDA PIMENTEIRA;Campo
+FAZENDA RIO BRANCO;Campo
+FAZENDA SANTO ESTEVAO;Campo
+FAZENDA SAO PAULO;Campo
+FAZENDA SORI;Campo
+GAMBOA;Campo
+GOMO;Campo
+GUANAMBI;Campo
+GURIATA;Campo
+GURIATA SUL;Campo
+ILHA DE BIMBARRA;Campo
+ITAPARICA;Campo
+JACARANDA;Campo
+JACUIPE;Campo
+JACUMIRIM;Campo
+JANDAIA;Campo
+JANDAIA SUL;Campo
+LAGOA DO PAULO;Campo
+LAGOA DO PAULO NORTE;Campo
+LAGOA DO PAULO SUL;Campo
+LAGOA VERDE;Campo
+LAMARAO;Campo
+LEODORIO;Campo
+LOBATO;Campo
+MALOMBE;Campo
+MANDACARU;Campo
+MAPELE;Campo
+MASSAPE;Campo
+MASSUI;Campo
+MATA DE SAO JOAO;Campo
+MIRANGA;Campo
+MIRANGA LESTE;Campo
+MIRANGA NORTE;Campo
+MIRANGA OESTE;Campo
+NORTE DE FAZENDA CARUACU;Campo
+PARAMIRIM DO VENCIMENTO;Campo
+PARIRI;Campo
+PEDRINHAS;Campo
+PITANGA;Campo
+POJUCA;Campo
+POJUCA NORTE;Campo
+QUIAMBINA;Campo
+REMANSO;Campo
+RIACHO DA BARRA;Campo
+RIACHO DE SAO PEDRO;Campo
+RIACHO OURICURI;Campo
+RIACHO QUIRICO;Campo
+RIACHO SESMARIA;Campo
+RIO DA SERRA;Campo
+RIO DO BU;Campo
+RIO DOS OVOS;Campo
+RIO ITARIRI;Campo
+RIO JOANES;Campo
+RIO PIPIRI;Campo
+RIO POJUCA;Campo
+RIO SAUIPE;Campo
+RIO SUBAUMA;Campo
+RIO UNA;Campo
+SANTANA;Campo
+SAO DOMINGOS;Campo
+SAO PEDRO;Campo
+SAUIPE;Campo
+SESMARIA;Campo
+SETE GALHOS;Campo
+SOCORRO;Campo
+SOCORRO EXTENSAO;Campo
+SOCORRO EXTENSAO NORTE;Campo
+SUSSUARANA;Campo
+TANGARA;Campo
+TAPIRANGA;Campo
+TAPIRANGA NORTE;Campo
+TAQUIPE;Campo
+VALE DO QUIRICO;Campo
+1BRSA502BA;Campo
+1BRSA568DBA;Campo
+ANC NORTE ATAPU;Campo
+ANC TUPI LESTE;Campo
+AREA DE LIBRA;Campo
+AREA DO BRSA-1267;Campo
+AREA DO BSS-69;Campo
+AREA DO BSS-70;Campo
+AREA DO BSS-75;Campo
+AREA DO BS-400;Campo
+AREA DO BS-500;Campo
+AREA DO RJS-539;Campo
+AREA DO 2-ANP-2A-RJS;Campo
+ATAPU;Campo
+ATLANTA;Campo
+AZULAO;Campo
+BAUNA;Campo
+BAUNA SUL;Campo
+BERBIGAO;Campo
+BUZIOS;Campo
+CARAPIA;Campo
+CARAVELA;Campo
+CARAVELA SUL;Campo
+CAVALO MARINHO;Campo
+CEDRO;Campo
+CERNAMBI;Campo
+CORAL;Campo
+ESTRELA DO MAR;Campo
+GUAIAMA;Campo
+ITAPU;Campo
+LAGOSTA;Campo
+LAPA;Campo
+MERLUZA;Campo
+MERO;Campo
+MEXILHAO;Campo
+NORDESTE DE SAPINHOA;Campo
+NOROESTE DE SAPINHOA;Campo
+NORTE DE BERBIGAO;Campo
+NORTE DE SURURU;Campo
+OESTE DE ATAPU;Campo
+OLIVA;Campo
+PIRACABA;Campo
+PIRACUCA;Campo
+PIRAPITANGA;Campo
+SAPINHOA;Campo
+SAPINHOA AREA DA UNIAO;Campo
+SEPIA;Campo
+SEPIA LESTE;Campo
+SUDOESTE DE SAPINHOA;Campo
+SUL DE BERBIGAO;Campo
+SUL DE SAPINHOA;Campo
+SUL DE SURURU;Campo
+SUL DE TUPI;Campo
+SURURU;Campo
+TAMBAU;Campo
+TAMBUATA;Campo
+TUBARAO;Campo
+TUPI;Campo
+URUGUA;Campo
+1BRSA329DRJS;Campo
+1BRSA526SPS;Campo
+1BRSA532ASPS;Campo
+1BRSA559ARJS;Campo
+AREA DO SES-100;Campo
+AREA DO SES-106;Campo
+AREA DO SES-2;Campo
+AREA DO SES-29;Campo
+AREA DO SES-30;Campo
+AREA DO SES-52;Campo
+AREA DO SES-54;Campo
+AREA DO SES-70;Campo
+AREA DO SES-79;Campo
+AREA DO SES-86B;Campo
+AREA DO SES-91;Campo
+AREA DO SES-92;Campo
+CAIOBA;Campo
+CAMORIM;Campo
+DOURADO;Campo
+GUARICEMA;Campo
+PIRANEMA;Campo
+PIRANEMA SUL;Campo
+ROBALO;Campo
+SALGO;Campo
+TAINHA;Campo
+TARTARUGA;Campo
+TATUI;Campo
+1BRSA1022SES;Campo
+1BRSA1083SES;Campo
+1BRSA1088SES;Campo
+1BRSA1104SES;Campo
+1BRSA1108SES;Campo
+1BRSA851SES;Campo
+ARARA AZUL;Campo
+ARARACANGA;Campo
+CARAPANAUBA;Campo
+CUPIUBA;Campo
+IGARAPE IPOCA;Campo
+IGARAPE PUCA;Campo
+IPIXUNA;Campo
+JATOBA;Campo
+JURUA;Campo
+LESTE DO URUCU;Campo
+NASCENTE DO MARIMARI;Campo
+NORDESTE DE JURUA;Campo
+RIO BIA;Campo
+RIO BUANA BRANCO;Campo
+RIO COPACA;Campo
+RIO URUCU;Campo
+SERNAMBI;Campo
+SUDOESTE DE JURUA;Campo
+SUDOESTE DE URUCU;Campo
+TAQUARE;Campo
+1BRSA769AM;Campo
+CONCEICAO;Campo
+CURRAL DE FORA;Campo
+FAZENDA CAJUBA;Campo
+FAZENDA MATINHA;Campo
+FAZENDA SANTA ROSA;Campo
+IRAI;Campo
+LAGOA BRANCA;Campo
+QUERERA;Campo
+SEMPRE VIVA;Campo
+SUBAUMA MIRIM;Campo
+AGLOMERADO VULCÂNICO;Litologia
+ANDESITO;Litologia
+ANIDRITA;Litologia
+ARDOSIA;Litologia
+AREIA;Litologia
+ARENITO;Litologia
+ARENITO ARGILOSO;Litologia
+ARENITO BIOTURBADO;Litologia
+ARENITO CARBONATICO;Litologia
+ARENITO CONGLOMERATICO;Litologia
+ARENITO FOSFATICO;Litologia
+ARENITO TOBACEO;Litologia
+ARGILA;Litologia
+ARGILITO;Litologia
+ARGILITO ARENOSO;Litologia
+ARGILITO CARBONATICO;Litologia
+ARGILITO CARBONOSO;Litologia
+ARGILITO SILTICO;Litologia
+ARGILITO TOBACEO;Litologia
+BAFFLESTONE;Litologia
+BASALTO;Litologia
+BINDSTONE;Litologia
+BIOACUMULADO;Litologia
+BIOLITITO;Litologia
+BOUNDSTONE;Litologia
+BOUNDSTONE ARBORESCENTE;Litologia
+BOUNDSTONE LAMINADO;Litologia
+BRECHA;Litologia
+BRECHA CARBONATICA;Litologia
+BRECHA VULCANICA;Litologia
+CALCARENITO;Litologia
+CALCARIO;Litologia
+CALCARIO CRISTALINO;Litologia
+CALCILUTITO;Litologia
+CALCIRUDITO;Litologia
+CALCISSILTITO;Litologia
+CARNALITA;Litologia
+CARVAO;Litologia
+CHERT;Litologia
+CINZA VULCANICA;Litologia
+CONGLOMERADO;Litologia
+COQUINA;Litologia
+DACITO;Litologia
+DENDROLITO;Litologia
+DIABASIO;Litologia
+DIAMICTITO;Litologia
+DIORITO;Litologia
+DOLOMITO;Litologia
+ESFERULITITO;Litologia
+ESTROMATOLITO;Litologia
+ESTROMATOLITO ARBORESCENTE;Litologia
+ESTROMATOLITO ARBUSTIFORME;Litologia
+ESTROMATOLITO DENDRIFORME;Litologia
+FILITO;Litologia
+FLOATSTONE;Litologia
+FOLHELHO;Litologia
+FOLHELHO SILTICO;Litologia
+FONOLITO;Litologia
+FOSFORITA;Litologia
+FRAMESTONE;Litologia
+GABRO;Litologia
+GIPSITA;Litologia
+GNAISSE;Litologia
+GRAINSTONE;Litologia
+GRANITO;Litologia
+GRANODIORITO;Litologia
+HALITA;Litologia
+HIALOCLASTICO;Litologia
+IGNEA;Litologia
+IGNIMBRITO;Litologia
+LAMINITO;Litologia
+LAMINITO CRENULADO;Litologia
+LAMINITO LISO;Litologia
+LAMITO;Litologia
+LAPILLI;Litologia
+LEIOLITO;Litologia
+LINHITO;Litologia
+MARGA;Litologia
+MARMORE;Litologia
+MARMORE DOLOMITICO;Litologia
+META-ARENITO;Litologia
+METAMORFICA;Litologia
+METASSEDIMENTO;Litologia
+METASSILTITO;Litologia
+MUDSTONE;Litologia
+ORTOCONGLOMERADO;Litologia
+PACKSTONE;Litologia
+PLUTONICA;Litologia
+QUARTZITO;Litologia
+RIOLITO;Litologia
+ROCHA MAFICA;Litologia
+ROCHA ULTRA MAFICA;Litologia
+ROCHA VULCANOCLASTICA;Litologia
+RUDSTONE;Litologia
+SAL;Litologia
+SIDERITA;Litologia
+SIENITO;Litologia
+SILEXITO;Litologia
+SILTITO;Litologia
+SILVINITA;Litologia
+TALCOESTIVENCITA;Litologia
+TAQUIDRITA;Litologia
+TILITO;Litologia
+TRAQUITO;Litologia
+TRAVERTINO;Litologia
+TROMBOLITO;Litologia
+TUFO VULCANICO;Litologia
+ULTRABASICA;Litologia
+VULCANICA;Litologia
+WACKESTONE;Litologia
+XISTO;Litologia
+Fanerozoico;Unidade_Cronoestratigrafica
+Cenozoico;Unidade_Cronoestratigrafica
+Quaternário;Unidade_Cronoestratigrafica
+Holoceno;Unidade_Cronoestratigrafica
+Pleistoceno;Unidade_Cronoestratigrafica
+Pleistoceno Superior;Unidade_Cronoestratigrafica
+Tarantiano;Unidade_Cronoestratigrafica
+Pleistoceno Médio;Unidade_Cronoestratigrafica
+Ioniano;Unidade_Cronoestratigrafica
+Pleistoceno Inferior;Unidade_Cronoestratigrafica
+Calabriano;Unidade_Cronoestratigrafica
+Gelasiano;Unidade_Cronoestratigrafica
+Neogeno;Unidade_Cronoestratigrafica
+Plioceno;Unidade_Cronoestratigrafica
+Plioceno Superior;Unidade_Cronoestratigrafica
+Piacenziano;Unidade_Cronoestratigrafica
+Plioceno Inferior;Unidade_Cronoestratigrafica
+Zancleano;Unidade_Cronoestratigrafica
+Mioceno;Unidade_Cronoestratigrafica
+Mioceno Superior;Unidade_Cronoestratigrafica
+Messiniano;Unidade_Cronoestratigrafica
+Tortoniano;Unidade_Cronoestratigrafica
+Mioceno Médio;Unidade_Cronoestratigrafica
+Serravalliano;Unidade_Cronoestratigrafica
+Langhiano;Unidade_Cronoestratigrafica
+Mioceno Inferior;Unidade_Cronoestratigrafica
+Burdigaliano;Unidade_Cronoestratigrafica
+Aquitaniano;Unidade_Cronoestratigrafica
+Paleogeno;Unidade_Cronoestratigrafica
+Oligoceno;Unidade_Cronoestratigrafica
+Oligoceno Superior;Unidade_Cronoestratigrafica
+Chattiano;Unidade_Cronoestratigrafica
+Oligoceno Inferior;Unidade_Cronoestratigrafica
+Rupeliano;Unidade_Cronoestratigrafica
+Eoceno;Unidade_Cronoestratigrafica
+Eoceno Superior;Unidade_Cronoestratigrafica
+Priaboniano;Unidade_Cronoestratigrafica
+Eoceno Médio;Unidade_Cronoestratigrafica
+Bartoniano;Unidade_Cronoestratigrafica
+Lutetiano;Unidade_Cronoestratigrafica
+Eoceno Inferior;Unidade_Cronoestratigrafica
+Ypresiano;Unidade_Cronoestratigrafica
+Paleoceno;Unidade_Cronoestratigrafica
+Paleoceno Superior;Unidade_Cronoestratigrafica
+Thanetiano;Unidade_Cronoestratigrafica
+Paleoceno Médio;Unidade_Cronoestratigrafica
+Selandiano;Unidade_Cronoestratigrafica
+Paleoceno Inferior;Unidade_Cronoestratigrafica
+Daniano;Unidade_Cronoestratigrafica
+Mesozoico;Unidade_Cronoestratigrafica
+Cretáceo;Unidade_Cronoestratigrafica
+Cretáceo Superior;Unidade_Cronoestratigrafica
+Maastrichtiano;Unidade_Cronoestratigrafica
+Maastrichtiano Superior;Unidade_Cronoestratigrafica
+Maastrichtiano Inferior;Unidade_Cronoestratigrafica
+Campaniano;Unidade_Cronoestratigrafica
+Campaniano Superior;Unidade_Cronoestratigrafica
+Campaniano Médio;Unidade_Cronoestratigrafica
+Campaniano Inferior;Unidade_Cronoestratigrafica
+Santoniano;Unidade_Cronoestratigrafica
+Santoniano Superior;Unidade_Cronoestratigrafica
+Santoniano Médio;Unidade_Cronoestratigrafica
+Santoniano Inferior;Unidade_Cronoestratigrafica
+Coniaciano;Unidade_Cronoestratigrafica
+Coniaciano Superior;Unidade_Cronoestratigrafica
+Coniaciano Médio;Unidade_Cronoestratigrafica
+Coniaciano Inferior;Unidade_Cronoestratigrafica
+Turoniano;Unidade_Cronoestratigrafica
+Turoniano Superior;Unidade_Cronoestratigrafica
+Turoniano Médio;Unidade_Cronoestratigrafica
+Turoniano Inferior;Unidade_Cronoestratigrafica
+Cenomaniano;Unidade_Cronoestratigrafica
+Cenomaniano Superior;Unidade_Cronoestratigrafica
+Cenomaniano Médio;Unidade_Cronoestratigrafica
+Cenomaniano Inferior;Unidade_Cronoestratigrafica
+Cretáceo Inferior;Unidade_Cronoestratigrafica
+Albiano;Unidade_Cronoestratigrafica
+Albiano Superior;Unidade_Cronoestratigrafica
+Albiano Médio;Unidade_Cronoestratigrafica
+Albiano Inferior;Unidade_Cronoestratigrafica
+Aptiano;Unidade_Cronoestratigrafica
+Aptiano Superior;Unidade_Cronoestratigrafica
+Aptiano Inferior;Unidade_Cronoestratigrafica
+Barremiano;Unidade_Cronoestratigrafica
+Barremiano Superior;Unidade_Cronoestratigrafica
+Barremiano Inferior;Unidade_Cronoestratigrafica
+Hauteriviano;Unidade_Cronoestratigrafica
+Hauteriviano Superior;Unidade_Cronoestratigrafica
+Hauteriviano Inferior;Unidade_Cronoestratigrafica
+Valanginiano;Unidade_Cronoestratigrafica
+Valanginiano Superior;Unidade_Cronoestratigrafica
+Valanginiano Inferior;Unidade_Cronoestratigrafica
+Berriasiano;Unidade_Cronoestratigrafica
+Berriasiano Superior;Unidade_Cronoestratigrafica
+Berriasiano Médio;Unidade_Cronoestratigrafica
+Berriasiano Inferior;Unidade_Cronoestratigrafica
+Jurássico;Unidade_Cronoestratigrafica
+Jurássico Superior;Unidade_Cronoestratigrafica
+Tithoniano;Unidade_Cronoestratigrafica
+Tithoniano Superior;Unidade_Cronoestratigrafica
+Tithoniano Inferior;Unidade_Cronoestratigrafica
+Kimmeridgiano;Unidade_Cronoestratigrafica
+Kimmeridgiano Superior;Unidade_Cronoestratigrafica
+Kimmeridgiano Inferior;Unidade_Cronoestratigrafica
+Oxfordiano;Unidade_Cronoestratigrafica
+Oxfordiano Superior;Unidade_Cronoestratigrafica
+Oxfordiano Médio;Unidade_Cronoestratigrafica
+Oxfordiano Inferior;Unidade_Cronoestratigrafica
+Jurássico Médio;Unidade_Cronoestratigrafica
+Calloviano;Unidade_Cronoestratigrafica
+Calloviano Superior;Unidade_Cronoestratigrafica
+Calloviano Médio;Unidade_Cronoestratigrafica
+Calloviano Inferior;Unidade_Cronoestratigrafica
+Bathoniano;Unidade_Cronoestratigrafica
+Bathoniano Superior;Unidade_Cronoestratigrafica
+Bathoniano Médio;Unidade_Cronoestratigrafica
+Bathoniano Inferior;Unidade_Cronoestratigrafica
+Bajociano;Unidade_Cronoestratigrafica
+Bajociano Superior;Unidade_Cronoestratigrafica
+Bajociano Inferior;Unidade_Cronoestratigrafica
+Aaleniano;Unidade_Cronoestratigrafica
+Aaleniano Superior;Unidade_Cronoestratigrafica
+Aaleniano Médio;Unidade_Cronoestratigrafica
+Aaleniano Inferior;Unidade_Cronoestratigrafica
+Jurássico Inferior;Unidade_Cronoestratigrafica
+Toarciano;Unidade_Cronoestratigrafica
+Toarciano Superior;Unidade_Cronoestratigrafica
+Toarciano Inferior;Unidade_Cronoestratigrafica
+Pliensbachiano;Unidade_Cronoestratigrafica
+Pliensbachiano Superior;Unidade_Cronoestratigrafica
+Pliensbachiano Inferior;Unidade_Cronoestratigrafica
+Sinemuriano;Unidade_Cronoestratigrafica
+Sinemuriano Superior;Unidade_Cronoestratigrafica
+Sinemuriano Inferior;Unidade_Cronoestratigrafica
+Hettangiano;Unidade_Cronoestratigrafica
+Triássico;Unidade_Cronoestratigrafica
+Triássico Superior;Unidade_Cronoestratigrafica
+Rhaetiano;Unidade_Cronoestratigrafica
+Noriano;Unidade_Cronoestratigrafica
+Sevatiano;Unidade_Cronoestratigrafica
+Alauniano;Unidade_Cronoestratigrafica
+Laciano;Unidade_Cronoestratigrafica
+Carniano;Unidade_Cronoestratigrafica
+Tuvaliano;Unidade_Cronoestratigrafica
+Juliano;Unidade_Cronoestratigrafica
+Cordevoliano;Unidade_Cronoestratigrafica
+Triássico Médio;Unidade_Cronoestratigrafica
+Ladiniano;Unidade_Cronoestratigrafica
+Longobardiano;Unidade_Cronoestratigrafica
+Fassaniano;Unidade_Cronoestratigrafica
+Anisiano;Unidade_Cronoestratigrafica
+Illyriano;Unidade_Cronoestratigrafica
+Pelsoniano;Unidade_Cronoestratigrafica
+Bityniano;Unidade_Cronoestratigrafica
+Aegeano;Unidade_Cronoestratigrafica
+Triássico Inferior;Unidade_Cronoestratigrafica
+Olenekiano;Unidade_Cronoestratigrafica
+Spathiano;Unidade_Cronoestratigrafica
+Smithiano;Unidade_Cronoestratigrafica
+Induano;Unidade_Cronoestratigrafica
+Dieneriano;Unidade_Cronoestratigrafica
+Griesbachiano;Unidade_Cronoestratigrafica
+Paleozoico;Unidade_Cronoestratigrafica
+Permiano;Unidade_Cronoestratigrafica
+Lopingiano;Unidade_Cronoestratigrafica
+Changhsingiano;Unidade_Cronoestratigrafica
+Wuchiapingiano;Unidade_Cronoestratigrafica
+Guadalupiano;Unidade_Cronoestratigrafica
+Capitaniano;Unidade_Cronoestratigrafica
+Wordiano;Unidade_Cronoestratigrafica
+Roadiano;Unidade_Cronoestratigrafica
+Cisuraliano;Unidade_Cronoestratigrafica
+Kunguriano;Unidade_Cronoestratigrafica
+Artinskiano;Unidade_Cronoestratigrafica
+Sakmariano;Unidade_Cronoestratigrafica
+Asseliano;Unidade_Cronoestratigrafica
+Carbonífero;Unidade_Cronoestratigrafica
+Pennsylvaniano;Unidade_Cronoestratigrafica
+Pennsylvaniano Superior;Unidade_Cronoestratigrafica
+Gzheliano;Unidade_Cronoestratigrafica
+Kasimoviano;Unidade_Cronoestratigrafica
+Pennsylvaniano Médio;Unidade_Cronoestratigrafica
+Moscoviano;Unidade_Cronoestratigrafica
+Pennsylvaniano Inferior;Unidade_Cronoestratigrafica
+Bashkiriano;Unidade_Cronoestratigrafica
+Mississippiano;Unidade_Cronoestratigrafica
+Mississippiano Superior;Unidade_Cronoestratigrafica
+Serpukhoviano;Unidade_Cronoestratigrafica
+Mississippiano Médio;Unidade_Cronoestratigrafica
+Viseano;Unidade_Cronoestratigrafica
+Mississippiano Inferior;Unidade_Cronoestratigrafica
+Tournaisiano;Unidade_Cronoestratigrafica
+Devoniano;Unidade_Cronoestratigrafica
+Devoniano Superior;Unidade_Cronoestratigrafica
+Famenniano;Unidade_Cronoestratigrafica
+Famenniano Superior;Unidade_Cronoestratigrafica
+Famenniano Inferior;Unidade_Cronoestratigrafica
+Frasniano;Unidade_Cronoestratigrafica
+Frasniano Superior;Unidade_Cronoestratigrafica
+Frasniano Médio;Unidade_Cronoestratigrafica
+Frasniano Inferior;Unidade_Cronoestratigrafica
+Devoniano Médio;Unidade_Cronoestratigrafica
+Givetiano;Unidade_Cronoestratigrafica
+Givetiano Superior;Unidade_Cronoestratigrafica
+Givetiano Médio;Unidade_Cronoestratigrafica
+Givetiano Inferior;Unidade_Cronoestratigrafica
+Eifeliano;Unidade_Cronoestratigrafica
+Devoniano Inferior;Unidade_Cronoestratigrafica
+Emsiano;Unidade_Cronoestratigrafica
+Pragiano;Unidade_Cronoestratigrafica
+Lochkoviano;Unidade_Cronoestratigrafica
+Siluriano;Unidade_Cronoestratigrafica
+Pridoli;Unidade_Cronoestratigrafica
+Ludlow;Unidade_Cronoestratigrafica
+Ludfordiano;Unidade_Cronoestratigrafica
+Gorstiano;Unidade_Cronoestratigrafica
+Wenlock;Unidade_Cronoestratigrafica
+Homeriano;Unidade_Cronoestratigrafica
+Sheinwoodiano;Unidade_Cronoestratigrafica
+Llandovery;Unidade_Cronoestratigrafica
+Telychiano;Unidade_Cronoestratigrafica
+Aeroniano;Unidade_Cronoestratigrafica
+Rhuddaniano;Unidade_Cronoestratigrafica
+Ordoviciano;Unidade_Cronoestratigrafica
+Ordoviciano Superior;Unidade_Cronoestratigrafica
+Hirnantiano;Unidade_Cronoestratigrafica
+Katiano;Unidade_Cronoestratigrafica
+Sandbiano;Unidade_Cronoestratigrafica
+Ordoviciano Médio;Unidade_Cronoestratigrafica
+Darriwiliano;Unidade_Cronoestratigrafica
+Dapingiano;Unidade_Cronoestratigrafica
+Ordoviciano Inferior;Unidade_Cronoestratigrafica
+Floiano;Unidade_Cronoestratigrafica
+Tremadociano;Unidade_Cronoestratigrafica
+Cambriano;Unidade_Cronoestratigrafica
+Furongiano;Unidade_Cronoestratigrafica
+Andar 10;Unidade_Cronoestratigrafica
+Jiangshaniano;Unidade_Cronoestratigrafica
+Paibiano;Unidade_Cronoestratigrafica
+Série 3;Unidade_Cronoestratigrafica
+Guzhangiano;Unidade_Cronoestratigrafica
+Drumiano;Unidade_Cronoestratigrafica
+Andar 5;Unidade_Cronoestratigrafica
+Série 2;Unidade_Cronoestratigrafica
+Andar 4;Unidade_Cronoestratigrafica
+Andar 3;Unidade_Cronoestratigrafica
+Terreneuviano;Unidade_Cronoestratigrafica
+Andar 2;Unidade_Cronoestratigrafica
+Fortuniano;Unidade_Cronoestratigrafica
+Proterozoico;Unidade_Cronoestratigrafica
+Neoproterozoico;Unidade_Cronoestratigrafica
+Ediacarano;Unidade_Cronoestratigrafica
+Cryogeniano;Unidade_Cronoestratigrafica
+Toniano;Unidade_Cronoestratigrafica
+Mesoproterozoico;Unidade_Cronoestratigrafica
+Steniano;Unidade_Cronoestratigrafica
+Ectasiano;Unidade_Cronoestratigrafica
+Calymmiano;Unidade_Cronoestratigrafica
+Paleoproterozoico;Unidade_Cronoestratigrafica
+Statheriano;Unidade_Cronoestratigrafica
+Orosiriano;Unidade_Cronoestratigrafica
+Rhyaciano;Unidade_Cronoestratigrafica
+Sideriano;Unidade_Cronoestratigrafica
+Arqueano;Unidade_Cronoestratigrafica
+Neoarqueano;Unidade_Cronoestratigrafica
+Mesoarqueano;Unidade_Cronoestratigrafica
+Paleoarqueano;Unidade_Cronoestratigrafica
+Eoarqueano;Unidade_Cronoestratigrafica
+Hadeano;Unidade_Cronoestratigrafica
+Fanerozoico;Unidade_Cronoestratigrafica
+Cenozoico;Unidade_Cronoestratigrafica
+Quaternário;Unidade_Cronoestratigrafica
+Holoceno;Unidade_Cronoestratigrafica
+Pleistoceno;Unidade_Cronoestratigrafica
+Neopleistoceno;Unidade_Cronoestratigrafica
+Tarantiano;Unidade_Cronoestratigrafica
+Mesopleistoceno;Unidade_Cronoestratigrafica
+Ioniano;Unidade_Cronoestratigrafica
+Eopleistoceno;Unidade_Cronoestratigrafica
+Calabriano;Unidade_Cronoestratigrafica
+Gelasiano;Unidade_Cronoestratigrafica
+Neogeno;Unidade_Cronoestratigrafica
+Plioceno;Unidade_Cronoestratigrafica
+Neoplioceno;Unidade_Cronoestratigrafica
+Piacenziano;Unidade_Cronoestratigrafica
+Eoplioceno;Unidade_Cronoestratigrafica
+Zancleano;Unidade_Cronoestratigrafica
+Mioceno;Unidade_Cronoestratigrafica
+Neomioceno;Unidade_Cronoestratigrafica
+Messiniano;Unidade_Cronoestratigrafica
+Tortoniano;Unidade_Cronoestratigrafica
+Mesomioceno;Unidade_Cronoestratigrafica
+Serravalliano;Unidade_Cronoestratigrafica
+Langhiano;Unidade_Cronoestratigrafica
+Eomioceno;Unidade_Cronoestratigrafica
+Burdigaliano;Unidade_Cronoestratigrafica
+Aquitaniano;Unidade_Cronoestratigrafica
+Paleogeno;Unidade_Cronoestratigrafica
+Oligoceno;Unidade_Cronoestratigrafica
+Neo-oligoceno;Unidade_Cronoestratigrafica
+Chattiano;Unidade_Cronoestratigrafica
+Eo-oligoceno;Unidade_Cronoestratigrafica
+Rupeliano;Unidade_Cronoestratigrafica
+Eoceno;Unidade_Cronoestratigrafica
+Neoeoceno;Unidade_Cronoestratigrafica
+Priaboniano;Unidade_Cronoestratigrafica
+Mesoeoceno;Unidade_Cronoestratigrafica
+Bartoniano;Unidade_Cronoestratigrafica
+Lutetiano;Unidade_Cronoestratigrafica
+Eoeoceno;Unidade_Cronoestratigrafica
+Ypresiano;Unidade_Cronoestratigrafica
+Paleoceno;Unidade_Cronoestratigrafica
+Neopaleoceno;Unidade_Cronoestratigrafica
+Thanetiano;Unidade_Cronoestratigrafica
+Mesopaleoceno;Unidade_Cronoestratigrafica
+Selandiano;Unidade_Cronoestratigrafica
+Eopaleoceno;Unidade_Cronoestratigrafica
+Daniano;Unidade_Cronoestratigrafica
+Mesozoico;Unidade_Cronoestratigrafica
+Cretáceo;Unidade_Cronoestratigrafica
+Neocretáceo;Unidade_Cronoestratigrafica
+Maastrichtiano;Unidade_Cronoestratigrafica
+Neomaastrichtiano;Unidade_Cronoestratigrafica
+Eomaastrichtiano;Unidade_Cronoestratigrafica
+Campaniano;Unidade_Cronoestratigrafica
+Neocampaniano;Unidade_Cronoestratigrafica
+Mesocampaniano;Unidade_Cronoestratigrafica
+Eocampaniano;Unidade_Cronoestratigrafica
+Santoniano;Unidade_Cronoestratigrafica
+Neossantoniano;Unidade_Cronoestratigrafica
+Mesossantoniano;Unidade_Cronoestratigrafica
+Eossantoniano;Unidade_Cronoestratigrafica
+Coniaciano;Unidade_Cronoestratigrafica
+Neoconiaciano;Unidade_Cronoestratigrafica
+Mesoconiaciano;Unidade_Cronoestratigrafica
+Eoconiaciano;Unidade_Cronoestratigrafica
+Turoniano;Unidade_Cronoestratigrafica
+Neoturoniano;Unidade_Cronoestratigrafica
+Mesoturoniano;Unidade_Cronoestratigrafica
+Eoturoniano;Unidade_Cronoestratigrafica
+Cenomaniano;Unidade_Cronoestratigrafica
+Neocenomaniano;Unidade_Cronoestratigrafica
+Mesocenomaniano;Unidade_Cronoestratigrafica
+Eocenomaniano;Unidade_Cronoestratigrafica
+Eocretáceo;Unidade_Cronoestratigrafica
+Albiano;Unidade_Cronoestratigrafica
+Neoalbiano;Unidade_Cronoestratigrafica
+Mesoalbiano;Unidade_Cronoestratigrafica
+Eoalbiano;Unidade_Cronoestratigrafica
+Aptiano;Unidade_Cronoestratigrafica
+Neoaptiano;Unidade_Cronoestratigrafica
+Eoaptiano;Unidade_Cronoestratigrafica
+Barremiano;Unidade_Cronoestratigrafica
+Neobarremiano;Unidade_Cronoestratigrafica
+Eobarremiano;Unidade_Cronoestratigrafica
+Hauteriviano;Unidade_Cronoestratigrafica
+Neo-hauteriviano;Unidade_Cronoestratigrafica
+Eo-hauteriviano;Unidade_Cronoestratigrafica
+Valanginiano;Unidade_Cronoestratigrafica
+Neovalanginiano;Unidade_Cronoestratigrafica
+Eovalanginiano;Unidade_Cronoestratigrafica
+Berriasiano;Unidade_Cronoestratigrafica
+Neoberriasiano;Unidade_Cronoestratigrafica
+Mesoberriasiano;Unidade_Cronoestratigrafica
+Eoberriasiano;Unidade_Cronoestratigrafica
+Jurássico;Unidade_Cronoestratigrafica
+Neojurássico;Unidade_Cronoestratigrafica
+Tithoniano;Unidade_Cronoestratigrafica
+Neotithoniano;Unidade_Cronoestratigrafica
+Eotithoniano;Unidade_Cronoestratigrafica
+Kimmeridgiano;Unidade_Cronoestratigrafica
+Neokimmeridgiano;Unidade_Cronoestratigrafica
+Eokimmeridgiano;Unidade_Cronoestratigrafica
+Oxfordiano;Unidade_Cronoestratigrafica
+Neo-oxfordiano;Unidade_Cronoestratigrafica
+Meso-oxfordiano;Unidade_Cronoestratigrafica
+Eo-oxfordiano;Unidade_Cronoestratigrafica
+Mesojurássico;Unidade_Cronoestratigrafica
+Calloviano;Unidade_Cronoestratigrafica
+Neocalloviano;Unidade_Cronoestratigrafica
+Mesocalloviano;Unidade_Cronoestratigrafica
+Eocalloviano;Unidade_Cronoestratigrafica
+Bathoniano;Unidade_Cronoestratigrafica
+Neobathoniano;Unidade_Cronoestratigrafica
+Mesobathoniano;Unidade_Cronoestratigrafica
+Eobathoniano;Unidade_Cronoestratigrafica
+Bajociano;Unidade_Cronoestratigrafica
+Neobajociano;Unidade_Cronoestratigrafica
+Eobajociano;Unidade_Cronoestratigrafica
+Aaleniano;Unidade_Cronoestratigrafica
+Neoaaleniano;Unidade_Cronoestratigrafica
+Mesoaaleniano;Unidade_Cronoestratigrafica
+Eoaaleniano;Unidade_Cronoestratigrafica
+Eojurássico;Unidade_Cronoestratigrafica
+Toarciano;Unidade_Cronoestratigrafica
+Neotoarciano;Unidade_Cronoestratigrafica
+Eotoarciano;Unidade_Cronoestratigrafica
+Pliensbachiano;Unidade_Cronoestratigrafica
+Neopliensbachiano;Unidade_Cronoestratigrafica
+Eopliensbachiano;Unidade_Cronoestratigrafica
+Sinemuriano;Unidade_Cronoestratigrafica
+Neossinemuriano;Unidade_Cronoestratigrafica
+Eossinemuriano;Unidade_Cronoestratigrafica
+Hettangiano;Unidade_Cronoestratigrafica
+Triássico;Unidade_Cronoestratigrafica
+Neotriássico;Unidade_Cronoestratigrafica
+Rhaetiano;Unidade_Cronoestratigrafica
+Noriano;Unidade_Cronoestratigrafica
+Sevatiano;Unidade_Cronoestratigrafica
+Alauniano;Unidade_Cronoestratigrafica
+Laciano;Unidade_Cronoestratigrafica
+Carniano;Unidade_Cronoestratigrafica
+Tuvaliano;Unidade_Cronoestratigrafica
+Juliano;Unidade_Cronoestratigrafica
+Cordevoliano;Unidade_Cronoestratigrafica
+Mesotriássico;Unidade_Cronoestratigrafica
+Ladiniano;Unidade_Cronoestratigrafica
+Longobardiano;Unidade_Cronoestratigrafica
+Fassaniano;Unidade_Cronoestratigrafica
+Anisiano;Unidade_Cronoestratigrafica
+Illyriano;Unidade_Cronoestratigrafica
+Pelsoniano;Unidade_Cronoestratigrafica
+Bityniano;Unidade_Cronoestratigrafica
+Aegeano;Unidade_Cronoestratigrafica
+Eotriássico;Unidade_Cronoestratigrafica
+Olenekiano;Unidade_Cronoestratigrafica
+Spathiano;Unidade_Cronoestratigrafica
+Smithiano;Unidade_Cronoestratigrafica
+Induano;Unidade_Cronoestratigrafica
+Dieneriano;Unidade_Cronoestratigrafica
+Griesbachiano;Unidade_Cronoestratigrafica
+Paleozoico;Unidade_Cronoestratigrafica
+Permiano;Unidade_Cronoestratigrafica
+Lopingiano;Unidade_Cronoestratigrafica
+Changhsingiano;Unidade_Cronoestratigrafica
+Wuchiapingiano;Unidade_Cronoestratigrafica
+Guadalupiano;Unidade_Cronoestratigrafica
+Capitaniano;Unidade_Cronoestratigrafica
+Wordiano;Unidade_Cronoestratigrafica
+Roadiano;Unidade_Cronoestratigrafica
+Cisuraliano;Unidade_Cronoestratigrafica
+Kunguriano;Unidade_Cronoestratigrafica
+Artinskiano;Unidade_Cronoestratigrafica
+Sakmariano;Unidade_Cronoestratigrafica
+Asseliano;Unidade_Cronoestratigrafica
+Carbonífero;Unidade_Cronoestratigrafica
+Pennsylvaniano;Unidade_Cronoestratigrafica
+Neopennsylvaniano;Unidade_Cronoestratigrafica
+Gzheliano;Unidade_Cronoestratigrafica
+Kasimoviano;Unidade_Cronoestratigrafica
+Mesopennsylvaniano;Unidade_Cronoestratigrafica
+Moscoviano;Unidade_Cronoestratigrafica
+Eopennsylvaniano;Unidade_Cronoestratigrafica
+Bashkiriano;Unidade_Cronoestratigrafica
+Mississippiano;Unidade_Cronoestratigrafica
+Neomississippiano;Unidade_Cronoestratigrafica
+Serpukhoviano;Unidade_Cronoestratigrafica
+Mesomississippiano;Unidade_Cronoestratigrafica
+Viseano;Unidade_Cronoestratigrafica
+Eomississippiano;Unidade_Cronoestratigrafica
+Tournaisiano;Unidade_Cronoestratigrafica
+Devoniano;Unidade_Cronoestratigrafica
+Neodevoniano;Unidade_Cronoestratigrafica
+Famenniano;Unidade_Cronoestratigrafica
+Neofamenniano;Unidade_Cronoestratigrafica
+Eofamenniano;Unidade_Cronoestratigrafica
+Frasniano;Unidade_Cronoestratigrafica
+Neofrasniano;Unidade_Cronoestratigrafica
+Mesofrasniano;Unidade_Cronoestratigrafica
+Eofrasniano;Unidade_Cronoestratigrafica
+Mesodevoniano;Unidade_Cronoestratigrafica
+Givetiano;Unidade_Cronoestratigrafica
+Neogivetiano;Unidade_Cronoestratigrafica
+Mesogivetiano;Unidade_Cronoestratigrafica
+Eogivetiano;Unidade_Cronoestratigrafica
+Eifeliano;Unidade_Cronoestratigrafica
+Eodevoniano;Unidade_Cronoestratigrafica
+Emsiano;Unidade_Cronoestratigrafica
+Pragiano;Unidade_Cronoestratigrafica
+Lochkoviano;Unidade_Cronoestratigrafica
+Siluriano;Unidade_Cronoestratigrafica
+Pridoli;Unidade_Cronoestratigrafica
+Ludlow;Unidade_Cronoestratigrafica
+Ludfordiano;Unidade_Cronoestratigrafica
+Gorstiano;Unidade_Cronoestratigrafica
+Wenlock;Unidade_Cronoestratigrafica
+Homeriano;Unidade_Cronoestratigrafica
+Sheinwoodiano;Unidade_Cronoestratigrafica
+Llandovery;Unidade_Cronoestratigrafica
+Telychiano;Unidade_Cronoestratigrafica
+Aeroniano;Unidade_Cronoestratigrafica
+Rhuddaniano;Unidade_Cronoestratigrafica
+Ordoviciano;Unidade_Cronoestratigrafica
+Neo-ordoviciano;Unidade_Cronoestratigrafica
+Hirnantiano;Unidade_Cronoestratigrafica
+Katiano;Unidade_Cronoestratigrafica
+Sandbiano;Unidade_Cronoestratigrafica
+Meso-ordoviciano;Unidade_Cronoestratigrafica
+Darriwiliano;Unidade_Cronoestratigrafica
+Dapingiano;Unidade_Cronoestratigrafica
+Eo-ordoviciano;Unidade_Cronoestratigrafica
+Floiano;Unidade_Cronoestratigrafica
+Tremadociano;Unidade_Cronoestratigrafica
+Cambriano;Unidade_Cronoestratigrafica
+Furongiano;Unidade_Cronoestratigrafica
+Idade 10;Unidade_Cronoestratigrafica
+Jiangshaniano;Unidade_Cronoestratigrafica
+Paibiano;Unidade_Cronoestratigrafica
+Época 3;Unidade_Cronoestratigrafica
+Guzhangiano;Unidade_Cronoestratigrafica
+Drumiano;Unidade_Cronoestratigrafica
+Idade 5;Unidade_Cronoestratigrafica
+Época 2;Unidade_Cronoestratigrafica
+Idade 4;Unidade_Cronoestratigrafica
+Idade 3;Unidade_Cronoestratigrafica
+Terreneuviano;Unidade_Cronoestratigrafica
+Idade 2;Unidade_Cronoestratigrafica
+Fortuniano;Unidade_Cronoestratigrafica
+Proterozoico;Unidade_Cronoestratigrafica
+Neoproterozoico;Unidade_Cronoestratigrafica
+Ediacarano;Unidade_Cronoestratigrafica
+Cryogeniano;Unidade_Cronoestratigrafica
+Toniano;Unidade_Cronoestratigrafica
+Mesoproterozoico;Unidade_Cronoestratigrafica
+Steniano;Unidade_Cronoestratigrafica
+Ectasiano;Unidade_Cronoestratigrafica
+Calymmiano;Unidade_Cronoestratigrafica
+Paleoproterozoico;Unidade_Cronoestratigrafica
+Statheriano;Unidade_Cronoestratigrafica
+Orosiriano;Unidade_Cronoestratigrafica
+Rhyaciano;Unidade_Cronoestratigrafica
+Sideriano;Unidade_Cronoestratigrafica
+Arqueano;Unidade_Cronoestratigrafica
+Neoarqueano;Unidade_Cronoestratigrafica
+Mesoarqueano;Unidade_Cronoestratigrafica
+Paleoarqueano;Unidade_Cronoestratigrafica
+Eoarqueano;Unidade_Cronoestratigrafica
+Hadeano;Unidade_Cronoestratigrafica
+Phanerozoic;Unidade_Cronoestratigrafica
+Cenozoic;Unidade_Cronoestratigrafica
+Quaternary;Unidade_Cronoestratigrafica
+Holocene;Unidade_Cronoestratigrafica
+Pleistocene;Unidade_Cronoestratigrafica
+Upper Pleistocene;Unidade_Cronoestratigrafica
+Tarantian;Unidade_Cronoestratigrafica
+Middle Pleistocene;Unidade_Cronoestratigrafica
+Ionian;Unidade_Cronoestratigrafica
+Lower Pleistocene;Unidade_Cronoestratigrafica
+Calabrian;Unidade_Cronoestratigrafica
+Gelasian;Unidade_Cronoestratigrafica
+Neogene;Unidade_Cronoestratigrafica
+Pliocene;Unidade_Cronoestratigrafica
+Upper Pliocene;Unidade_Cronoestratigrafica
+Piacenzian;Unidade_Cronoestratigrafica
+Lower Pliocene;Unidade_Cronoestratigrafica
+Zanclean;Unidade_Cronoestratigrafica
+Miocene;Unidade_Cronoestratigrafica
+Upper Miocene;Unidade_Cronoestratigrafica
+Messinian;Unidade_Cronoestratigrafica
+Tortonian;Unidade_Cronoestratigrafica
+Middle Miocene;Unidade_Cronoestratigrafica
+Serravallian;Unidade_Cronoestratigrafica
+Langhian;Unidade_Cronoestratigrafica
+Lower Miocene;Unidade_Cronoestratigrafica
+Burdigalian;Unidade_Cronoestratigrafica
+Aquitanian;Unidade_Cronoestratigrafica
+Paleogene;Unidade_Cronoestratigrafica
+Oligocene;Unidade_Cronoestratigrafica
+Upper Oligocene;Unidade_Cronoestratigrafica
+Chattian;Unidade_Cronoestratigrafica
+Lower Oligocene;Unidade_Cronoestratigrafica
+Rupelian;Unidade_Cronoestratigrafica
+Eocene;Unidade_Cronoestratigrafica
+Upper Eocene;Unidade_Cronoestratigrafica
+Priabonian;Unidade_Cronoestratigrafica
+Middle Eocene;Unidade_Cronoestratigrafica
+Bartonian;Unidade_Cronoestratigrafica
+Lutetian;Unidade_Cronoestratigrafica
+Lower Eocene;Unidade_Cronoestratigrafica
+Ypresian;Unidade_Cronoestratigrafica
+Paleocene;Unidade_Cronoestratigrafica
+Upper Paleocene;Unidade_Cronoestratigrafica
+Thanetian;Unidade_Cronoestratigrafica
+Middle Paleocene;Unidade_Cronoestratigrafica
+Selandian;Unidade_Cronoestratigrafica
+Lower Paleocene;Unidade_Cronoestratigrafica
+Danian;Unidade_Cronoestratigrafica
+Mesozoic;Unidade_Cronoestratigrafica
+Cretaceous;Unidade_Cronoestratigrafica
+Upper Cretaceous;Unidade_Cronoestratigrafica
+Maastrichtian;Unidade_Cronoestratigrafica
+Upper Maastrichtian;Unidade_Cronoestratigrafica
+Lower Maastrichtian;Unidade_Cronoestratigrafica
+Campanian;Unidade_Cronoestratigrafica
+Upper Campanian;Unidade_Cronoestratigrafica
+Middle Campanian;Unidade_Cronoestratigrafica
+Lower Campanian;Unidade_Cronoestratigrafica
+Santonian;Unidade_Cronoestratigrafica
+Upper Santonian;Unidade_Cronoestratigrafica
+Middle Santonian;Unidade_Cronoestratigrafica
+Lower Santonian;Unidade_Cronoestratigrafica
+Coniacian;Unidade_Cronoestratigrafica
+Upper Coniacian;Unidade_Cronoestratigrafica
+Middle Coniacian;Unidade_Cronoestratigrafica
+Lower Coniacian;Unidade_Cronoestratigrafica
+Turonian;Unidade_Cronoestratigrafica
+Upper Turonian;Unidade_Cronoestratigrafica
+Middle Turonian;Unidade_Cronoestratigrafica
+Lower Turonian;Unidade_Cronoestratigrafica
+Cenomanian ;Unidade_Cronoestratigrafica
+Upper Cenomanian ;Unidade_Cronoestratigrafica
+Middle Cenomanian ;Unidade_Cronoestratigrafica
+Lower Cenomanian ;Unidade_Cronoestratigrafica
+Lower Cretaceous;Unidade_Cronoestratigrafica
+Albian;Unidade_Cronoestratigrafica
+Upper Albian;Unidade_Cronoestratigrafica
+Middle Albian;Unidade_Cronoestratigrafica
+Lower Albian;Unidade_Cronoestratigrafica
+Aptian;Unidade_Cronoestratigrafica
+Upper Aptian;Unidade_Cronoestratigrafica
+Lower Aptian;Unidade_Cronoestratigrafica
+Barremian;Unidade_Cronoestratigrafica
+Upper Barremian;Unidade_Cronoestratigrafica
+Lower Barremian;Unidade_Cronoestratigrafica
+Hauterivian;Unidade_Cronoestratigrafica
+Upper Hauterivian;Unidade_Cronoestratigrafica
+Lower Hauterivian;Unidade_Cronoestratigrafica
+Valanginian;Unidade_Cronoestratigrafica
+Upper Valanginian;Unidade_Cronoestratigrafica
+Lower Valanginian;Unidade_Cronoestratigrafica
+Berriasian;Unidade_Cronoestratigrafica
+Upper Berriasian;Unidade_Cronoestratigrafica
+Middle Berriasian;Unidade_Cronoestratigrafica
+Lower Berriasian;Unidade_Cronoestratigrafica
+Jurassic;Unidade_Cronoestratigrafica
+Upper Jurassic;Unidade_Cronoestratigrafica
+Tithonian;Unidade_Cronoestratigrafica
+Upper Tithonian;Unidade_Cronoestratigrafica
+Lower Tithonian;Unidade_Cronoestratigrafica
+Kimmeridgian;Unidade_Cronoestratigrafica
+Upper Kimmeridgian;Unidade_Cronoestratigrafica
+Lower Kimmeridgian;Unidade_Cronoestratigrafica
+Oxfordian;Unidade_Cronoestratigrafica
+Upper Oxfordian;Unidade_Cronoestratigrafica
+Middle Oxfordian;Unidade_Cronoestratigrafica
+Lower Oxfordian;Unidade_Cronoestratigrafica
+Middle Jurassic;Unidade_Cronoestratigrafica
+Callovian;Unidade_Cronoestratigrafica
+Upper Callovian;Unidade_Cronoestratigrafica
+Middle Callovian;Unidade_Cronoestratigrafica
+Lower Callovian;Unidade_Cronoestratigrafica
+Bathonian;Unidade_Cronoestratigrafica
+Upper Bathonian;Unidade_Cronoestratigrafica
+Middle Bathonian;Unidade_Cronoestratigrafica
+Lower Bathonian;Unidade_Cronoestratigrafica
+Bajocian;Unidade_Cronoestratigrafica
+Upper Bajocian;Unidade_Cronoestratigrafica
+Lower Bajocian;Unidade_Cronoestratigrafica
+Aalenian;Unidade_Cronoestratigrafica
+Upper Aalenian;Unidade_Cronoestratigrafica
+Middle Aalenian;Unidade_Cronoestratigrafica
+Lower Aalenian;Unidade_Cronoestratigrafica
+Lower Jurassic;Unidade_Cronoestratigrafica
+Toarcian;Unidade_Cronoestratigrafica
+Upper Toarcian;Unidade_Cronoestratigrafica
+Lower Toarcian;Unidade_Cronoestratigrafica
+Pliensbachian;Unidade_Cronoestratigrafica
+Upper Pliensbachian;Unidade_Cronoestratigrafica
+Lower Pliensbachian;Unidade_Cronoestratigrafica
+Sinemurian;Unidade_Cronoestratigrafica
+Upper Sinemurian;Unidade_Cronoestratigrafica
+Lower Sinemurian;Unidade_Cronoestratigrafica
+Hettangian;Unidade_Cronoestratigrafica
+Triassic;Unidade_Cronoestratigrafica
+Upper Triassic;Unidade_Cronoestratigrafica
+Rhaetian;Unidade_Cronoestratigrafica
+Norian;Unidade_Cronoestratigrafica
+Sevatian;Unidade_Cronoestratigrafica
+Alaunian;Unidade_Cronoestratigrafica
+Lacian;Unidade_Cronoestratigrafica
+Carnian;Unidade_Cronoestratigrafica
+Tuvalian;Unidade_Cronoestratigrafica
+Julian;Unidade_Cronoestratigrafica
+Cordevolian;Unidade_Cronoestratigrafica
+Middle Triassic;Unidade_Cronoestratigrafica
+Ladinian;Unidade_Cronoestratigrafica
+Longobardian;Unidade_Cronoestratigrafica
+Fassanian;Unidade_Cronoestratigrafica
+Anisian;Unidade_Cronoestratigrafica
+Illyrian;Unidade_Cronoestratigrafica
+Pelsonian;Unidade_Cronoestratigrafica
+Bithynian;Unidade_Cronoestratigrafica
+Aegean;Unidade_Cronoestratigrafica
+Lower Triassic;Unidade_Cronoestratigrafica
+Olenekian;Unidade_Cronoestratigrafica
+Spathian;Unidade_Cronoestratigrafica
+Smithian;Unidade_Cronoestratigrafica
+Induan;Unidade_Cronoestratigrafica
+Dienerian;Unidade_Cronoestratigrafica
+Griesbachian;Unidade_Cronoestratigrafica
+Paleozoic;Unidade_Cronoestratigrafica
+Permian;Unidade_Cronoestratigrafica
+Lopingian;Unidade_Cronoestratigrafica
+Changhsingian;Unidade_Cronoestratigrafica
+Wuchiapingian;Unidade_Cronoestratigrafica
+Guadalupian;Unidade_Cronoestratigrafica
+Capitanian;Unidade_Cronoestratigrafica
+Wordian;Unidade_Cronoestratigrafica
+Roadian;Unidade_Cronoestratigrafica
+Cisuralian;Unidade_Cronoestratigrafica
+Kungurian;Unidade_Cronoestratigrafica
+Artinskian;Unidade_Cronoestratigrafica
+Sakmarian;Unidade_Cronoestratigrafica
+Asselian;Unidade_Cronoestratigrafica
+Carboniferous;Unidade_Cronoestratigrafica
+Pennsylvanian;Unidade_Cronoestratigrafica
+Upper Pennsylvanian;Unidade_Cronoestratigrafica
+Gzhelian;Unidade_Cronoestratigrafica
+Kasimovian;Unidade_Cronoestratigrafica
+Middle Pennsylvanian;Unidade_Cronoestratigrafica
+Moscovian;Unidade_Cronoestratigrafica
+Lower Pennsylvanian;Unidade_Cronoestratigrafica
+Bashkirian;Unidade_Cronoestratigrafica
+Mississippian;Unidade_Cronoestratigrafica
+Upper Mississippian;Unidade_Cronoestratigrafica
+Serpukhovian;Unidade_Cronoestratigrafica
+Middle Mississippian;Unidade_Cronoestratigrafica
+Visean;Unidade_Cronoestratigrafica
+Lower Mississippian;Unidade_Cronoestratigrafica
+Tournaisian;Unidade_Cronoestratigrafica
+Devonian;Unidade_Cronoestratigrafica
+Upper Devonian;Unidade_Cronoestratigrafica
+Famennian;Unidade_Cronoestratigrafica
+Upper Famennian;Unidade_Cronoestratigrafica
+Lower Famennian;Unidade_Cronoestratigrafica
+Frasnian;Unidade_Cronoestratigrafica
+Upper Frasnian;Unidade_Cronoestratigrafica
+Middle Frasnian;Unidade_Cronoestratigrafica
+Lower Frasnian;Unidade_Cronoestratigrafica
+Middle Devonian;Unidade_Cronoestratigrafica
+Givetian;Unidade_Cronoestratigrafica
+Upper Givetian;Unidade_Cronoestratigrafica
+Middle Givetian;Unidade_Cronoestratigrafica
+Lower Givetian;Unidade_Cronoestratigrafica
+Eifelian;Unidade_Cronoestratigrafica
+Lower Devonian;Unidade_Cronoestratigrafica
+Emsian;Unidade_Cronoestratigrafica
+Pragian;Unidade_Cronoestratigrafica
+Lochkovian;Unidade_Cronoestratigrafica
+Silurian;Unidade_Cronoestratigrafica
+Pridoli;Unidade_Cronoestratigrafica
+Ludlow;Unidade_Cronoestratigrafica
+Ludfordian;Unidade_Cronoestratigrafica
+Gorstian;Unidade_Cronoestratigrafica
+Wenlock;Unidade_Cronoestratigrafica
+Homerian;Unidade_Cronoestratigrafica
+Sheinwoodian;Unidade_Cronoestratigrafica
+Llandovery;Unidade_Cronoestratigrafica
+Telychian;Unidade_Cronoestratigrafica
+Aeronian;Unidade_Cronoestratigrafica
+Rhuddanian;Unidade_Cronoestratigrafica
+Ordovician;Unidade_Cronoestratigrafica
+Upper Ordovician;Unidade_Cronoestratigrafica
+Hirnantian;Unidade_Cronoestratigrafica
+Katian;Unidade_Cronoestratigrafica
+Sandbian;Unidade_Cronoestratigrafica
+Middle Ordovician;Unidade_Cronoestratigrafica
+Darriwilian;Unidade_Cronoestratigrafica
+Dapingian;Unidade_Cronoestratigrafica
+Lower Ordovician;Unidade_Cronoestratigrafica
+Floian;Unidade_Cronoestratigrafica
+Tremadocian;Unidade_Cronoestratigrafica
+Cambrian;Unidade_Cronoestratigrafica
+Furongian;Unidade_Cronoestratigrafica
+Stage 10;Unidade_Cronoestratigrafica
+Jiangshanian;Unidade_Cronoestratigrafica
+Paibian;Unidade_Cronoestratigrafica
+Serie 3;Unidade_Cronoestratigrafica
+Guzhangian;Unidade_Cronoestratigrafica
+Drumian;Unidade_Cronoestratigrafica
+Stage 5;Unidade_Cronoestratigrafica
+Serie 2;Unidade_Cronoestratigrafica
+Stage 4;Unidade_Cronoestratigrafica
+Stage 3;Unidade_Cronoestratigrafica
+Terreneuvian;Unidade_Cronoestratigrafica
+Stage 2;Unidade_Cronoestratigrafica
+Fortunian;Unidade_Cronoestratigrafica
+Proterozoic;Unidade_Cronoestratigrafica
+Neoproterozoic;Unidade_Cronoestratigrafica
+Ediacaran;Unidade_Cronoestratigrafica
+Cryogenian;Unidade_Cronoestratigrafica
+Tonian;Unidade_Cronoestratigrafica
+Mesoproterozoic;Unidade_Cronoestratigrafica
+Stenian;Unidade_Cronoestratigrafica
+Ectasian;Unidade_Cronoestratigrafica
+Calymmian;Unidade_Cronoestratigrafica
+Paleoproterozoic;Unidade_Cronoestratigrafica
+Statherian;Unidade_Cronoestratigrafica
+Orosirian;Unidade_Cronoestratigrafica
+Rhyacian;Unidade_Cronoestratigrafica
+Siderian;Unidade_Cronoestratigrafica
+Archean;Unidade_Cronoestratigrafica
+Neoarchean;Unidade_Cronoestratigrafica
+Mesoarchean;Unidade_Cronoestratigrafica
+Paleoarchean;Unidade_Cronoestratigrafica
+Eoarchean;Unidade_Cronoestratigrafica
+Hadean;Unidade_Cronoestratigrafica
+Phanerozoic;Unidade_Cronoestratigrafica
+Cenozoic;Unidade_Cronoestratigrafica
+Quaternary;Unidade_Cronoestratigrafica
+Holocene;Unidade_Cronoestratigrafica
+Pleistocene;Unidade_Cronoestratigrafica
+Late Pleistocene;Unidade_Cronoestratigrafica
+Tarantian;Unidade_Cronoestratigrafica
+Middle Pleistocene;Unidade_Cronoestratigrafica
+Ionian;Unidade_Cronoestratigrafica
+Early Pleistocene;Unidade_Cronoestratigrafica
+Calabrian;Unidade_Cronoestratigrafica
+Gelasian;Unidade_Cronoestratigrafica
+Neogene;Unidade_Cronoestratigrafica
+Pliocene;Unidade_Cronoestratigrafica
+Late Pliocene;Unidade_Cronoestratigrafica
+Piacenzian;Unidade_Cronoestratigrafica
+Early Pliocene;Unidade_Cronoestratigrafica
+Zanclean;Unidade_Cronoestratigrafica
+Miocene;Unidade_Cronoestratigrafica
+Late Miocene;Unidade_Cronoestratigrafica
+Messinian;Unidade_Cronoestratigrafica
+Tortonian;Unidade_Cronoestratigrafica
+Middle Miocene;Unidade_Cronoestratigrafica
+Serravallian;Unidade_Cronoestratigrafica
+Langhian;Unidade_Cronoestratigrafica
+Early Miocene;Unidade_Cronoestratigrafica
+Burdigalian;Unidade_Cronoestratigrafica
+Aquitanian;Unidade_Cronoestratigrafica
+Paleogene;Unidade_Cronoestratigrafica
+Oligocene;Unidade_Cronoestratigrafica
+Late Oligocene;Unidade_Cronoestratigrafica
+Chattian;Unidade_Cronoestratigrafica
+Early Oligocene;Unidade_Cronoestratigrafica
+Rupelian;Unidade_Cronoestratigrafica
+Eocene;Unidade_Cronoestratigrafica
+Late Eocene;Unidade_Cronoestratigrafica
+Priabonian;Unidade_Cronoestratigrafica
+Middle Eocene;Unidade_Cronoestratigrafica
+Bartonian;Unidade_Cronoestratigrafica
+Lutetian;Unidade_Cronoestratigrafica
+Early Eocene;Unidade_Cronoestratigrafica
+Ypresian;Unidade_Cronoestratigrafica
+Paleocene;Unidade_Cronoestratigrafica
+Late Paleocene;Unidade_Cronoestratigrafica
+Thanetian;Unidade_Cronoestratigrafica
+Middle Paleocene;Unidade_Cronoestratigrafica
+Selandian;Unidade_Cronoestratigrafica
+Early Paleocene;Unidade_Cronoestratigrafica
+Danian;Unidade_Cronoestratigrafica
+Mesozoic;Unidade_Cronoestratigrafica
+Cretaceous;Unidade_Cronoestratigrafica
+Late Cretaceous;Unidade_Cronoestratigrafica
+Maastrichtian;Unidade_Cronoestratigrafica
+Late Maastrichtian;Unidade_Cronoestratigrafica
+Early Maastrichtian;Unidade_Cronoestratigrafica
+Campanian;Unidade_Cronoestratigrafica
+Late Campanian;Unidade_Cronoestratigrafica
+Middle Campanian;Unidade_Cronoestratigrafica
+Early Campanian;Unidade_Cronoestratigrafica
+Santonian;Unidade_Cronoestratigrafica
+Late Santonian;Unidade_Cronoestratigrafica
+Middle Santonian;Unidade_Cronoestratigrafica
+Early Santonian;Unidade_Cronoestratigrafica
+Coniacian;Unidade_Cronoestratigrafica
+Late Coniacian;Unidade_Cronoestratigrafica
+Middle Coniacian;Unidade_Cronoestratigrafica
+Early Coniacian;Unidade_Cronoestratigrafica
+Turonian;Unidade_Cronoestratigrafica
+Late Turonian;Unidade_Cronoestratigrafica
+Middle Turonian;Unidade_Cronoestratigrafica
+Early Turonian;Unidade_Cronoestratigrafica
+Cenomanian ;Unidade_Cronoestratigrafica
+Late Cenomanian ;Unidade_Cronoestratigrafica
+Middle Cenomanian ;Unidade_Cronoestratigrafica
+Early Cenomanian ;Unidade_Cronoestratigrafica
+Early Cretaceous;Unidade_Cronoestratigrafica
+Albian;Unidade_Cronoestratigrafica
+Late Albian;Unidade_Cronoestratigrafica
+Middle Albian;Unidade_Cronoestratigrafica
+Early Albian;Unidade_Cronoestratigrafica
+Aptian;Unidade_Cronoestratigrafica
+Late Aptian;Unidade_Cronoestratigrafica
+Early Aptian;Unidade_Cronoestratigrafica
+Barremian;Unidade_Cronoestratigrafica
+Late Barremian;Unidade_Cronoestratigrafica
+Early Barremian;Unidade_Cronoestratigrafica
+Hauterivian;Unidade_Cronoestratigrafica
+Late Hauterivian;Unidade_Cronoestratigrafica
+Early Hauterivian;Unidade_Cronoestratigrafica
+Valanginian;Unidade_Cronoestratigrafica
+Late Valanginian;Unidade_Cronoestratigrafica
+Early Valanginian;Unidade_Cronoestratigrafica
+Berriasian;Unidade_Cronoestratigrafica
+Late Berriasian;Unidade_Cronoestratigrafica
+Middle Berriasian;Unidade_Cronoestratigrafica
+Early Berriasian;Unidade_Cronoestratigrafica
+Jurassic;Unidade_Cronoestratigrafica
+Late Jurassic;Unidade_Cronoestratigrafica
+Tithonian;Unidade_Cronoestratigrafica
+Late Tithonian;Unidade_Cronoestratigrafica
+Early Tithonian;Unidade_Cronoestratigrafica
+Kimmeridgian;Unidade_Cronoestratigrafica
+Late Kimmeridgian;Unidade_Cronoestratigrafica
+Early Kimmeridgian;Unidade_Cronoestratigrafica
+Oxfordian;Unidade_Cronoestratigrafica
+Late Oxfordian;Unidade_Cronoestratigrafica
+Middle Oxfordian;Unidade_Cronoestratigrafica
+Early Oxfordian;Unidade_Cronoestratigrafica
+Middle Jurassic;Unidade_Cronoestratigrafica
+Callovian;Unidade_Cronoestratigrafica
+Late Callovian;Unidade_Cronoestratigrafica
+Middle Callovian;Unidade_Cronoestratigrafica
+Early Callovian;Unidade_Cronoestratigrafica
+Bathonian;Unidade_Cronoestratigrafica
+Late Bathonian;Unidade_Cronoestratigrafica
+Middle Bathonian;Unidade_Cronoestratigrafica
+Early Bathonian;Unidade_Cronoestratigrafica
+Bajocian;Unidade_Cronoestratigrafica
+Late Bajocian;Unidade_Cronoestratigrafica
+Early Bajocian;Unidade_Cronoestratigrafica
+Aalenian;Unidade_Cronoestratigrafica
+Late Aalenian;Unidade_Cronoestratigrafica
+Middle Aalenian;Unidade_Cronoestratigrafica
+Early Aalenian;Unidade_Cronoestratigrafica
+Early Jurassic;Unidade_Cronoestratigrafica
+Toarcian;Unidade_Cronoestratigrafica
+Late Toarcian;Unidade_Cronoestratigrafica
+Early Toarcian;Unidade_Cronoestratigrafica
+Pliensbachian;Unidade_Cronoestratigrafica
+Late Pliensbachian;Unidade_Cronoestratigrafica
+Early Pliensbachian;Unidade_Cronoestratigrafica
+Sinemurian;Unidade_Cronoestratigrafica
+Late Sinemurian;Unidade_Cronoestratigrafica
+Early Sinemurian;Unidade_Cronoestratigrafica
+Hettangian;Unidade_Cronoestratigrafica
+Triassic;Unidade_Cronoestratigrafica
+Late Triassic;Unidade_Cronoestratigrafica
+Rhaetian;Unidade_Cronoestratigrafica
+Norian;Unidade_Cronoestratigrafica
+Sevatian;Unidade_Cronoestratigrafica
+Alaunian;Unidade_Cronoestratigrafica
+Lacian;Unidade_Cronoestratigrafica
+Carnian;Unidade_Cronoestratigrafica
+Tuvalian;Unidade_Cronoestratigrafica
+Julian;Unidade_Cronoestratigrafica
+Cordevolian;Unidade_Cronoestratigrafica
+Middle Triassic;Unidade_Cronoestratigrafica
+Ladinian;Unidade_Cronoestratigrafica
+Longobardian;Unidade_Cronoestratigrafica
+Fassanian;Unidade_Cronoestratigrafica
+Anisian;Unidade_Cronoestratigrafica
+Illyrian;Unidade_Cronoestratigrafica
+Pelsonian;Unidade_Cronoestratigrafica
+Bithynian;Unidade_Cronoestratigrafica
+Aegean;Unidade_Cronoestratigrafica
+Early Triassic;Unidade_Cronoestratigrafica
+Olenekian;Unidade_Cronoestratigrafica
+Spathian;Unidade_Cronoestratigrafica
+Smithian;Unidade_Cronoestratigrafica
+Induan;Unidade_Cronoestratigrafica
+Dienerian;Unidade_Cronoestratigrafica
+Griesbachian;Unidade_Cronoestratigrafica
+Paleozoic;Unidade_Cronoestratigrafica
+Permian;Unidade_Cronoestratigrafica
+Lopingian;Unidade_Cronoestratigrafica
+Changhsingian;Unidade_Cronoestratigrafica
+Wuchiapingian;Unidade_Cronoestratigrafica
+Guadalupian;Unidade_Cronoestratigrafica
+Capitanian;Unidade_Cronoestratigrafica
+Wordian;Unidade_Cronoestratigrafica
+Roadian;Unidade_Cronoestratigrafica
+Cisuralian;Unidade_Cronoestratigrafica
+Kungurian;Unidade_Cronoestratigrafica
+Artinskian;Unidade_Cronoestratigrafica
+Sakmarian;Unidade_Cronoestratigrafica
+Asselian;Unidade_Cronoestratigrafica
+Carboniferous;Unidade_Cronoestratigrafica
+Pennsylvanian;Unidade_Cronoestratigrafica
+Late Pennsylvanian;Unidade_Cronoestratigrafica
+Gzhelian;Unidade_Cronoestratigrafica
+Kasimovian;Unidade_Cronoestratigrafica
+Middle Pennsylvanian;Unidade_Cronoestratigrafica
+Moscovian;Unidade_Cronoestratigrafica
+Early Pennsylvanian;Unidade_Cronoestratigrafica
+Bashkirian;Unidade_Cronoestratigrafica
+Mississippian;Unidade_Cronoestratigrafica
+Late Mississippian;Unidade_Cronoestratigrafica
+Serpukhovian;Unidade_Cronoestratigrafica
+Middle Mississippian;Unidade_Cronoestratigrafica
+Visean;Unidade_Cronoestratigrafica
+Early Mississippian;Unidade_Cronoestratigrafica
+Tournaisian;Unidade_Cronoestratigrafica
+Devonian;Unidade_Cronoestratigrafica
+Late Devonian;Unidade_Cronoestratigrafica
+Famennian;Unidade_Cronoestratigrafica
+Late Famennian;Unidade_Cronoestratigrafica
+Early Famennian;Unidade_Cronoestratigrafica
+Frasnian;Unidade_Cronoestratigrafica
+Late Frasnian;Unidade_Cronoestratigrafica
+Middle Frasnian;Unidade_Cronoestratigrafica
+Early Frasnian;Unidade_Cronoestratigrafica
+Middle Devonian;Unidade_Cronoestratigrafica
+Givetian;Unidade_Cronoestratigrafica
+Late Givetian;Unidade_Cronoestratigrafica
+Middle Givetian;Unidade_Cronoestratigrafica
+Early Givetian;Unidade_Cronoestratigrafica
+Eifelian;Unidade_Cronoestratigrafica
+Early Devonian;Unidade_Cronoestratigrafica
+Emsian;Unidade_Cronoestratigrafica
+Pragian;Unidade_Cronoestratigrafica
+Lochkovian;Unidade_Cronoestratigrafica
+Silurian;Unidade_Cronoestratigrafica
+Pridoli;Unidade_Cronoestratigrafica
+Ludlow;Unidade_Cronoestratigrafica
+Ludfordian;Unidade_Cronoestratigrafica
+Gorstian;Unidade_Cronoestratigrafica
+Wenlock;Unidade_Cronoestratigrafica
+Homerian;Unidade_Cronoestratigrafica
+Sheinwoodian;Unidade_Cronoestratigrafica
+Llandovery;Unidade_Cronoestratigrafica
+Telychian;Unidade_Cronoestratigrafica
+Aeronian;Unidade_Cronoestratigrafica
+Rhuddanian;Unidade_Cronoestratigrafica
+Ordovician;Unidade_Cronoestratigrafica
+Late Ordovician;Unidade_Cronoestratigrafica
+Hirnantian;Unidade_Cronoestratigrafica
+Katian;Unidade_Cronoestratigrafica
+Sandbian;Unidade_Cronoestratigrafica
+Middle Ordovician;Unidade_Cronoestratigrafica
+Darriwilian;Unidade_Cronoestratigrafica
+Dapingian;Unidade_Cronoestratigrafica
+Early Ordovician;Unidade_Cronoestratigrafica
+Floian;Unidade_Cronoestratigrafica
+Tremadocian;Unidade_Cronoestratigrafica
+Cambrian;Unidade_Cronoestratigrafica
+Furongian;Unidade_Cronoestratigrafica
+Age 10;Unidade_Cronoestratigrafica
+Jiangshanian;Unidade_Cronoestratigrafica
+Paibian;Unidade_Cronoestratigrafica
+Epoch 3;Unidade_Cronoestratigrafica
+Guzhangian;Unidade_Cronoestratigrafica
+Drumian;Unidade_Cronoestratigrafica
+Age 5;Unidade_Cronoestratigrafica
+Epoch 2;Unidade_Cronoestratigrafica
+Age 4;Unidade_Cronoestratigrafica
+Age 3;Unidade_Cronoestratigrafica
+Terreneuvian;Unidade_Cronoestratigrafica
+Age 2;Unidade_Cronoestratigrafica
+Fortunian;Unidade_Cronoestratigrafica
+Proterozoic;Unidade_Cronoestratigrafica
+Neoproterozoic;Unidade_Cronoestratigrafica
+Ediacaran;Unidade_Cronoestratigrafica
+Cryogenian;Unidade_Cronoestratigrafica
+Tonian;Unidade_Cronoestratigrafica
+Mesoproterozoic;Unidade_Cronoestratigrafica
+Stenian;Unidade_Cronoestratigrafica
+Ectasian;Unidade_Cronoestratigrafica
+Calymmian;Unidade_Cronoestratigrafica
+Paleoproterozoic;Unidade_Cronoestratigrafica
+Statherian;Unidade_Cronoestratigrafica
+Orosirian;Unidade_Cronoestratigrafica
+Rhyacian;Unidade_Cronoestratigrafica
+Siderian;Unidade_Cronoestratigrafica
+Archean;Unidade_Cronoestratigrafica
+Neoarchean;Unidade_Cronoestratigrafica
+Mesoarchean;Unidade_Cronoestratigrafica
+Paleoarchean;Unidade_Cronoestratigrafica
+Eoarchean;Unidade_Cronoestratigrafica
+Hadean;Unidade_Cronoestratigrafica
